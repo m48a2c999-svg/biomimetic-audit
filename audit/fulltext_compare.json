@@ -1,0 +1,76 @@
+{
+ "n": 18,
+ "note": "공개 접근 원문 46편 시도, 20편 확보, 판독 불가 2편 제외",
+ "B1": {
+  "abstract": 8,
+  "fulltext": 15,
+  "abs_pct": 44.4,
+  "ft_pct": 83.3,
+  "added_by_ft": 7,
+  "removed_by_ft": 0
+ },
+ "B2>=1": {
+  "abstract": 6,
+  "fulltext": 12,
+  "abs_pct": 33.3,
+  "ft_pct": 66.7,
+  "added_by_ft": 6,
+  "removed_by_ft": 0
+ },
+ "B2=2": {
+  "abstract": 3,
+  "fulltext": 7,
+  "abs_pct": 16.7,
+  "ft_pct": 38.9,
+  "added_by_ft": 4,
+  "removed_by_ft": 0
+ },
+ "T1": {
+  "abstract": 2,
+  "fulltext": 3,
+  "abs_pct": 11.1,
+  "ft_pct": 16.7,
+  "added_by_ft": 1,
+  "removed_by_ft": 0
+ },
+ "E>=2": {
+  "abstract": 10,
+  "fulltext": 12,
+  "abs_pct": 55.6,
+  "ft_pct": 66.7,
+  "added_by_ft": 2,
+  "removed_by_ft": 0
+ },
+ "Q": {
+  "abstract": 3,
+  "fulltext": 4,
+  "abs_pct": 16.7,
+  "ft_pct": 22.2,
+  "added_by_ft": 1,
+  "removed_by_ft": 0
+ },
+ "R>=1": {
+  "abstract": 5,
+  "fulltext": 10,
+  "abs_pct": 27.8,
+  "ft_pct": 55.6,
+  "added_by_ft": 5,
+  "removed_by_ft": 0
+ },
+ "R=3": {
+  "abstract": 1,
+  "fulltext": 3,
+  "abs_pct": 5.6,
+  "ft_pct": 16.7,
+  "added_by_ft": 2,
+  "removed_by_ft": 0
+ },
+ "S2=2": {
+  "abstract": 2,
+  "fulltext": 3,
+  "abs_pct": 11.1,
+  "ft_pct": 16.7,
+  "added_by_ft": 1,
+  "removed_by_ft": 0
+ }
+}
