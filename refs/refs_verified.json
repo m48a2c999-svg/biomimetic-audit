@@ -1097,35 +1097,32 @@
  {
   "key": "Mathews2019",
   "type": "J",
-  "doi": "",
+  "doi": "10.3197/096327119X15579936382400",
   "title": "Biomimicry and the problem of praxis",
   "year": 2019,
   "first_author": "Mathews",
   "container": "Environmental Values",
-  "candidates": [
-   {
-    "doi": "10.3197/096327119x15579936382400",
-    "title": "Biomimicry and the Problem of Praxis",
-    "year": 2019,
-    "container": "Environmental Values",
-    "ratio": 1.0
-   },
-   {
-    "doi": "10.1111/1559-8918.2016.01112",
-    "title": "Biomimicry: Learnings from ‘The Field’",
-    "year": 2016,
-    "container": "Ethnographic Praxis in Industry Conference Proceedings",
-    "ratio": 0.516
-   },
-   {
-    "doi": "10.1177/1086026611425689",
-    "title": "Towards a Deeper Philosophy of Biomimicry",
-    "year": 2011,
-    "container": "Organization &amp; Environment",
-    "ratio": 0.299
-   }
+  "cr_title": "Biomimicry and the Problem of Praxis",
+  "cr_year": 2019,
+  "cr_year_online": 2019,
+  "cr_year_print": 2019,
+  "cr_container": "Environmental Values",
+  "cr_volume": "28",
+  "cr_issue": "5",
+  "cr_page": "573-600",
+  "cr_article_number": null,
+  "cr_authors": [
+   "Mathews, Freya"
   ],
-  "status": "candidate"
+  "cr_publisher": "SAGE Publications",
+  "cr_type": "journal-article",
+  "cr_updated_by": [],
+  "cr_update_to": [],
+  "oa_is_retracted": false,
+  "title_ratio": 1.0,
+  "author_match": true,
+  "year_match": true,
+  "status": "ok"
  },
  {
   "key": "Blok2016",
@@ -1646,14 +1643,14 @@
   "container": "ACSA 100th Annual Meeting Proceedings",
   "candidates": [
    {
-    "doi": "10.1021/acsami.5c25801.s001",
+    "doi": "10.1021/acsami.5c25801.s002",
     "title": "Isotropically Robust Hydrogel with Biomimetic Multilayer Fibrous Architecture",
     "year": null,
     "container": "",
     "ratio": 0.508
    },
    {
-    "doi": "10.1021/acsami.5c25801.s002",
+    "doi": "10.1021/acsami.5c25801.s001",
     "title": "Isotropically Robust Hydrogel with Biomimetic Multilayer Fibrous Architecture",
     "year": null,
     "container": "",
@@ -1944,35 +1941,32 @@
  {
   "key": "Bensaude-Vincent2019",
   "type": "J",
-  "doi": "",
+  "doi": "10.3197/096327119X15579936382392",
   "title": "Bio-informed emerging technologies and their relation to the sustainability aims of biomimicry",
   "year": 2019,
   "first_author": "Bensaude-Vincent",
   "container": "Environmental Values",
-  "candidates": [
-   {
-    "doi": "10.3197/096327119x15579936382392",
-    "title": "Bio-Informed Emerging Technologies and Their Relation to the Sustainability Aims of Biomimicry",
-    "year": 2019,
-    "container": "Environmental Values",
-    "ratio": 1.0
-   },
-   {
-    "doi": "10.4000/13xnp",
-    "title": "Matériaux pour paysager les techniques",
-    "year": 2025,
-    "container": "Sciences en récits",
-    "ratio": 0.224
-   },
-   {
-    "doi": "10.4000/13xn7",
-    "title": "À l’école de Bernadette Bensaude-Vincent",
-    "year": 2025,
-    "container": "Sciences en récits",
-    "ratio": 0.19
-   }
+  "cr_title": "Bio-Informed Emerging Technologies and Their Relation to the Sustainability Aims of Biomimicry",
+  "cr_year": 2019,
+  "cr_year_online": 2019,
+  "cr_year_print": 2019,
+  "cr_container": "Environmental Values",
+  "cr_volume": "28",
+  "cr_issue": "5",
+  "cr_page": "551-571",
+  "cr_article_number": null,
+  "cr_authors": [
+   "Bensaude-Vincent, Bernadette"
   ],
-  "status": "candidate"
+  "cr_publisher": "SAGE Publications",
+  "cr_type": "journal-article",
+  "cr_updated_by": [],
+  "cr_update_to": [],
+  "oa_is_retracted": false,
+  "title_ratio": 1.0,
+  "author_match": true,
+  "year_match": true,
+  "status": "ok"
  },
  {
   "key": "Page2021",
@@ -2269,19 +2263,19 @@
  {
   "key": "Bonabeau1996",
   "type": "J",
-  "doi": "10.1098/rspb.1996.0214",
+  "doi": "10.1098/rspb.1996.0229",
   "title": "Quantitative study of the fixed threshold model for the regulation of division of labour in insect societies",
   "year": 1996,
   "first_author": "Bonabeau",
   "container": "Proceedings of the Royal Society B",
-  "cr_title": "Ancient DNA suggests a recent expansion of European cattle from a diverse wild progenitor species",
+  "cr_title": "Quantitative study of the fixed threshold model for the regulation of division of labour in insect societies",
   "cr_year": 1996,
   "cr_year_online": 1997,
   "cr_year_print": 1996,
   "cr_container": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
   "cr_volume": "263",
   "cr_issue": "1376",
-  "cr_page": "1467-1473",
+  "cr_page": "1565-1569",
   "cr_article_number": null,
   "cr_authors": [],
   "cr_publisher": "The Royal Society",
@@ -2289,9 +2283,9 @@
   "cr_updated_by": [],
   "cr_update_to": [],
   "oa_is_retracted": false,
-  "title_ratio": 0.354,
+  "title_ratio": 1.0,
   "author_match": false,
   "year_match": true,
-  "status": "check"
+  "status": "ok"
  }
 ]
