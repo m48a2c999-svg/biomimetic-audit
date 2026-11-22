@@ -1,0 +1,9 @@
+{
+ "query": "(\"biomimetic\" | \"biomimicry\" | \"biomimetics\" | \"bio-inspired\" | \"bioinspired\" | \"nature-inspired\" | \"biologically inspired\" | \"bionic\") + (facade | façade | facades | \"building envelope\" | \"building envelopes\" | \"building skin\" | \"building skins\" | \"shading device\" | \"shading system\" | \"adaptive skin\" | \"kinetic facade\" | \"climate adaptive building shell\")",
+ "year": "2000-2026",
+ "retrieved_utc": "2026-11-22T16:25:58",
+ "s2_total": 443,
+ "s2_written": 443,
+ "abstract_lookup": 68,
+ "abstract_found": 9
+}
