@@ -27,7 +27,7 @@ def get(url, tries=5):
                 return json.loads(r.read().decode("utf-8"))
         except Exception as e:  # noqa
             print("retry", k, e, file=sys.stderr)
-            time.sleep(3 * (k + 1))
+            time.sleep(5 * (k + 1))
     raise RuntimeError(url)
 
 
@@ -41,32 +41,57 @@ def abstract(inv):
     return " ".join(w for _, w in sorted(pos))
 
 
+def page(flt):
+    params = {"filter": flt, "per-page": 200, "page": 1, "select": SELECT}
+    if MAILTO:
+        params["mailto"] = MAILTO
+    time.sleep(1.2)
+    return get("https://api.openalex.org/works?" + urllib.parse.urlencode(params))
+
+
+def windows():
+    """커서 없이 1쪽(200건) 안에 들도록 기간을 나눈다: 연 단위 → 넘치면 월 단위."""
+    for y in range(int(DATE_FROM[:4]), int(DATE_TO[:4]) + 1):
+        a, b = f"{y}-01-01", min(f"{y}-12-31", DATE_TO)
+        yield a, b
+
+
 def main(out="audit/raw/openalex.jsonl"):
     os.makedirs(os.path.dirname(out), exist_ok=True)
-    flt = (f"title_and_abstract.search:{QUERY},from_publication_date:{DATE_FROM},"
-           f"to_publication_date:{DATE_TO},type:{TYPES}")
-    cursor, n, total = "*", 0, None
+    base = f"title_and_abstract.search:{QUERY},type:{TYPES}"
+    seen, n, total, log = set(), 0, 0, []
     with open(out, "w", encoding="utf-8") as f:
-        while cursor:
-            params = {"filter": flt, "per-page": 200, "cursor": cursor, "select": SELECT}
-            if MAILTO:
-                params["mailto"] = MAILTO
-            d = get("https://api.openalex.org/works?" + urllib.parse.urlencode(params))
-            if total is None:
-                total = d["meta"]["count"]
-            for w in d["results"]:
+        for a, b in windows():
+            spans = [(a, b)]
+            d = page(base + f",from_publication_date:{a},to_publication_date:{b}")
+            cnt = d["meta"]["count"]
+            if cnt > 200:
+                import calendar
+                y = int(a[:4])
+                spans = [(f"{y}-{m:02d}-01", f"{y}-{m:02d}-{calendar.monthrange(y, m)[1]:02d}") for m in range(1, 13)]
+                spans = [(x, min(z, DATE_TO)) for x, z in spans if x <= DATE_TO]
+                results = []
+                for x, z in spans:
+                    dd = page(base + f",from_publication_date:{x},to_publication_date:{z}")
+                    if dd["meta"]["count"] > 200:
+                        print("WARN month over 200", x, dd["meta"]["count"], file=sys.stderr)
+                    results += dd["results"]
+            else:
+                results = d["results"]
+            total += cnt
+            log.append({"from": a, "to": b, "count": cnt, "got": len(results)})
+            for w in results:
+                if w["id"] in seen:
+                    continue
+                seen.add(w["id"])
                 w["abstract"] = abstract(w.pop("abstract_inverted_index", None))
                 f.write(json.dumps(w, ensure_ascii=False) + "\n")
                 n += 1
-            cursor = d["meta"].get("next_cursor")
-            if not d["results"]:
-                break
-            time.sleep(0.2)
-    meta = {"query": QUERY, "filter": flt, "date_from": DATE_FROM, "date_to": DATE_TO, "types": TYPES,
+    meta = {"query": QUERY, "filter_base": base, "date_from": DATE_FROM, "date_to": DATE_TO, "types": TYPES,
             "retrieved_utc": datetime.datetime.utcnow().isoformat(timespec="seconds"),
-            "openalex_count": total, "written": n}
+            "openalex_count_sum": total, "written_unique": n, "windows": log}
     json.dump(meta, open("audit/raw/openalex_meta.json", "w"), ensure_ascii=False, indent=1)
-    print(meta)
+    print(n, total)
 
 
 if __name__ == "__main__":
