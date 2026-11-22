@@ -4,7 +4,7 @@ on:
   push:
     paths: ["audit/oa_targets.json", "audit/oa_snippets.py", ".github/workflows/snippets.yml"]
 permissions:
-  contents: read
+  contents: write
 jobs:
   snip:
     runs-on: ubuntu-latest
@@ -13,5 +13,13 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
       - run: sudo apt-get -qq install -y poppler-utils >/dev/null && python audit/oa_snippets.py
-      - uses: actions/upload-artifact@v4
-        with: {name: oa-snippets, path: audit/snippets/, retention-days: 7}
+      - name: Encrypt snippets (only the researcher's private key can read them; full texts are not stored)
+        run: |
+          tar czf /tmp/s.tgz -C audit snippets
+          openssl rand -out /tmp/k.bin 32
+          openssl enc -aes-256-cbc -pbkdf2 -salt -in /tmp/s.tgz -out /tmp/s.enc -pass file:/tmp/k.bin
+          openssl pkeyutl -encrypt -pubin -inkey audit/snip_pub.pem -in /tmp/k.bin -out /tmp/k.enc
+          git config user.name "audit-bot"; git config user.email "audit-bot@users.noreply.github.com"
+          git checkout --orphan snippets-enc
+          git rm -rfq --cached . ; mkdir -p enc; cp /tmp/s.enc /tmp/k.enc enc/
+          git add enc; git commit -qm "encrypted snippets"; git push -f origin snippets-enc
