@@ -1,0 +1,35 @@
+name: fetch
+on:
+  workflow_dispatch:
+  push:
+    paths: ["audit/fetch_openalex.py", "refs/refs_input.json", ".github/workflows/fetch.yml", "audit/oa_targets.json"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - name: OpenAlex corpus
+        run: python audit/fetch_openalex.py
+      - name: Crossref reference check
+        run: |
+          if [ -f refs/refs_input.json ]; then python refs/verify_crossref.py; fi
+      - name: Open-access full-text snippets (artifact only, not committed)
+        run: |
+          if [ -f audit/oa_targets.json ]; then sudo apt-get -qq install -y poppler-utils >/dev/null; python audit/oa_snippets.py; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: oa-snippets
+          path: audit/snippets/
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Commit data
+        run: |
+          git config user.name "audit-bot"; git config user.email "audit-bot@users.noreply.github.com"
+          git add audit/raw refs/refs_verified.json 2>/dev/null || true
+          git commit -m "data: OpenAlex corpus and reference check" || echo "nothing to commit"
+          git push

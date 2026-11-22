@@ -1,0 +1,542 @@
+[
+ {
+  "key": "Benyus1997",
+  "type": "B",
+  "doi": "",
+  "title": "Biomimicry: Innovation inspired by nature",
+  "year": 1997,
+  "first_author": "Benyus",
+  "container": "William Morrow"
+ },
+ {
+  "key": "ISO2015",
+  "type": "S",
+  "doi": "",
+  "title": "ISO 18458:2015 Biomimetics — Terminology, concepts and methodology",
+  "year": 2015,
+  "first_author": "ISO",
+  "container": "International Organization for Standardization"
+ },
+ {
+  "key": "Vincent2006",
+  "type": "J",
+  "doi": "10.1098/rsif.2006.0127",
+  "title": "Biomimetics: its practice and theory",
+  "year": 2006,
+  "first_author": "Vincent",
+  "container": "Journal of the Royal Society Interface"
+ },
+ {
+  "key": "Helms2009",
+  "type": "J",
+  "doi": "10.1016/j.destud.2009.04.003",
+  "title": "Biologically inspired design: process and products",
+  "year": 2009,
+  "first_author": "Helms",
+  "container": "Design Studies"
+ },
+ {
+  "key": "Fayemi2017",
+  "type": "J",
+  "doi": "10.1088/1748-3190/12/1/011002",
+  "title": "Biomimetics: process, tools and practice",
+  "year": 2017,
+  "first_author": "Fayemi",
+  "container": "Bioinspiration & Biomimetics"
+ },
+ {
+  "key": "Lepora2013",
+  "type": "J",
+  "doi": "10.1088/1748-3182/8/1/013001",
+  "title": "The state of the art in biomimetics",
+  "year": 2013,
+  "first_author": "Lepora",
+  "container": "Bioinspiration & Biomimetics"
+ },
+ {
+  "key": "Speck2017",
+  "type": "J",
+  "doi": "10.1088/1748-3190/12/1/011004",
+  "title": "Biomimetic bio-inspired biomorph sustainable? An attempt to classify and clarify biology-derived technical developments",
+  "year": 2017,
+  "first_author": "Speck",
+  "container": "Bioinspiration & Biomimetics"
+ },
+ {
+  "key": "PedersenZari2007",
+  "type": "C",
+  "doi": "",
+  "title": "Biomimetic approaches to architectural design for increased sustainability",
+  "year": 2007,
+  "first_author": "Pedersen Zari",
+  "container": "Sustainable Building Conference (SB07), Auckland"
+ },
+ {
+  "key": "Badarnah2015",
+  "type": "J",
+  "doi": "10.1080/00038628.2014.922458",
+  "title": "A methodology for the generation of biomimetic design concepts",
+  "year": 2015,
+  "first_author": "Badarnah",
+  "container": "Architectural Science Review"
+ },
+ {
+  "key": "Badarnah2017",
+  "type": "J",
+  "doi": "10.3390/buildings7020040",
+  "title": "Form follows environment: Biomimetic approaches to building envelope design for environmental adaptation",
+  "year": 2017,
+  "first_author": "Badarnah",
+  "container": "Buildings"
+ },
+ {
+  "key": "Gruber2011",
+  "type": "B",
+  "doi": "10.1007/978-3-7091-0332-6",
+  "title": "Biomimetics in architecture: Architecture of life and buildings",
+  "year": 2011,
+  "first_author": "Gruber",
+  "container": "Springer"
+ },
+ {
+  "key": "Knippers2012",
+  "type": "J",
+  "doi": "10.1088/1748-3182/7/1/015002",
+  "title": "Design and construction principles in nature and architecture",
+  "year": 2012,
+  "first_author": "Knippers",
+  "container": "Bioinspiration & Biomimetics"
+ },
+ {
+  "key": "Chayaamor-Heil2023",
+  "type": "J",
+  "doi": "10.3390/encyclopedia3010014",
+  "title": "From bioinspiration to biomimicry in architecture: Opportunities and challenges",
+  "year": 2023,
+  "first_author": "Chayaamor-Heil",
+  "container": "Encyclopedia"
+ },
+ {
+  "key": "Loonen2013",
+  "type": "J",
+  "doi": "10.1016/j.rser.2013.04.016",
+  "title": "Climate adaptive building shells: State-of-the-art and future challenges",
+  "year": 2013,
+  "first_author": "Loonen",
+  "container": "Renewable and Sustainable Energy Reviews"
+ },
+ {
+  "key": "Al-Obaidi2017",
+  "type": "J",
+  "doi": "10.1016/j.rser.2017.05.028",
+  "title": "Biomimetic building skins: An adaptive approach",
+  "year": 2017,
+  "first_author": "Al-Obaidi",
+  "container": "Renewable and Sustainable Energy Reviews"
+ },
+ {
+  "key": "Lopez2017",
+  "type": "J",
+  "doi": "10.1016/j.rser.2016.09.018",
+  "title": "How plants inspire façades. From plants to architecture: Biomimetic principles for the development of adaptive architectural envelopes",
+  "year": 2017,
+  "first_author": "López",
+  "container": "Renewable and Sustainable Energy Reviews"
+ },
+ {
+  "key": "Kuru2019",
+  "type": "J",
+  "doi": "10.1016/j.enbuild.2019.109544",
+  "title": "Biomimetic adaptive building skins: Energy and environmental regulation in buildings",
+  "year": 2019,
+  "first_author": "Kuru",
+  "container": "Energy and Buildings"
+ },
+ {
+  "key": "Kuru2020",
+  "type": "J",
+  "doi": "10.3390/buildings10070114",
+  "title": "A framework to achieve multifunctionality in biomimetic adaptive building skins",
+  "year": 2020,
+  "first_author": "Kuru",
+  "container": "Buildings"
+ },
+ {
+  "key": "Sommese2022",
+  "type": "J",
+  "doi": "10.1016/j.rser.2022.112850",
+  "title": "A critical review of biomimetic building envelopes: Towards a bio-adaptive model from nature to architecture",
+  "year": 2022,
+  "first_author": "Sommese",
+  "container": "Renewable and Sustainable Energy Reviews"
+ },
+ {
+  "key": "Sommese2023",
+  "type": "J",
+  "doi": "10.1016/j.rser.2023.113847",
+  "title": "Smart materials for biomimetic building envelopes: Current trends and potential applications",
+  "year": 2023,
+  "first_author": "Sommese",
+  "container": "Renewable and Sustainable Energy Reviews"
+ },
+ {
+  "key": "Jalali2025",
+  "type": "J",
+  "doi": "10.1016/j.rser.2025.115586",
+  "title": "Biomimetic adaptive solar building envelopes: Trends, challenges, and opportunities for sustainable applications",
+  "year": 2025,
+  "first_author": "Jalali",
+  "container": "Renewable and Sustainable Energy Reviews"
+ },
+ {
+  "key": "Shi2026",
+  "type": "J",
+  "doi": "10.1016/j.ynexs.2026.100173",
+  "title": "Nature as architect: Global performance evidence for building biomimetics across climates",
+  "year": 2026,
+  "first_author": "Shi",
+  "container": "Nexus"
+ },
+ {
+  "key": "Reichert2015",
+  "type": "J",
+  "doi": "10.1016/j.cad.2014.02.010",
+  "title": "Meteorosensitive architecture: Biomimetic building skins based on materially embedded and hydraulically actuated responsiveness",
+  "year": 2015,
+  "first_author": "Reichert",
+  "container": "Computer-Aided Design"
+ },
+ {
+  "key": "Lienhard2011",
+  "type": "J",
+  "doi": "10.1088/1748-3182/6/4/045001",
+  "title": "Flectofin: a hingeless flapping mechanism inspired by nature",
+  "year": 2011,
+  "first_author": "Lienhard",
+  "container": "Bioinspiration & Biomimetics"
+ },
+ {
+  "key": "Schleicher2015",
+  "type": "J",
+  "doi": "10.1016/j.cad.2014.01.005",
+  "title": "A methodology for transferring principles of plant movements to elastic systems in architecture",
+  "year": 2015,
+  "first_author": "Schleicher",
+  "container": "Computer-Aided Design"
+ },
+ {
+  "key": "Sheikh2019",
+  "type": "J",
+  "doi": "10.1016/j.foar.2019.06.001",
+  "title": "Adaptive biomimetic facades: Enhancing energy efficiency of highly glazed buildings",
+  "year": 2019,
+  "first_author": "Sheikh",
+  "container": "Frontiers of Architectural Research"
+ },
+ {
+  "key": "Hosseini2021",
+  "type": "J",
+  "doi": "10.1016/j.foar.2021.07.004",
+  "title": "Bio-inspired interactive kinetic façade: Using dynamic transitory-sensitive area to improve multiple occupants' visual comfort",
+  "year": 2021,
+  "first_author": "Hosseini",
+  "container": "Frontiers of Architectural Research"
+ },
+ {
+  "key": "Vailati2018",
+  "type": "J",
+  "doi": "10.1016/j.enbuild.2017.10.042",
+  "title": "An autonomous shading system based on coupled wood bilayer elements",
+  "year": 2018,
+  "first_author": "Vailati",
+  "container": "Energy and Buildings"
+ },
+ {
+  "key": "Cheng2024",
+  "type": "J",
+  "doi": "10.1038/s41467-024-54808-8",
+  "title": "Weather-responsive adaptive shading through biobased and bioinspired hygromorphic 4D-printing",
+  "year": 2024,
+  "first_author": "Cheng",
+  "container": "Nature Communications"
+ },
+ {
+  "key": "Alhafnawi2026",
+  "type": "J",
+  "doi": "10.1126/scirobotics.ady7233",
+  "title": "Architectural swarms for responsive façades and creative expression",
+  "year": 2026,
+  "first_author": "Alhafnawi",
+  "container": "Science Robotics"
+ },
+ {
+  "key": "Antony2016",
+  "type": "J",
+  "doi": "10.3762/bjnano.7.200",
+  "title": "The cleaner, the greener? Product sustainability assessment of the biomimetic façade paint Lotusan® in comparison to the conventional façade paint Jumbosil®",
+  "year": 2016,
+  "first_author": "Antony",
+  "container": "Beilstein Journal of Nanotechnology"
+ },
+ {
+  "key": "Vitalis2022",
+  "type": "J",
+  "doi": "10.1016/j.foar.2021.10.001",
+  "title": "Forcing biological sciences into architectural design: On conceptual confusions in the field of biomimetic architecture",
+  "year": 2022,
+  "first_author": "Vitalis",
+  "container": "Frontiers of Architectural Research"
+ },
+ {
+  "key": "Chayaamor-Heil2021",
+  "type": "J",
+  "doi": "10.1016/j.foar.2020.10.002",
+  "title": "Biology and architecture: An ongoing hybridization of scientific knowledge and design practice by six architectural offices in France",
+  "year": 2021,
+  "first_author": "Chayaamor-Heil",
+  "container": "Frontiers of Architectural Research"
+ },
+ {
+  "key": "Mathews2011",
+  "type": "J",
+  "doi": "10.1177/1086026611425689",
+  "title": "Towards a deeper philosophy of biomimicry",
+  "year": 2011,
+  "first_author": "Mathews",
+  "container": "Organization & Environment"
+ },
+ {
+  "key": "Mathews2019",
+  "type": "J",
+  "doi": "10.3197/096327119X15579936382518",
+  "title": "Biomimicry and the problem of praxis",
+  "year": 2019,
+  "first_author": "Mathews",
+  "container": "Environmental Values"
+ },
+ {
+  "key": "Blok2016",
+  "type": "J",
+  "doi": "10.1007/s10806-015-9596-1",
+  "title": "Ecological innovation: Biomimicry as a new way of thinking and acting ecologically",
+  "year": 2016,
+  "first_author": "Blok",
+  "container": "Journal of Agricultural and Environmental Ethics"
+ },
+ {
+  "key": "Dicks2016",
+  "type": "J",
+  "doi": "10.1007/s13347-015-0210-2",
+  "title": "The philosophy of biomimicry",
+  "year": 2016,
+  "first_author": "Dicks",
+  "container": "Philosophy & Technology"
+ },
+ {
+  "key": "Gerola2023",
+  "type": "J",
+  "doi": "10.1007/s13347-023-00665-0",
+  "title": "What does it mean to mimic nature? A typology for biomimetic design",
+  "year": 2023,
+  "first_author": "Gerola",
+  "container": "Philosophy & Technology"
+ },
+ {
+  "key": "Fisch2017",
+  "type": "J",
+  "doi": "10.1177/0162243916689599",
+  "title": "The nature of biomimicry: Toward a novel technological culture",
+  "year": 2017,
+  "first_author": "Fisch",
+  "container": "Science, Technology, & Human Values"
+ },
+ {
+  "key": "MacKinnon2020",
+  "type": "J",
+  "doi": "10.3390/biomimetics5030033",
+  "title": "Promises and presuppositions of biomimicry",
+  "year": 2020,
+  "first_author": "MacKinnon",
+  "container": "Biomimetics"
+ },
+ {
+  "key": "Mead2020",
+  "type": "J",
+  "doi": "10.3390/biomimetics5040060",
+  "title": "Navigating the tower of Babel: The epistemological shift of bioinspired innovation",
+  "year": 2020,
+  "first_author": "Mead",
+  "container": "Biomimetics"
+ },
+ {
+  "key": "Ilieva2022",
+  "type": "J",
+  "doi": "10.3390/biomimetics7020037",
+  "title": "Biomimicry as a sustainable design methodology—Introducing the 'Biomimicry for Sustainability' framework",
+  "year": 2022,
+  "first_author": "Ilieva",
+  "container": "Biomimetics"
+ },
+ {
+  "key": "Jones2024",
+  "type": "J",
+  "doi": "10.3390/biomimetics9080470",
+  "title": "Opinion: Applications of and barriers to the use of biomimicry towards a sustainable architectural, engineering and construction industry based on interviews from experts and practitioners in the field",
+  "year": 2024,
+  "first_author": "Jones",
+  "container": "Biomimetics"
+ },
+ {
+  "key": "Gorki2025",
+  "type": "J",
+  "doi": "10.3390/biomimetics10020086",
+  "title": "Challenging the biomimetic promise—Do laypersons perceive biomimetic buildings as more sustainable and more acceptable?",
+  "year": 2025,
+  "first_author": "Gorki",
+  "container": "Biomimetics"
+ },
+ {
+  "key": "Bialkiewicz2024a",
+  "type": "J",
+  "doi": "10.24425/tkuia.2024.152979",
+  "title": "Will biomimetic architecture replace architectural creation?",
+  "year": 2024,
+  "first_author": "Białkiewicz",
+  "container": "Teka Komisji Urbanistyki i Architektury O/PAN w Krakowie"
+ },
+ {
+  "key": "Bialkiewicz2024b",
+  "type": "J",
+  "doi": "10.37190/arc240310",
+  "title": "Biomimetics and biomimicry. Their role as a tool and ideology in contemporary architecture",
+  "year": 2024,
+  "first_author": "Białkiewicz",
+  "container": "Architectus"
+ },
+ {
+  "key": "McCormick2024",
+  "type": "J",
+  "doi": "10.17831/enqarcc.v21i2.1241",
+  "title": "Navigating a climate in crisis through a biomimetic epistemology: Rethinking design education in the Anthropocene",
+  "year": 2024,
+  "first_author": "McCormick",
+  "container": "Enquiry: The ARCC Journal for Architectural Research"
+ },
+ {
+  "key": "Graeff2019",
+  "type": "J",
+  "doi": "10.1080/09544828.2019.1642462",
+  "title": "Biomimetics, where are the biologists?",
+  "year": 2019,
+  "first_author": "Graeff",
+  "container": "Journal of Engineering Design"
+ },
+ {
+  "key": "Graeff2020",
+  "type": "J",
+  "doi": "10.3390/biomimetics5040062",
+  "title": "Biological practices and fields, missing pieces of the biomimetics' methodological puzzle",
+  "year": 2020,
+  "first_author": "Graeff",
+  "container": "Biomimetics"
+ },
+ {
+  "key": "Snell-Rood2016",
+  "type": "J",
+  "doi": "10.1038/529277a",
+  "title": "Interdisciplinarity: Bring biologists into biomimetics",
+  "year": 2016,
+  "first_author": "Snell-Rood",
+  "container": "Nature"
+ },
+ {
+  "key": "Ng2021",
+  "type": "J",
+  "doi": "10.3389/fevo.2021.790270",
+  "title": "From bioinspired to bioinformed: Benefits of greater engagement from biologists",
+  "year": 2021,
+  "first_author": "Ng",
+  "container": "Frontiers in Ecology and Evolution"
+ },
+ {
+  "key": "Buzzell2012",
+  "type": "C",
+  "doi": "",
+  "title": "Evaluating progressivism: A critique of biomimetic architecture",
+  "year": 2012,
+  "first_author": "Buzzell",
+  "container": "ACSA 100th Annual Meeting Proceedings"
+ },
+ {
+  "key": "Lee2016KR",
+  "type": "J",
+  "doi": "",
+  "title": "생체원리를 적용한 건물 외피 시스템의 특성에 관한 연구",
+  "year": 2016,
+  "first_author": "이정원",
+  "container": "대한건축학회연합논문집, 18(1), 111-120"
+ },
+ {
+  "key": "Kim2018KR",
+  "type": "J",
+  "doi": "",
+  "title": "생체모방의 건축적 적용을 위한 프로세스",
+  "year": 2018,
+  "first_author": "김종무",
+  "container": "대한건축학회논문집 계획계, 34(12), 77-84"
+ },
+ {
+  "key": "Kang2022KR",
+  "type": "J",
+  "doi": "",
+  "title": "바이오미미크리 건축계획 과정의 체계화 및 웹기반 정보시스템의 개발에 관한 연구",
+  "year": 2022,
+  "first_author": "강준경",
+  "container": ""
+ },
+ {
+  "key": "Attia2018",
+  "type": "J",
+  "doi": "10.1016/j.enbuild.2018.09.017",
+  "title": "Current trends and future challenges in the performance assessment of adaptive façade systems",
+  "year": 2018,
+  "first_author": "Attia",
+  "container": "Energy and Buildings"
+ },
+ {
+  "key": "vonGleich2010",
+  "type": "B",
+  "doi": "10.1007/978-3-642-05246-0",
+  "title": "Potentials and trends in biomimetics",
+  "year": 2010,
+  "first_author": "von Gleich",
+  "container": "Springer"
+ },
+ {
+  "key": "Reap2005",
+  "type": "C",
+  "doi": "10.1115/IMECE2005-81343",
+  "title": "Holism, biomimicry and sustainable engineering",
+  "year": 2005,
+  "first_author": "Reap",
+  "container": "ASME International Mechanical Engineering Congress and Exposition"
+ },
+ {
+  "key": "Kennedy2015",
+  "type": "J",
+  "doi": "10.1162/DESI_a_00339",
+  "title": "Biomimicry: A path to sustainable innovation",
+  "year": 2015,
+  "first_author": "Kennedy",
+  "container": "Design Issues"
+ },
+ {
+  "key": "Mead2017",
+  "type": "J",
+  "doi": "",
+  "title": "The elephant in the room: biomimetics and sustainability?",
+  "year": 2017,
+  "first_author": "Mead",
+  "container": "Bioinspiration & Biomimetics"
+ }
+]
