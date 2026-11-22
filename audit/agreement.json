@@ -1,0 +1,127 @@
+{
+ "B1": {
+  "tp": 69,
+  "fn": 4,
+  "tn": 9,
+  "fp": 37,
+  "sens": 0.945,
+  "spec": 0.196,
+  "manual_prev": 0.613,
+  "rule_prev": 0.891
+ },
+ "B2": {
+  "n": 119,
+  "agree": 0.555,
+  "kappa": 0.255
+ },
+ "T1": {
+  "tp": 20,
+  "fn": 20,
+  "tn": 74,
+  "fp": 5,
+  "sens": 0.5,
+  "spec": 0.937,
+  "manual_prev": 0.336,
+  "rule_prev": 0.21
+ },
+ "L": {
+  "n": 119,
+  "agree": 0.395,
+  "kappa": 0.168
+ },
+ "E": {
+  "n": 119,
+  "agree": 0.529,
+  "kappa": 0.349
+ },
+ "Q": {
+  "tp": 22,
+  "fn": 1,
+  "tn": 78,
+  "fp": 18,
+  "sens": 0.957,
+  "spec": 0.812,
+  "manual_prev": 0.193,
+  "rule_prev": 0.336
+ },
+ "R": {
+  "n": 119,
+  "agree": 0.773,
+  "kappa": 0.423
+ },
+ "S1": {
+  "tp": 35,
+  "fn": 1,
+  "tn": 73,
+  "fp": 10,
+  "sens": 0.972,
+  "spec": 0.88,
+  "manual_prev": 0.303,
+  "rule_prev": 0.378
+ },
+ "S2": {
+  "n": 119,
+  "agree": 0.765,
+  "kappa": 0.204
+ },
+ "B2_mech": {
+  "tp": 11,
+  "fn": 10,
+  "tn": 85,
+  "fp": 13,
+  "sens": 0.524,
+  "spec": 0.867,
+  "manual_prev": 0.176,
+  "rule_prev": 0.202
+ },
+ "R_any": {
+  "tp": 20,
+  "fn": 10,
+  "tn": 81,
+  "fp": 8,
+  "sens": 0.667,
+  "spec": 0.91,
+  "manual_prev": 0.252,
+  "rule_prev": 0.235
+ },
+ "R3": {
+  "tp": 0,
+  "fn": 11,
+  "tn": 107,
+  "fp": 1,
+  "sens": 0.0,
+  "spec": 0.991,
+  "manual_prev": 0.092,
+  "rule_prev": 0.008
+ },
+ "S2_lca": {
+  "tp": 2,
+  "fn": 3,
+  "tn": 114,
+  "fp": 0,
+  "sens": 0.4,
+  "spec": 1.0,
+  "manual_prev": 0.042,
+  "rule_prev": 0.017
+ },
+ "E_sim+": {
+  "tp": 71,
+  "fn": 12,
+  "tn": 22,
+  "fp": 14,
+  "sens": 0.855,
+  "spec": 0.611,
+  "manual_prev": 0.697,
+  "rule_prev": 0.714
+ },
+ "E_proto+": {
+  "tp": 26,
+  "fn": 12,
+  "tn": 67,
+  "fp": 14,
+  "sens": 0.684,
+  "spec": 0.827,
+  "manual_prev": 0.319,
+  "rule_prev": 0.336
+ }
+}

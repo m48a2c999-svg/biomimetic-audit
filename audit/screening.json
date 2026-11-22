@@ -1,0 +1,3183 @@
+[
+{
+"id": "S2_0858b8029640",
+"decision": "E1",
+"year": 2002,
+"title": "Design and Nature : Comparing Design in Nature with Science and Engineering"
+},
+{
+"id": "S2_b809f990c2d6",
+"decision": "N",
+"year": 2004,
+"title": "Bionic Inspired Building Skins"
+},
+{
+"id": "S2_0903d9adce95",
+"decision": "E1",
+"year": 2005,
+"title": "Climbing and Walking Robots: Proceedings of the 7th International Conference CLAWAR 2004"
+},
+{
+"id": "W2935136185",
+"decision": "N",
+"year": 2007,
+"title": "Bio-Inspired Ventilation System for Building Envelopes"
+},
+{
+"id": "W2938124520",
+"decision": "N",
+"year": 2007,
+"title": "Bionic Ventilation System for Building Envelopes"
+},
+{
+"id": "S2_e3c5290db172",
+"decision": "N",
+"year": 2007,
+"title": "Bionic breathing skin for buildings"
+},
+{
+"id": "W25866505",
+"decision": "E1",
+"year": 2007,
+"title": "Electrical system aspects of renewable energy generation within the urban environment"
+},
+{
+"id": "W1781888367",
+"decision": "E1",
+"year": 2007,
+"title": "Experimental study of airflow and heat transfer in a double skin facade with blinds"
+},
+{
+"id": "S2_18bebe2086b1",
+"decision": "E1",
+"year": 2007,
+"title": "Natural and environmentally responsive building envelopes"
+},
+{
+"id": "S2_06e314333b15",
+"decision": "I",
+"year": 2008,
+"title": "Lotus-Effect®: Biomimetic Super-Hydrophobic Surfaces and their Application"
+},
+{
+"id": "S2_fda0a5bb8808",
+"decision": "N",
+"year": 2009,
+"title": "Biomimetic design of the building envelope: Biological climate adaptations and thermal controls in the Sonoran desert"
+},
+{
+"id": "W2016815236",
+"decision": "N",
+"year": 2009,
+"title": "Multifunctional bioinspired sol-gel coatings for architectural glasses"
+},
+{
+"id": "S2_19fa4ed88c93",
+"decision": "E1",
+"year": 2010,
+"title": "2007-01-3056 Natural and Environmentally Responsive Building Envelopes"
+},
+{
+"id": "S2_daaf7fef24f3",
+"decision": "N",
+"year": 2010,
+"title": "Abstraction of bio-inspired curved-line folding patterns for elastic foils and membranes in architecture"
+},
+{
+"id": "S2_232dde843fc1",
+"decision": "E1",
+"year": 2010,
+"title": "Architectural engineering and beyond"
+},
+{
+"id": "S2_0420a4e70196",
+"decision": "N",
+"year": 2010,
+"title": "Bio-inspired Kinetic Envelopes for Building Energy Efficiency based on Parametric Design of Building Information Modeling"
+},
+{
+"id": "S2_204b2efe8f55",
+"decision": "E1",
+"year": 2010,
+"title": "Biomimicry : A New Approach to Enhance the Efficiency of Natural Ventilation Systems in Hot Climate"
+},
+{
+"id": "S2_b83618241fd1",
+"decision": "N",
+"year": 2010,
+"title": "Biomimicry for Light Regulation in Building Envelopes"
+},
+{
+"id": "S2_22d3a66dd14c",
+"decision": "N",
+"year": 2010,
+"title": "Nature versus Technology - Performance building skins inspired by nature"
+},
+{
+"id": "S2_480161912a73",
+"decision": "N",
+"year": 2010,
+"title": "Skin In Architecture:Towards Bioinspired Facades"
+},
+{
+"id": "S2_8bc6a452b093",
+"decision": "N",
+"year": 2011,
+"title": "Bio-inspired Kinematics for Adaptive Shading Systems on Free Form Facades"
+},
+{
+"id": "S2_79be5be5a4ae",
+"decision": "N",
+"year": 2011,
+"title": "Bio-inspired Kinetic Envelopes: Integrating BIM into Biomimicry for Sustainable Design"
+},
+{
+"id": "W180377327",
+"decision": "E1",
+"year": 2011,
+"title": "Building Envelope as Surface"
+},
+{
+"id": "W2183311111",
+"decision": "I",
+"year": 2011,
+"title": "MODELLING AND OPTIMISATION OF A BIOMIMETIC FAÇADE BASED ON ANIMAL FUR"
+},
+{
+"id": "S2_cb0905eff536",
+"decision": "N",
+"year": 2011,
+"title": "TREE FAÇADES Generative Modelling with an Axial Branch Rewriting System"
+},
+{
+"id": "S2_6e1b9cec3951",
+"decision": "E1",
+"year": 2012,
+"title": "A Bio-inspired System for Boundary Detection in Color Natural Scenes"
+},
+{
+"id": "W3148289587",
+"decision": "I",
+"year": 2012,
+"title": "Bio-Inspired Kinetic GFRP-Facade for the Thematic Pavilion of the EXPO 2012 in Yeosu"
+},
+{
+"id": "S2_ca1ce010dc60",
+"decision": "N",
+"year": 2012,
+"title": "Breathing façades: a new concept to create dynamic thermal ambiances in buildings located in hot climates"
+},
+{
+"id": "W1987921914",
+"decision": "I",
+"year": 2012,
+"title": "Computational Design of a Bio Inspired Responsive Architectural Façade System"
+},
+{
+"id": "S2_4975394a5b41",
+"decision": "E1",
+"year": 2012,
+"title": "Design optimization in a hotel and offi ce tower through intuitive design procedures and advanced computational design methodologies. Façade design optimization by computational methods"
+},
+{
+"id": "S2_0b6f6f100489",
+"decision": "E1",
+"year": 2012,
+"title": "Has biomimetics arrived in architecture?"
+},
+{
+"id": "S2_5a072c2f9234",
+"decision": "N",
+"year": 2012,
+"title": "KINETIC MEDIA FAÇADE CONSISTING OF GFRP LOUVERS"
+},
+{
+"id": "W2077253372",
+"decision": "E1",
+"year": 2012,
+"title": "The Anatomy of a Human Body, a Model to Design Smart High Building"
+},
+{
+"id": "W2067981917",
+"decision": "I",
+"year": 2012,
+"title": "The Application of Bionics Techniques in the Designing of Building Material Skin"
+},
+{
+"id": "S2_c10ba2eab567",
+"decision": "N",
+"year": 2012,
+"title": "Towards the LIVING envelope: Biomimetics for building envelope adaptation"
+},
+{
+"id": "S2_553d37a31110",
+"decision": "I",
+"year": 2012,
+"title": "iFemea (Intelligent Facade Engineered thru Morpho-Ecogenetic Aggregates)"
+},
+{
+"id": "W2065203092",
+"decision": "N",
+"year": 2013,
+"title": "An Experimental Study on a Microclimatic Layer of a Bionic Façade Inspired by Vertical Greenery"
+},
+{
+"id": "S2_05d4b2b7be5e",
+"decision": "I",
+"year": 2013,
+"title": "Architectural envelopes that interact with their environment"
+},
+{
+"id": "S2_57b397f95b19",
+"decision": "I",
+"year": 2013,
+"title": "Bio-Inspired Adaptive Stadium Façades – An Evolution-Based Design Exploration"
+},
+{
+"id": "W2078942508",
+"decision": "E2",
+"year": 2013,
+"title": "Bio‐inspirierte kinetische Fassade für den Themenpavillon “One Ocean” EXPO 2012 in Yeosu, Korea"
+},
+{
+"id": "S2_771e1c2fca9b",
+"decision": "E1",
+"year": 2013,
+"title": "Customized Cork Façade"
+},
+{
+"id": "S2_6331057007f6",
+"decision": "E1",
+"year": 2013,
+"title": "Customized cork façade: a generative design process based on shape grammars"
+},
+{
+"id": "W2162459797",
+"decision": "I",
+"year": 2013,
+"title": "Designing a Mobile Facade Using Bionic Approach"
+},
+{
+"id": "S2_3735d16d2ae6",
+"decision": "E1",
+"year": 2013,
+"title": "Editorial"
+},
+{
+"id": "S2_06266d3423fd",
+"decision": "N",
+"year": 2013,
+"title": "Geodermis: biomimicry of distributed sensing for earth-based buildings"
+},
+{
+"id": "S2_c3fc4ba64f42",
+"decision": "I",
+"year": 2013,
+"title": "Investigating Potential Comfort Benefits Of Biologically-inspired Building Skins"
+},
+{
+"id": "S2_27331ba93fb6",
+"decision": "E1",
+"year": 2013,
+"title": "Plants as concept generators for biomimetic self-healing and self-adaptive materials, structures and surfaces"
+},
+{
+"id": "W2760539259",
+"decision": "I",
+"year": 2013,
+"title": "The Eco Office: Dynamic and Homeostatic Facades inspired by BIOMORPHIM, BIOMIMICRY, and BIOPHILIA"
+},
+{
+"id": "S2_469d330c87f9",
+"decision": "N",
+"year": 2013,
+"title": "The STAR-system: A bio-inspired solution for a thermo regulative façade"
+},
+{
+"id": "S2_6e53638929d8",
+"decision": "E1",
+"year": 2014,
+"title": "A Bio-Inspired Solution to Mitigate Urban Heat Island Effects"
+},
+{
+"id": "W2027189361",
+"decision": "N",
+"year": 2014,
+"title": "A methodology for transferring principles of plant movements to elastic systems in architecture"
+},
+{
+"id": "W2103849767",
+"decision": "N",
+"year": 2014,
+"title": "Bio-inspired Adaptive Building Skins"
+},
+{
+"id": "S2_ff25d75fa637",
+"decision": "I",
+"year": 2014,
+"title": "Bio-inspired Parametric Design for Adaptive Stadium Façades"
+},
+{
+"id": "S2_d79078a5987d",
+"decision": "R",
+"year": 2014,
+"title": "Biomimetic Architecture in Building Envelope Maintenance (A Literature)"
+},
+{
+"id": "S2_52d8f228d29f",
+"decision": "N",
+"year": 2014,
+"title": "Botanics and Parametric Design Fusions for Performative Building Skins - An application in hot climates"
+},
+{
+"id": "W51582218",
+"decision": "E1",
+"year": 2014,
+"title": "Clean by Nature. Lively Surfaces and the Holistic-Systemic Heritage of Contemporary Bionik"
+},
+{
+"id": "S2_6d061e4134c9",
+"decision": "E1",
+"year": 2014,
+"title": "Design of Music house Inspired by Splashing Raindrops to approach Environmental Protection"
+},
+{
+"id": "W1976670824",
+"decision": "E1",
+"year": 2014,
+"title": "Does Green Building Come up Short in Considering Biodiversity?: Focus on a growing concern."
+},
+{
+"id": "S2_1186a9360610",
+"decision": "E1",
+"year": 2014,
+"title": "Energy adaptive glass matter"
+},
+{
+"id": "S2_719e433f8cd1",
+"decision": "N",
+"year": 2014,
+"title": "HOW PLANTS REGULATE HEAT Biomimetic Inspirations for building skins"
+},
+{
+"id": "W28460570",
+"decision": "E1",
+"year": 2014,
+"title": "If He Only Had a Brain"
+},
+{
+"id": "S2_311eae309fb0",
+"decision": "N",
+"year": 2014,
+"title": "Inspiration By Nature: Biomimetic Research Informs Adaptable Building Skin System for Natural Ventilation and Daylight in Hot Dry Climate (Yazd, Iran)"
+},
+{
+"id": "W2042858747",
+"decision": "N",
+"year": 2014,
+"title": "Meteorosensitive architecture: Biomimetic building skins based on materially embedded and hygroscopically enabled responsiveness"
+},
+{
+"id": "S2_ba063d2c7326",
+"decision": "E1",
+"year": 2014,
+"title": "Parametric design for technological and \"smart\" system. Adaptive and optimized skin"
+},
+{
+"id": "S2_adf459375294",
+"decision": "N",
+"year": 2014,
+"title": "Parametric study of biomimetic design of high rise office building facades in view of optimizing natural ventilation potential in the humid tropics"
+},
+{
+"id": "W1556963156",
+"decision": "E2",
+"year": 2014,
+"title": "Penerapan Kinetic Façade Dengan Pendekatan Biomimicry Pada Pusat Robotika Surabaya"
+},
+{
+"id": "S2_f6e871eb5c8b",
+"decision": "E1",
+"year": 2014,
+"title": "Spider web design: “Research and development on the application of spider silk and web typology in the building industry”"
+},
+{
+"id": "W1997430365",
+"decision": "E1",
+"year": 2014,
+"title": "The Numerical Research of Drag Reduction over Bionic Fluctuation-Adaptive Non-Smooth Surface"
+},
+{
+"id": "S2_2cda90c1c924",
+"decision": "E1",
+"year": 2014,
+"title": "Zaštita životne sredine u građevinarstvu sa osvrtom na primenu ekoloških i nano materijala"
+},
+{
+"id": "W2208611152",
+"decision": "R",
+"year": 2014,
+"title": "바이오미미크리를 활용한 환경기능적 파사드 시스템의 사례연구"
+},
+{
+"id": "S2_2ff136fa5517",
+"decision": "I",
+"year": 2015,
+"title": "A Biophysical Framework of Heat Regulation Strategies for the Design of Biomimetic Building Envelopes"
+},
+{
+"id": "S2_9f898a56fe3b",
+"decision": "I",
+"year": 2015,
+"title": "A Hydro-Thermal Study of the Bionic Leaf - A Basic Structural Element of the Bionic Façade Inspired by Vertical Greenery"
+},
+{
+"id": "W4254382466",
+"decision": "I",
+"year": 2015,
+"title": "Active materials for adaptive architectural envelopes based on plant adaptation principles"
+},
+{
+"id": "W2255861475",
+"decision": "I",
+"year": 2015,
+"title": "BIOMIMETIC ARCHITECTURE AS A NEW APROACH FOR ENERGY EFFICIENT BUILDINGS THROUGH SMART BUILDING MATERIALS"
+},
+{
+"id": "S2_b9cdc9ebc0e4",
+"decision": "N",
+"year": 2015,
+"title": "Bio-inspired compliant mechanisms for architectural design : transferring bending and folding principles of plant leaves to flexible kinetic structures"
+},
+{
+"id": "S2_db00d6c6423d",
+"decision": "N",
+"year": 2015,
+"title": "Biomimetic-Computational Design for Double Facades in Hot Climates - A Porous Folded Façade for Office Buildings"
+},
+{
+"id": "S2_15a2ff0c7fef",
+"decision": "N",
+"year": 2015,
+"title": "Biomimetics and thermo-adaptive façades : Comparative study of thermal adaptability in nature and engineering"
+},
+{
+"id": "W2529669536",
+"decision": "R",
+"year": 2015,
+"title": "Biomimicry in climate adaptive building skins: relevance of applying principles and strategies"
+},
+{
+"id": "S2_0dcc491e3328",
+"decision": "N",
+"year": 2015,
+"title": "Built Environment Inspired By Nature: A Case Study Of Human Skin"
+},
+{
+"id": "W1271981582",
+"decision": "E1",
+"year": 2015,
+"title": "Diatom Frustule Morphology and its Biomimetic Applications in Architecture and Industrial Design"
+},
+{
+"id": "S2_eeb488253652",
+"decision": "I",
+"year": 2015,
+"title": "First Steps to Develop Biomimicry Ideas"
+},
+{
+"id": "W3132653591",
+"decision": "I",
+"year": 2015,
+"title": "Generative Processes in Tower Design: Simultaneous Integration of Tower Subsystems Through Biomimetic Analogies"
+},
+{
+"id": "S2_155737c9ed31",
+"decision": "N",
+"year": 2015,
+"title": "INNOVATIVE SOLUTIONS INSPIRED By NATURE: SUN CORALS"
+},
+{
+"id": "W2132968525",
+"decision": "I",
+"year": 2015,
+"title": "Natural Ventilation with Heat Recovery: A Biomimetic Concept"
+},
+{
+"id": "W2325161470",
+"decision": "E1",
+"year": 2015,
+"title": "Nature-Inspired Tree-Like TiO2 Architecture: A 3D Platform for the Assembly of CdS and Reduced Graphene Oxide for Photoelectrochemical Processes"
+},
+{
+"id": "S2_f3e9f1d12114",
+"decision": "N",
+"year": 2015,
+"title": "Redesigning Of Building Envelope: Tree Bark As A Biomimicry Concept"
+},
+{
+"id": "W2186621672",
+"decision": "E1",
+"year": 2015,
+"title": "Shape morphing solar shadings: A review"
+},
+{
+"id": "W614558523",
+"decision": "N",
+"year": 2015,
+"title": "Toward mitigating urban heat island effects: Investigating the thermal-energy impact of bio-inspired retro-reflective building envelopes in dense urban settings"
+},
+{
+"id": "W2746707301",
+"decision": "I",
+"year": 2016,
+"title": "A bio-inspired study on the impacts of solar loading on building facades"
+},
+{
+"id": "W2560885629",
+"decision": "E1",
+"year": 2016,
+"title": "Adaptive Stiffness and Joint-Free Kinematics: Actively Actuated Rod-Shaped Structures in Plants and Animals and Their Biomimetic Potential in Architecture and Engineering"
+},
+{
+"id": "S2_4c4ff94abc09",
+"decision": "N",
+"year": 2016,
+"title": "Adaptive biomimetic façades: compound bio-inspired design strategy for multi-functional stadiums"
+},
+{
+"id": "W2340401647",
+"decision": "E1",
+"year": 2016,
+"title": "Beyond analogy: A model of bioinspiration for creative design"
+},
+{
+"id": "S2_e0533a9060ed",
+"decision": "I",
+"year": 2016,
+"title": "Bio-Inspired Kinetic Curved-Line Folding for Architectural Applications"
+},
+{
+"id": "W2402191191",
+"decision": "E1",
+"year": 2016,
+"title": "Bio-inspired Lightweight Structural Systems: Learning from Microcomponents in the Nature for the Energy Efficiency in the Architecture"
+},
+{
+"id": "W2465021150",
+"decision": "R",
+"year": 2016,
+"title": "Biomimetic Potentials for Building Envelope Adaptation in Egypt"
+},
+{
+"id": "W2782417365",
+"decision": "R",
+"year": 2016,
+"title": "Biomimetic principles for thermally adaptive façades: Comparative study of thermal adaptability in nature and engineering"
+},
+{
+"id": "S2_3ed5becfb88a",
+"decision": "N",
+"year": 2016,
+"title": "Biomimicry Inspired Development of Climate Adaptive Building Shell with Ground Heat Utilization in Northern Europe Climate"
+},
+{
+"id": "S2_9b0771ed1efa",
+"decision": "E1",
+"year": 2016,
+"title": "Biomimicry as an approach for sustainable architecture case of arid regions with hot and dry climate"
+},
+{
+"id": "W2462656472",
+"decision": "I",
+"year": 2016,
+"title": "Biomimicry, an Approach, for Energy Effecient Building Skin Design"
+},
+{
+"id": "W2560270304",
+"decision": "R",
+"year": 2016,
+"title": "Bionic aspects in the search of functional systems of structural surfaces"
+},
+{
+"id": "W2257248600",
+"decision": "E1",
+"year": 2016,
+"title": "Characteristic study of a novel compact Solar Thermal Facade (STF) with internally extruded pin–fin flow channel for building integration"
+},
+{
+"id": "W2270333163",
+"decision": "I",
+"year": 2016,
+"title": "Climate Adaptive Building Shells For Plus-Energy-Buildings, Designed On Bionic Principles"
+},
+{
+"id": "W2564732679",
+"decision": "E1",
+"year": 2016,
+"title": "Compliant Mechanisms in Plants and Architecture"
+},
+{
+"id": "W2540440256",
+"decision": "R",
+"year": 2016,
+"title": "How plants inspire façades. From plants to architecture: Biomimetic principles for the development of adaptive architectural envelopes"
+},
+{
+"id": "W2752751109",
+"decision": "E1",
+"year": 2016,
+"title": "Journal of Facade Design and Engineering 4 (2016)"
+},
+{
+"id": "S2_802d03b8db4b",
+"decision": "E1",
+"year": 2016,
+"title": "MATHEMATICAL INVESTIGATION OF CLIMATE ADAPTIVE BUILDING SHELL"
+},
+{
+"id": "W2516372508",
+"decision": "E1",
+"year": 2016,
+"title": "MEJORA DE UN SISTEMA DE CLIMATIZACIÓN CON CÉLULAS PELTIER A PARTIR DE LA COLMENA DE ABEJAS: UNA APROXIMACIÓN TEÓRICA"
+},
+{
+"id": "W2499113349",
+"decision": "E1",
+"year": 2016,
+"title": "Micro-mega – nature inspired structural patterns for tall buildings: Modeling, analysis, design"
+},
+{
+"id": "W2591210459",
+"decision": "I",
+"year": 2016,
+"title": "Modeling of Building Envelope's Thermal Properties by Applying Phase Change Materials"
+},
+{
+"id": "S2_8198f5657416",
+"decision": "E1",
+"year": 2016,
+"title": "Multiscale Thermal Design for Buildings"
+},
+{
+"id": "W2566117259",
+"decision": "N",
+"year": 2016,
+"title": "Plants and Animals as Source of Inspiration for Energy Dissipation in Load Bearing Systems and Facades"
+},
+{
+"id": "W2554544269",
+"decision": "E1",
+"year": 2016,
+"title": "Review: Improving the Impact of Plant Science on Urban Planning and Design"
+},
+{
+"id": "W2232550051",
+"decision": "I",
+"year": 2016,
+"title": "Sustainability; as a combination of parametric patterns and bionic strategies"
+},
+{
+"id": "W2559593577",
+"decision": "R",
+"year": 2016,
+"title": "The Application of Biomimicry in Kinetic Facades"
+},
+{
+"id": "S2_57b6b5c8058b",
+"decision": "N",
+"year": 2016,
+"title": "The Water Wall: a bio-inspired thermoregulative facade system"
+},
+{
+"id": "W2565789027",
+"decision": "I",
+"year": 2016,
+"title": "The cleaner, the greener? Product sustainability assessment of the biomimetic façade paint Lotusan® in comparison to the conventional façade paint Jumbosil®"
+},
+{
+"id": "W2768579148",
+"decision": "E1",
+"year": 2017,
+"title": "A review on contemporary computational programs for Building's life-cycle energy consumption and greenhouse-gas emissions assessment: An empirical study in Australia"
+},
+{
+"id": "S2_09d9234c7d1f",
+"decision": "E1",
+"year": 2017,
+"title": "Analysis of prestressed sandwich panels with ultra-high performance concrete facings"
+},
+{
+"id": "W2748686633",
+"decision": "I",
+"year": 2017,
+"title": "Applying biomimicry to design building envelopes that lower energy consumption in a hot-humid climate"
+},
+{
+"id": "S2_df19b5dd6d49",
+"decision": "E1",
+"year": 2017,
+"title": "BIOMIMETICS ECO MATERIALS, AN EFFICIENT WAY TO SUSTAINABILITY"
+},
+{
+"id": "S2_42ce243c016f",
+"decision": "N",
+"year": 2017,
+"title": "Bio inspired design: when sun and wind are there to help"
+},
+{
+"id": "S2_1f358c740b6e",
+"decision": "I",
+"year": 2017,
+"title": "Bio-inspired Heat Dissipation System Integrated in Buildings: Development and Applications ☆"
+},
+{
+"id": "W2904493861",
+"decision": "E1",
+"year": 2017,
+"title": "BioInspired Materials and Design"
+},
+{
+"id": "S2_932e74ee881b",
+"decision": "N",
+"year": 2017,
+"title": "Biologically inspired transparent material as an energy system"
+},
+{
+"id": "S2_e4c0a50110dc",
+"decision": "N",
+"year": 2017,
+"title": "Biologically-inspired high-performance envelope design in tropical climates"
+},
+{
+"id": "S2_58176491ed6e",
+"decision": "N",
+"year": 2017,
+"title": "Biomimetic Building skin: Living Envelope for Contemporary Architecture"
+},
+{
+"id": "W2626558886",
+"decision": "R",
+"year": 2017,
+"title": "Biomimetic building skins: An adaptive approach"
+},
+{
+"id": "W2610759406",
+"decision": "I",
+"year": 2017,
+"title": "Biomimetic inspired, natural ventilated façade – A conceptual study"
+},
+{
+"id": "W4206529294",
+"decision": "E1",
+"year": 2017,
+"title": "DETOX TECHNOLOGY IN NEW ARCHITECTURE BUILDINGS"
+},
+{
+"id": "W2779179768",
+"decision": "E1",
+"year": 2017,
+"title": "ECOMATERIAIS BIOMIMÉTICOS, UM CAMINHO EFICIENTE PARA A SUSTENTABILIDADE"
+},
+{
+"id": "W2770155889",
+"decision": "R",
+"year": 2017,
+"title": "Exploring design principles of biological and living building envelopes: what can we learn from plant cell walls?"
+},
+{
+"id": "W2730070396",
+"decision": "I",
+"year": 2017,
+"title": "Fiber-Reinforced Plastics with Locally Adapted Stiffness for Bio-Inspired Hingeless, Deployable Architectural Systems"
+},
+{
+"id": "W2770617649",
+"decision": "I",
+"year": 2017,
+"title": "Flectofold—a biomimetic compliant shading device for complex free form facades"
+},
+{
+"id": "W2612568836",
+"decision": "I",
+"year": 2017,
+"title": "Form Follows Environment: Biomimetic Approaches to Building Envelope Design for Environmental Adaptation"
+},
+{
+"id": "W2765480993",
+"decision": "I",
+"year": 2017,
+"title": "Hindwings of insects as concept generator for hingeless foldable shading systems"
+},
+{
+"id": "S2_517e1c320e78",
+"decision": "I",
+"year": 2017,
+"title": "Kinetic Shading System as a means for Optimizing Energy Load - A Parametric Approach to Optimize Daylight Performance for an Office Building in Rome"
+},
+{
+"id": "S2_ceb94813fc7b",
+"decision": "N",
+"year": 2017,
+"title": "Modeling and analysis of the trapping mechanism of Aldrovanda vesiculosa as biomimetic inspiration for façade elements"
+},
+{
+"id": "S2_eff4601904b2",
+"decision": "N",
+"year": 2017,
+"title": "Plyskin; insulating façade panel based on Biomimicry of the polar bear skin and fur."
+},
+{
+"id": "S2_363042b5c12e",
+"decision": "E1",
+"year": 2017,
+"title": "Refining the principles of passive design"
+},
+{
+"id": "W3049192806",
+"decision": "I",
+"year": 2017,
+"title": "Responsive Pneumatic Facade with Adaptive Openings for Natural Ventilation"
+},
+{
+"id": "W2769106749",
+"decision": "N",
+"year": 2017,
+"title": "Simulation of a biomimetic façade using TRNSYS"
+},
+{
+"id": "W2744095637",
+"decision": "R",
+"year": 2017,
+"title": "The Influence of the Concepts of Biophilia and Biomimicry in Contemporary Architecture"
+},
+{
+"id": "S2_5b9fd9bb6a5b",
+"decision": "E1",
+"year": 2017,
+"title": "The application of visualisation tools to enable architects to explore the dynamic characteristics of smart materials in a contemporary Shanashil building design element for hot arid climates"
+},
+{
+"id": "W2766554111",
+"decision": "R",
+"year": 2017,
+"title": "Toward a New Generation of Smart Biomimetic Actuators for Architecture",
+"note": "coding: concise review"
+},
+{
+"id": "W2904543401",
+"decision": "I",
+"year": 2017,
+"title": "eSkin: Bioinspired Adaptive Materials 1"
+},
+{
+"id": "W3031845417",
+"decision": "I",
+"year": 2018,
+"title": "3-D Printing Biomimetic Façades with Recycled Glass"
+},
+{
+"id": "W3162412179",
+"decision": "I",
+"year": 2018,
+"title": "A Biomimetic Approach For The Multi-Objective Optimization Of Kinetic Façade Design"
+},
+{
+"id": "S2_d0a78aa3541f",
+"decision": "R",
+"year": 2018,
+"title": "Advanced Building Skins Inspired From Plants Adaptation Strategies to Environmental Stimuli: A Review"
+},
+{
+"id": "W2898658267",
+"decision": "R",
+"year": 2018,
+"title": "Application of biomimicry in building Design"
+},
+{
+"id": "W2804557300",
+"decision": "I",
+"year": 2018,
+"title": "BIOMIMETIC ARCHITECTURE: Creating a Passive Defense System in building skin to solve Zero Carbon Construction Dilemma"
+},
+{
+"id": "W2809956032",
+"decision": "E1",
+"year": 2018,
+"title": "BIONIC INNOVATIONS BY ANTONIO GAUDI IN ARCHITECTURE OF BOTINES AND CALVET TENE-MENT HOUSES"
+},
+{
+"id": "W2794616352",
+"decision": "I",
+"year": 2018,
+"title": "Bio-inspired Adaptable Facade Control Reflecting User's Behavior"
+},
+{
+"id": "S2_3c7c3e1d026b",
+"decision": "E1",
+"year": 2018,
+"title": "Bioinspiration Across All Length Scales of Materials"
+},
+{
+"id": "W2805811480",
+"decision": "E1",
+"year": 2018,
+"title": "Biomechanics and Functional Morphology of Plants—Inspiration for Biomimetic Materials and Structures"
+},
+{
+"id": "W2778323432",
+"decision": "N",
+"year": 2018,
+"title": "Biomimetic Building Envelopes to Reduce Energy Consumption in Hot and Dry Climates"
+},
+{
+"id": "W2794856297",
+"decision": "R",
+"year": 2018,
+"title": "Biomimetic Facade Applications for a More Sustainable Future"
+},
+{
+"id": "W3177927816",
+"decision": "R",
+"year": 2018,
+"title": "Biomimetic for Building Skin : Living Envelope for Contemporary Architecture"
+},
+{
+"id": "W3024529504",
+"decision": "X",
+"year": 2018,
+"title": "Biomimicry Based Facade Design Process Development"
+},
+{
+"id": "W2906224175",
+"decision": "I",
+"year": 2018,
+"title": "Biomimicry Based Facade Design Process Development - Focusing on the Facade of Brand Experience Center to Improve Brand Communication -"
+},
+{
+"id": "W2782683195",
+"decision": "E1",
+"year": 2018,
+"title": "Biotemplated Morpho Butterfly Wings for Tunable Structurally Colored Photocatalysts"
+},
+{
+"id": "S2_8ce7cf5a15b0",
+"decision": "I",
+"year": 2018,
+"title": "Choosing the best nature’s strategy with the highest thermodynamic potential for application in building thermal envelope using MCA analysis"
+},
+{
+"id": "W2809138244",
+"decision": "E1",
+"year": 2018,
+"title": "Design optimisation of solar shading systems for tropical office buildings: Challenges and future trends"
+},
+{
+"id": "S2_61a9c3dbf95b",
+"decision": "N",
+"year": 2018,
+"title": "Development and performance analyses of biomimetic building facades"
+},
+{
+"id": "W2895200965",
+"decision": "E1",
+"year": 2018,
+"title": "Diphylleia grayi -Inspired Stretchable Hydrochromics with Large Optical Modulation in the Visible–Near-Infrared Region"
+},
+{
+"id": "W2914077030",
+"decision": "I",
+"year": 2018,
+"title": "Elementos Vazados Geradores de Microclima: Biomimética, Concepção, Prototipagem e Análise"
+},
+{
+"id": "S2_fd3d4825a948",
+"decision": "I",
+"year": 2018,
+"title": "Environmental adaptation of buildings through morphological differentiation: A biomimetic approach"
+},
+{
+"id": "W7217692684",
+"decision": "R",
+"year": 2018,
+"title": "ISIL DÜZENLEME ÖZELLİĞİNE SAHİP YAPI KABUĞU TASARIMLARI İÇİN BİYOMİMETİK ÇÖZÜMLER"
+},
+{
+"id": "S2_c34ca14d0451",
+"decision": "N",
+"year": 2018,
+"title": "KINE[SIS]TEM´17: a methodological process for a Nature-Based Design"
+},
+{
+"id": "S2_6304d8123828",
+"decision": "E1",
+"year": 2018,
+"title": "Model Perspectives: Structure, Architecture and Culture"
+},
+{
+"id": "W2925747867",
+"decision": "N",
+"year": 2018,
+"title": "Multi-functional biomimetic adaptive façades: A case study"
+},
+{
+"id": "S2_313e75cd3456",
+"decision": "N",
+"year": 2018,
+"title": "OPTIMIZING THE FAÇADE SKIN OF AN EXISTING OFFICE BUILDING WITH BIOMEMITIC DESIGN SOLUTIONS"
+},
+{
+"id": "S2_8ef253613816",
+"decision": "E2",
+"year": 2018,
+"title": "Outil d'aide à la décision pour la conception de façades biomimétiques"
+},
+{
+"id": "W4255292961",
+"decision": "E1",
+"year": 2018,
+"title": "Papers Delivered in the Thematic Sessions of the 71st Annual International Conference of the Society of Architectural Historians"
+},
+{
+"id": "S2_aaaff230e622",
+"decision": "I",
+"year": 2018,
+"title": "Pneumatic Skin with Adaptive Openings - Adaptive Façade with Opening Control Integrated with CFD for Natural Ventilation"
+},
+{
+"id": "S2_e9090b8efdb3",
+"decision": "R",
+"year": 2018,
+"title": "Responsive solutions in shaping innovative architectural structures"
+},
+{
+"id": "S2_7b7dcd22d9d2",
+"decision": "N",
+"year": 2018,
+"title": "Social wasp nests as source of bioinspired design of building skins"
+},
+{
+"id": "W2901819337",
+"decision": "R",
+"year": 2018,
+"title": "The Role of Geometry for Adaptability: Comparison of Shading Systems and Biological Role Models"
+},
+{
+"id": "W2795688404",
+"decision": "E1",
+"year": 2018,
+"title": "Water harvesting from fog using building envelopes: part II"
+},
+{
+"id": "S2_5c17a34c72f3",
+"decision": "I",
+"year": 2019,
+"title": "A Study of Kinetic Façade Modelling Performance Using Virtual Reality"
+},
+{
+"id": "W2920629984",
+"decision": "R",
+"year": 2019,
+"title": "A morphological approach for kinetic façade design process to improve visual and thermal comfort: Review"
+},
+{
+"id": "W2953981982",
+"decision": "I",
+"year": 2019,
+"title": "Adaptive biomimetic facades: Enhancing energy efficiency of highly glazed buildings"
+},
+{
+"id": "S2_c0ea7bcfb608",
+"decision": "I",
+"year": 2019,
+"title": "Application of Biomimicry Architecture Concept on Lapau Panjang Buildings as A Tourism Icon"
+},
+{
+"id": "S2_4f82ab629855",
+"decision": "R",
+"year": 2019,
+"title": "Application of bionic architecture methods as future-oriented approach of modern architecture development in Russia"
+},
+{
+"id": "W2994890371",
+"decision": "R",
+"year": 2019,
+"title": "BIOMIMICRYAS A DESIGN APPROACH FOR ADAPTATION"
+},
+{
+"id": "S2_7cfb5bde9f05",
+"decision": "E1",
+"year": 2019,
+"title": "Bio-based Building Skin"
+},
+{
+"id": "W2941908077",
+"decision": "I",
+"year": 2019,
+"title": "Bio-inspired Transparent Microfluidic Platform as Transformable Networks for Solar Modulation"
+},
+{
+"id": "W2982213516",
+"decision": "R",
+"year": 2019,
+"title": "Biomimetic adaptive building skins: Energy and environmental regulation in buildings"
+},
+{
+"id": "S2_3a68146a27b6",
+"decision": "I",
+"year": 2019,
+"title": "Breathing skins workshop: A hands-on investigation of bio-inspired foldable structures for temperature and humidity control in buildings"
+},
+{
+"id": "S2_92b2dada08d5",
+"decision": "R",
+"year": 2019,
+"title": "Chameleon Building"
+},
+{
+"id": "S2_623626eb91e6",
+"decision": "N",
+"year": 2019,
+"title": "Climate Adaptive Building Shell for Nearly Zero Energy Buildings: Application of Biomimicry Principles"
+},
+{
+"id": "W2948775048",
+"decision": "R",
+"year": 2019,
+"title": "Energy Efficient Buildings in Smart Cities: Biomimicry Approach"
+},
+{
+"id": "W2969835992",
+"decision": "I",
+"year": 2019,
+"title": "Form-finding mechanism derived from plant movement in response to environmental conditions for building envelopes"
+},
+{
+"id": "W3196583009",
+"decision": "I",
+"year": 2019,
+"title": "From Pure Research To Biomimetic Products: The Flectofold Facade Shading Device"
+},
+{
+"id": "S2_6782dc5981fd",
+"decision": "E1",
+"year": 2019,
+"title": "Healthy , Intelligent and Resilient Buildings and Urban Environments"
+},
+{
+"id": "S2_7ed0144fe0ca",
+"decision": "E1",
+"year": 2019,
+"title": "Metaheuristic Optimization of External Shading Devices and Glazing Properties for Energy Saving and Indoor Environmental Comfort in Office Rooms"
+},
+{
+"id": "W2921504829",
+"decision": "E1",
+"year": 2019,
+"title": "Optimization Study of Parametric Thermal Bimetal Material Module for Green Building in Tropical Humid Climate"
+},
+{
+"id": "W3014839567",
+"decision": "E2",
+"year": 2019,
+"title": "PENERAPAN KONSEP ARSITEKTUR BIOMIMICRY PADA BANGUNAN LAPAU PANJANG SEBAGAI ICON WISATA"
+},
+{
+"id": "W2918859449",
+"decision": "E1",
+"year": 2019,
+"title": "State of the Art in Building Façades"
+},
+{
+"id": "W3088677226",
+"decision": "I",
+"year": 2019,
+"title": "TOWARDS ENVIRONMENTALLY RESPONSIVE ARCHITECTURE: A FRAMEWORK FOR BIOMIMIC DESIGN OF BUILDING’S SKIN"
+},
+{
+"id": "W3177197558",
+"decision": "I",
+"year": 2019,
+"title": "The sustainable intelligent building skins: Facade imitating the tree procces of filtering air, biomimicry architecture"
+},
+{
+"id": "W7172120728",
+"decision": "E1",
+"year": 2019,
+"title": "Vertical Resilience: Adaptive Structural Design in Super-Tall Skyscrapers under Climate Extremes"
+},
+{
+"id": "W3013577044",
+"decision": "R",
+"year": 2019,
+"title": "What can biology teach us about light?"
+},
+{
+"id": "W3037907228",
+"decision": "I",
+"year": 2020,
+"title": "A Framework to Achieve Multifunctionality in Biomimetic Adaptive Building Skins"
+},
+{
+"id": "W3126295316",
+"decision": "I",
+"year": 2020,
+"title": "A Geometric Method on Facade Form Design with Voronoi Diagram"
+},
+{
+"id": "W3117955595",
+"decision": "I",
+"year": 2020,
+"title": "An Approach to Adaptive Sustainable Facades Inspired by Plants"
+},
+{
+"id": "W3043488489",
+"decision": "R",
+"year": 2020,
+"title": "Bio-inspired cooling technologies and the applications in buildings"
+},
+{
+"id": "W3081677265",
+"decision": "R",
+"year": 2020,
+"title": "Bioinspired Building Envelopes"
+},
+{
+"id": "W4386460254",
+"decision": "I",
+"year": 2020,
+"title": "Biomimicry Kinetic Facade as Renewable Energy"
+},
+{
+"id": "W3121045951",
+"decision": "I",
+"year": 2020,
+"title": "Biomimicry inspired Adaptive Building Envelope in hot climate"
+},
+{
+"id": "W3007872148",
+"decision": "I",
+"year": 2020,
+"title": "Designing bio-inspired adaptive climatic façades and its effect on daylighting performance of building"
+},
+{
+"id": "W3086879017",
+"decision": "N",
+"year": 2020,
+"title": "Digital Fabrication Experimentations with Complex Form Modular Bionic Building Envelope with 3D Printing and Robotics Technology"
+},
+{
+"id": "W3108588406",
+"decision": "E1",
+"year": 2020,
+"title": "Dynamic transparency in design: the revival of environmental sustainability in design elements of Iraqi buildings"
+},
+{
+"id": "S2_1742100d54ae",
+"decision": "N",
+"year": 2020,
+"title": "Energy-Efficient Facade and Biomimicry in Architecture"
+},
+{
+"id": "W3115542247",
+"decision": "R",
+"year": 2020,
+"title": "Façade Solar Control and Shading Strategies for Buildings in the Mediterranean Region"
+},
+{
+"id": "W3124477412",
+"decision": "R",
+"year": 2020,
+"title": "Increasing efficiency with biomimetic approach in thermoregulative building envelope strategies supporting internal thermal comfort"
+},
+{
+"id": "S2_d8343913f7cf",
+"decision": "E1",
+"year": 2020,
+"title": "Innovative Approaches To Organic Architecture: Nature-Inspired Architectural Design"
+},
+{
+"id": "W3114315116",
+"decision": "I",
+"year": 2020,
+"title": "Integrative design and fabrication methodology for bio-inspired folding mechanisms for architectural applications"
+},
+{
+"id": "W3081141583",
+"decision": "I",
+"year": 2020,
+"title": "Learning from plant movements triggered by bulliform cells: the biomimetic cellular actuator"
+},
+{
+"id": "S2_58569a45052d",
+"decision": "I",
+"year": 2020,
+"title": "Modeling and Implementation of an Adaptive Facade Design for Energy Efficiently Buildings Based Biomimicry"
+},
+{
+"id": "W3042267026",
+"decision": "E2",
+"year": 2020,
+"title": "Museum Astronomi dengan Pendekatan Arsitektur Biomimikri di Makassar"
+},
+{
+"id": "W3010136866",
+"decision": "E1",
+"year": 2020,
+"title": "The Application of BIM Tools to Explore the Dynamic Characteristics of Smart Materials in a Contemporary Shanashil Building Design Element"
+},
+{
+"id": "W3087770364",
+"decision": "R",
+"year": 2020,
+"title": "The use of biological models for building engineering design"
+},
+{
+"id": "W3045758845",
+"decision": "I",
+"year": 2020,
+"title": "Thermal performance optimization of parametric building envelope based on bio-mimetic inspiration"
+},
+{
+"id": "W3038683108",
+"decision": "I",
+"year": 2020,
+"title": "Towards an implementation of bio-inspired hydro-actuated building façade"
+},
+{
+"id": "S2_fdc14f307406",
+"decision": "I",
+"year": 2021,
+"title": "An Autonomous Bio-Inspired Shading Façade System based on Plant Movement Principles"
+},
+{
+"id": "W4376580580",
+"decision": "I",
+"year": 2021,
+"title": "Applied innovation: Technological experiments on biomimetic façade systems and solar panels"
+},
+{
+"id": "W3215373530",
+"decision": "I",
+"year": 2021,
+"title": "Bio-algae: a study of an interactive facade for commercial buildings in populated cities"
+},
+{
+"id": "W3125976537",
+"decision": "R",
+"year": 2021,
+"title": "Bio-inspired Chameleon's Color Change in Building’s Skin: Materials and Technologies Review"
+},
+{
+"id": "W3195233509",
+"decision": "I",
+"year": 2021,
+"title": "Bio-inspired interactive kinetic façade: Using dynamic transitory-sensitive area to improve multiple occupants’ visual comfort"
+},
+{
+"id": "W3178317561",
+"decision": "I",
+"year": 2021,
+"title": "BioZero—Designing Nature-Inspired Net-Zero Building"
+},
+{
+"id": "W4210924179",
+"decision": "E2",
+"year": 2021,
+"title": "Bioinspired mathematical model to establish complex patterns for parametric facades"
+},
+{
+"id": "W4205211616",
+"decision": "R",
+"year": 2021,
+"title": "Biomimetic Approaches for Adaptive Building Envelopes: Applications and Design Considerations"
+},
+{
+"id": "W4205378960",
+"decision": "I",
+"year": 2021,
+"title": "Biomimetic Architecture Towards Bio Inspired Adaptive Envelopes: In Case of Plant Inspired Concept Generation"
+},
+{
+"id": "W3126988349",
+"decision": "I",
+"year": 2021,
+"title": "Biomimetic Kinetic Shading Facade Inspired by Tree Morphology for Improving Occupant’s Daylight Performance"
+},
+{
+"id": "W3181784674",
+"decision": "N",
+"year": 2021,
+"title": "Biomimetic adaptive electrochromic windows for enhancing building energy efficiency"
+},
+{
+"id": "W3195522020",
+"decision": "I",
+"year": 2021,
+"title": "Biomimetic building facades demonstrate potential to reduce energy consumption for different building typologies in different climate zones"
+},
+{
+"id": "W3158620730",
+"decision": "E1",
+"year": 2021,
+"title": "Biomimicry in French Urban Projects: Trends and Perspectives from the Practice"
+},
+{
+"id": "S2_9e1d30f2b5fc",
+"decision": "R",
+"year": 2021,
+"title": "Building-integrated photo-voltaics: market challenges and bioinspired solutions"
+},
+{
+"id": "W3175805697",
+"decision": "E1",
+"year": 2021,
+"title": "CH2 inspired for Air Conditioning System of Inpatient Hospital with Biomimicry Approach"
+},
+{
+"id": "W4205942627",
+"decision": "E1",
+"year": 2021,
+"title": "Carmelo Di Bartolo, the Design of a New Architecture of Materials Based on Bionics"
+},
+{
+"id": "W3133581532",
+"decision": "R",
+"year": 2021,
+"title": "Classification criteria and markers for biomimetic building envelope within circular economy principles: a critical review"
+},
+{
+"id": "W3163693930",
+"decision": "R",
+"year": 2021,
+"title": "Design processes and multi-regulation of biomimetic building skins: A comparative analysis"
+},
+{
+"id": "S2_6817979bc476",
+"decision": "I",
+"year": 2021,
+"title": "Designing a facade by biomimicry science to effectively control natural light in buildings (Glare analysis)"
+},
+{
+"id": "W3180361091",
+"decision": "I",
+"year": 2021,
+"title": "Developing Design Methods & Grasshopper Algorithm for Swarm Intelligence-Based Parametric Facade Pattern"
+},
+{
+"id": "W3202285922",
+"decision": "I",
+"year": 2021,
+"title": "Developing Swarm Intelligence-Based Parametric Facade Pattern Design Process & Grasshopper Algorithm"
+},
+{
+"id": "S2_2b1a76c98943",
+"decision": "X",
+"year": 2021,
+"title": "Energy Reduction Potential of Biomimetic Building Facades for Different Building Typologies in Different Climate Zones"
+},
+{
+"id": "S2_1c2d75ab90ee",
+"decision": "I",
+"year": 2021,
+"title": "Feasibility Study of Implementing a Bio-Inspired Building Envelope for Energy Harvesting and Visual Comfort Improvement"
+},
+{
+"id": "W3206414972",
+"decision": "E1",
+"year": 2021,
+"title": "Fiber-Reinforced Polymers in Freeform Structures: A Review"
+},
+{
+"id": "W3215383436",
+"decision": "R",
+"year": 2021,
+"title": "Linking Biology and Buildings"
+},
+{
+"id": "W4293166865",
+"decision": "R",
+"year": 2021,
+"title": "Mapping Biomimicry Design Strategies to Achieving Thermal Regulation Efficiency in Egyptian Hot Environments"
+},
+{
+"id": "W3118548044",
+"decision": "E1",
+"year": 2021,
+"title": "Mineralized supramolecular hydrogel as thermo-responsive smart window"
+},
+{
+"id": "W3176502378",
+"decision": "I",
+"year": 2021,
+"title": "Performance prediction of biomimetic adaptive building skins: Integrating multifunctionality through a novel simulation framework"
+},
+{
+"id": "W3204985773",
+"decision": "N",
+"year": 2021,
+"title": "Potentials of Plant’s Strategies for an Adaptive Building Envelope"
+},
+{
+"id": "W3125987754",
+"decision": "I",
+"year": 2021,
+"title": "Proof of Concept (PoC) 1.0—Implementing a Bioshading System Design Method"
+},
+{
+"id": "W3159905238",
+"decision": "E1",
+"year": 2021,
+"title": "Review of approaches, opportunities, and future directions for improving aerodynamics of tall buildings with smart facades"
+},
+{
+"id": "S2_968b854447b7",
+"decision": "E1",
+"year": 2021,
+"title": "Richard Hyde reflects on his tenure as Editor-in-Chief of Architectural Science Review"
+},
+{
+"id": "S2_e010c9a82a90",
+"decision": "E1",
+"year": 2021,
+"title": "Saving energy with integrated lighting design: the headquarter of IDOM Skylight, daylight harvesting and microperforated façade in a southern European landscape office in Madrid."
+},
+{
+"id": "W3214265843",
+"decision": "E1",
+"year": 2021,
+"title": "Sustainability Assessment of the Anthropogenic System in Panama City: Application of Biomimetic Strategies towards Regenerative Cities"
+},
+{
+"id": "S2_27d1c655dfd7",
+"decision": "N",
+"year": 2021,
+"title": "THEORETICAL FRAMEWORK LEADING TO DESIGN PROCESS OF CONCEPTUAL BIOMIMETIC ADAPTIVE SHADING SYSTEM IN HUMID CONTINENTAL CLIMATE"
+},
+{
+"id": "W3147588934",
+"decision": "I",
+"year": 2021,
+"title": "Textured Building Façades: Utilizing Morphological Adaptations Found in Nature for Evaporative Cooling"
+},
+{
+"id": "W3189143346",
+"decision": "I",
+"year": 2021,
+"title": "The Adaptive Power of Ammophila arenaria: Biomimetic Study, Systematic Observation, Parametric Design and Experimental Tests with Bimetal"
+},
+{
+"id": "W3186858715",
+"decision": "E1",
+"year": 2021,
+"title": "The Added Value of Greenery for Sustainable Building: The Perspective from the Netherlands"
+},
+{
+"id": "W4200443174",
+"decision": "I",
+"year": 2021,
+"title": "The EFFECT OF BIO SKIN FACADES ON DAYLIGHT AND THERMAL PERFORMANCE IN EDUCTIONAL SPACE"
+},
+{
+"id": "W3146426835",
+"decision": "I",
+"year": 2021,
+"title": "Thermal performance of sculptured tiles for building envelopes"
+},
+{
+"id": "S2_5b825a0ea45b",
+"decision": "N",
+"year": 2021,
+"title": "Towards a biomimetic envelope : a case study of Rheum nobile : an investigation into building envelope design, inspired by Rheum nobile’s adaptive solutions with a focus on light and heat control based on Vancouver climate"
+},
+{
+"id": "W3157301867",
+"decision": "N",
+"year": 2021,
+"title": "biomimicry for developing energy efficient facades"
+},
+{
+"id": "W4214891144",
+"decision": "N",
+"year": 2022,
+"title": "A case study in biomimetic roofing: Moisture dissipation from leaf-shaped shingles"
+},
+{
+"id": "W4295781040",
+"decision": "R",
+"year": 2022,
+"title": "A critical review of biomimetic building envelopes: towards a bio-adaptive model from nature to architecture"
+},
+{
+"id": "W4362654266",
+"decision": "R",
+"year": 2022,
+"title": "Applications of Biomimetic Adaptive Facades for Enhancing Building Energy Efficiency"
+},
+{
+"id": "W4294815613",
+"decision": "I",
+"year": 2022,
+"title": "BIOMIMETIC FACADES FOR OPTIMIZING DAYLIGHTING PERFORMANCE IN OFFICE BUILDINGS"
+},
+{
+"id": "S2_1001e5f17f40",
+"decision": "I",
+"year": 2022,
+"title": "Biomimetic Approach for Thermal Performance Optimization in Sustainable Architecture. Case study: Office Buildings in Hot Climate Countries"
+},
+{
+"id": "W4288038248",
+"decision": "R",
+"year": 2022,
+"title": "Biomimetic Design for Adaptive Building Façades: A Paradigm Shift towards Environmentally Conscious Architecture"
+},
+{
+"id": "W4206076126",
+"decision": "N",
+"year": 2022,
+"title": "Biomimetic adaptive building skins: design and performance"
+},
+{
+"id": "W4296101947",
+"decision": "R",
+"year": 2022,
+"title": "Biomimicry and the BREEAM category of energy for sustainable architecture and sustainable urbanism"
+},
+{
+"id": "W4312089596",
+"decision": "I",
+"year": 2022,
+"title": "Circular, biomimicry-based, and energy-efficient façade development for renovating terraced dwellings in the Netherlands"
+},
+{
+"id": "W4307169713",
+"decision": "I",
+"year": 2022,
+"title": "Design, fabrication and computational simulation of a bio-kinetic façade inspired by the mechanism of the Lupinus Succulentus plant for daylight and energy efficiency"
+},
+{
+"id": "W4214628225",
+"decision": "I",
+"year": 2022,
+"title": "Development of Two-Step Biomimetic Design and Evaluation Framework for Performance-Oriented Design of Multi-Functional Adaptable Building Envelopes"
+},
+{
+"id": "S2_15432428aea4",
+"decision": "E1",
+"year": 2022,
+"title": "Development of model with energy balance using bioclimatic architecture for extreme warm climates"
+},
+{
+"id": "W4414832587",
+"decision": "E1",
+"year": 2022,
+"title": "Evaluating energy-efficient building envelopes through architectural innovation, digital project controls and advanced construction technologies for sustainable urban developments"
+},
+{
+"id": "W4309047695",
+"decision": "N",
+"year": 2022,
+"title": "Flexural biomimetic responsive building façade using a hybrid soft robot actuator and fabric membrane"
+},
+{
+"id": "W4206281189",
+"decision": "E1",
+"year": 2022,
+"title": "From biology to biomimicry: Using nature to build better structures – A review"
+},
+{
+"id": "W4289779394",
+"decision": "N",
+"year": 2022,
+"title": "General morphological analysis of Orosi windows and morpho butterfly wing's principles for improving occupant's daylight performance through interactive kinetic façade"
+},
+{
+"id": "W4306369275",
+"decision": "E1",
+"year": 2022,
+"title": "Geo-solar segmentation mechanism: An early design stage method for building solar morphing"
+},
+{
+"id": "W4309848309",
+"decision": "E1",
+"year": 2022,
+"title": "Has Biomimicry in Architecture Arrived in France? Diversity of Challenges and Opportunities for a Paradigm Shift"
+},
+{
+"id": "W4283021339",
+"decision": "I",
+"year": 2022,
+"title": "INVESTIGATING THE IMPACT OF BIO-INSPIRED FAÇADE DESIGN ON INDOOR ENVIRONMENT"
+},
+{
+"id": "W4367338189",
+"decision": "E1",
+"year": 2022,
+"title": "Innovation and experimentation of adaptive model for curtain wall"
+},
+{
+"id": "W4307593231",
+"decision": "N",
+"year": 2022,
+"title": "Material Programming for Bio-inspired and Bio-based Hygromorphic Building Envelopes"
+},
+{
+"id": "W4214812092",
+"decision": "N",
+"year": 2022,
+"title": "Morphological differentiation for the environmental adaptation of biomimetic buildings: Skins, surfaces, and structures"
+},
+{
+"id": "W4285183097",
+"decision": "N",
+"year": 2022,
+"title": "Pho’liage: Towards a Kinetic Biomimetic Thermoregulating Façade"
+},
+{
+"id": "W4388506155",
+"decision": "I",
+"year": 2022,
+"title": "Physiomimetic Façade Design"
+},
+{
+"id": "W4307328814",
+"decision": "I",
+"year": 2022,
+"title": "REDUCTION OF THERMAL LOADS BY BIOMIMETIC RESPONSIVE SKINS"
+},
+{
+"id": "W4285044948",
+"decision": "R",
+"year": 2022,
+"title": "Revisiting the analogy of the building envelope and the skin: A biomimetic perspective"
+},
+{
+"id": "W4289519112",
+"decision": "E1",
+"year": 2022,
+"title": "Self-Assembly of Twisted Monolayer Cholesteric Films via Surface Tension Local Anisotropy: Implications for Multicolor Optical Tags"
+},
+{
+"id": "W4311475937",
+"decision": "I",
+"year": 2022,
+"title": "Simulation on Building Envelope Design using Biomimicry Conceptual of Palm Leaf Pattern for Self Cleaning Maintenance"
+},
+{
+"id": "W4307675747",
+"decision": "E1",
+"year": 2022,
+"title": "Spectral Selective Solar Harvesting and Energy Generation via Transparent Building Skin"
+},
+{
+"id": "S2_2bac9ed53859",
+"decision": "R",
+"year": 2022,
+"title": "Sustainability through passive energy biomimetics systems in Architecture. Comparative analysis of case studies."
+},
+{
+"id": "W4289317889",
+"decision": "R",
+"year": 2022,
+"title": "Sustainable Developments through Energy-Efficient Buildings in Smart Cities: A Biomimicry Approach"
+},
+{
+"id": "W4283575956",
+"decision": "R",
+"year": 2022,
+"title": "Sürdürülebilir Mimari Kapsamında Enerji Etkin Cephe Tasarımı: Biyomimetik Cepheler"
+},
+{
+"id": "W4283010217",
+"decision": "I",
+"year": 2022,
+"title": "THE APPLICATION OF AN ADAPTIVE SOFT STRUCTURE FOR LIGHTWEIGHT FACADES"
+},
+{
+"id": "W4297939312",
+"decision": "E1",
+"year": 2022,
+"title": "The Effects of Smart Facade on Office Buildings"
+},
+{
+"id": "W4310191314",
+"decision": "I",
+"year": 2022,
+"title": "Using a Biomimicry Approach in the Design of a Kinetic Façade to Regulate the Amount of Daylight Entering a Working Space"
+},
+{
+"id": "W4389286028",
+"decision": "E1",
+"year": 2023,
+"title": "A review of and taxonomy for elastic kinetic building envelopes"
+},
+{
+"id": "W4385237722",
+"decision": "E1",
+"year": 2023,
+"title": "A state-space model to control an adaptive facade prototype using data-driven techniques"
+},
+{
+"id": "S2_475fddc950e6",
+"decision": "I",
+"year": 2023,
+"title": "ADVANCING SOLAR CONTROL AND ENERGY HARVESTING THROUGH THE USE OF PNEUMATICALLY ACTUATED ELASTIC ADAPTIVE FAҪADES"
+},
+{
+"id": "W4321793759",
+"decision": "E1",
+"year": 2023,
+"title": "Adaptive dynamic building envelope integrated with phase change material to enhance the heat storage and release efficiency: A state-of-the-art review"
+},
+{
+"id": "W4322100284",
+"decision": "I",
+"year": 2023,
+"title": "An Adaptive Photovoltaic Performance Study with a Biomimetic Approach for Energy Saving"
+},
+{
+"id": "W4382052155",
+"decision": "N",
+"year": 2023,
+"title": "An innovative multifunctional biomimetic adaptive building envelope based on a novel integrated methodology of merging biological mechanisms"
+},
+{
+"id": "S2_ca145f0e728e",
+"decision": "E1",
+"year": 2023,
+"title": "Architectural Shape Optimization of Moving Dam on Rain River Downstream: An Ecosystem Cyclic Intervention"
+},
+{
+"id": "W4385759594",
+"decision": "E1",
+"year": 2023,
+"title": "Assessing the Bioreceptivity of Biobased Cladding Materials"
+},
+{
+"id": "S2_4555fc378337",
+"decision": "E1",
+"year": 2023,
+"title": "Bio-Inspired Gait Trajectory Design for Lizard-Inspired Wall Climbing Robot"
+},
+{
+"id": "W4387621665",
+"decision": "I",
+"year": 2023,
+"title": "Bio-based Adaptive skins: Investigating the impact of using shape-morphing skins on the energy consumption of administrative buildings"
+},
+{
+"id": "W4385758210",
+"decision": "R",
+"year": 2023,
+"title": "Bio-inspired materials in the evolution of the building skins"
+},
+{
+"id": "W4387740884",
+"decision": "I",
+"year": 2023,
+"title": "Bioinspired Passive Solar Building Envelope Design, for Energy Sustainability"
+},
+{
+"id": "S2_b1f1662119fa",
+"decision": "R",
+"year": 2023,
+"title": "Bioinspired Smart Façades: an approach in architectural and design project models"
+},
+{
+"id": "W4366819485",
+"decision": "I",
+"year": 2023,
+"title": "Bioinspired Super Thermal Insulating, Strong and Low Carbon Cement Aerogel for Building Envelope"
+},
+{
+"id": "W4388721166",
+"decision": "R",
+"year": 2023,
+"title": "Bioinspired building materials—lessons from nature"
+},
+{
+"id": "W4393022345",
+"decision": "I",
+"year": 2023,
+"title": "Biomimetic Approach for Building Envelope Adaptation in Hot and Dry Regions"
+},
+{
+"id": "W7217214156",
+"decision": "N",
+"year": 2023,
+"title": "Biomimetic Architecture: Adaptive Building Envelopes in Complex Buildings"
+},
+{
+"id": "W4320180578",
+"decision": "I",
+"year": 2023,
+"title": "Biomimicry as an Approach to Improve Daylighting Performance in Office Buildings in Assiut City, Egypt"
+},
+{
+"id": "W4385070438",
+"decision": "E1",
+"year": 2023,
+"title": "CFD simulation and optimization of ventilation for the layout of community architecture inspired by fishbone form"
+},
+{
+"id": "W4318214996",
+"decision": "R",
+"year": 2023,
+"title": "Environmentally Responsive Materials for Building Envelopes: A Review on Manufacturing and Biomimicry-Based Approaches"
+},
+{
+"id": "S2_e03d7539301e",
+"decision": "E1",
+"year": 2023,
+"title": "Experiments on Microclimatically adapt a courtyard to climate change"
+},
+{
+"id": "W4389061098",
+"decision": "I",
+"year": 2023,
+"title": "Exploring the Feasibility of Utilizing Palm Tree Texture for a Self-Cleaning Architectural Design of Building Envelopes"
+},
+{
+"id": "W7120310478",
+"decision": "X",
+"year": 2023,
+"title": "Fachadas Inteligentes Bioinspiradas: uma abordagem nos modelos projetuais de arquitetura e design"
+},
+{
+"id": "S2_6cbf7ac2751e",
+"decision": "I",
+"year": 2023,
+"title": "Graphic Composition on Glass: technique and conceptual model in bioinspired design"
+},
+{
+"id": "W4385684880",
+"decision": "I",
+"year": 2023,
+"title": "Hierarchical Cellulose Aerogel Reinforced with In Situ-Assembled Cellulose Nanofibers for Building Cooling"
+},
+{
+"id": "W4400992469",
+"decision": "E1",
+"year": 2023,
+"title": "IoT legislation's loopholes: The governmental blessing for statutory surveillance?"
+},
+{
+"id": "W4388802496",
+"decision": "I",
+"year": 2023,
+"title": "Light-responsive kinetic façade system inspired by the Gazania flower: A biomimetic approach in parametric design for daylighting"
+},
+{
+"id": "W4390000821",
+"decision": "E1",
+"year": 2023,
+"title": "Low energy buildings: multifunctional strategies and solutions"
+},
+{
+"id": "W4377982265",
+"decision": "I",
+"year": 2023,
+"title": "MOISTURE-HARVESTING LIZARD SKINS AS AN INSPIRATON FOR PERFORMATIVE BUILDING ENVELOPES IN ARID CLIMATES"
+},
+{
+"id": "W4389674785",
+"decision": "I",
+"year": 2023,
+"title": "Mimosa Kinetic Façade: Bio-Inspired Ventilation Leveraging the Mimosa Pudica Mechanism for Enhanced Indoor Air Quality"
+},
+{
+"id": "W4379046187",
+"decision": "I",
+"year": 2023,
+"title": "PROSPECTS OF UPGRADING CONTEMPORARY BUILDING FACADES IN LAHORE THROUGH BIOMIMETIC BUILDING SKIN"
+},
+{
+"id": "W4366825950",
+"decision": "I",
+"year": 2023,
+"title": "Promoting Thermal Comfort for Indoor Spaces in Office Buildings Using Biomimetic Façades"
+},
+{
+"id": "W4389111376",
+"decision": "R",
+"year": 2023,
+"title": "Research Trends and Suggestions for Building Envelope Energy Reduction Using Biomimetic Technology"
+},
+{
+"id": "W4387693595",
+"decision": "R",
+"year": 2023,
+"title": "Smart materials for biomimetic building envelopes: current trends and potential applications"
+},
+{
+"id": "S2_baa272966115",
+"decision": "I",
+"year": 2023,
+"title": "Sustainability, through passive solar building envelope design, based on the principles of bioinspiration"
+},
+{
+"id": "S2_9ad5da05d184",
+"decision": "I",
+"year": 2023,
+"title": "Termite as Biomimicry Solution for Enhancing Building Envelope: A Comparative Model Case Study in the UAE"
+},
+{
+"id": "W4378469556",
+"decision": "I",
+"year": 2023,
+"title": "Termite-inspired metamaterials for flow-active building envelopes"
+},
+{
+"id": "W4386960961",
+"decision": "E1",
+"year": 2023,
+"title": "The application and value of curved roof in modern architecture"
+},
+{
+"id": "W4390945033",
+"decision": "I",
+"year": 2024,
+"title": "A Nature-Inspired Green–Blue Solution: Incorporating a Fog Harvesting Technique into Urban Green Wall Design"
+},
+{
+"id": "W4400280364",
+"decision": "R",
+"year": 2024,
+"title": "A Systematic Review of the Most Recent Concepts in Kinetic Shading Systems with a Focus on Biomimetics: A Motion/Deformation Analysis"
+},
+{
+"id": "W4402653776",
+"decision": "E1",
+"year": 2024,
+"title": "A socio-ecological approach to investigate the perception of green walls in cities: A comparative analysis of case studies in Turin and Lisbon"
+},
+{
+"id": "W3192659871",
+"decision": "E2",
+"year": 2024,
+"title": "ANALISIS PENERAPAN BIOMIMICRY PADA BENTUK DAN FACADE OCEANARIUM"
+},
+{
+"id": "S2_c68daa8a1df1",
+"decision": "E1",
+"year": 2024,
+"title": "Adaptive Building Envelope Structures"
+},
+{
+"id": "W4401931603",
+"decision": "N",
+"year": 2024,
+"title": "Adaptive Façades: A Comparative Analysis of Bimetal Solutions"
+},
+{
+"id": "W4402932064",
+"decision": "E1",
+"year": 2024,
+"title": "Adaptive Residential Architecture: Integrating Climate-Responsive Design and Nature-Inspired Innovation in Jaipur’s Urban Fabric"
+},
+{
+"id": "W4400973452",
+"decision": "I",
+"year": 2024,
+"title": "Adaptive façades bioinspired by the nastic movements of plants"
+},
+{
+"id": "W4402642068",
+"decision": "I",
+"year": 2024,
+"title": "Aerodynamic Noise Simulation of a Super-High-Rise Building Facade with Shark-Like Grooved Skin"
+},
+{
+"id": "W4391262812",
+"decision": "E1",
+"year": 2024,
+"title": "Amphibious Architecture: A Biomimetic Design Approach to Flood Resilience"
+},
+{
+"id": "W4400979328",
+"decision": "R",
+"year": 2024,
+"title": "Application of Biomimetic Strategies In Building Envelope Design for Water Harvesting"
+},
+{
+"id": "W4404968581",
+"decision": "R",
+"year": 2024,
+"title": "BIOMIMETIC APPROACH FOR ADAPTIVE, RESPONSIVE AND KINETIC BUILDING FACADES: A BIBLIOMETRIC REVIEW OF EMERGING TRENDS"
+},
+{
+"id": "W4400363290",
+"decision": "I",
+"year": 2024,
+"title": "Bio-curvilinear shading device for cooling load reduction in office buildings assessed by a novel energy simulation framework"
+},
+{
+"id": "W4393899445",
+"decision": "I",
+"year": 2024,
+"title": "Bioinspired Living Coating System for Wood Protection: Exploring Fungal Species on Wood Surfaces Coated with Biofinish during Its Service Life"
+},
+{
+"id": "S2_8a151608ae28",
+"decision": "I",
+"year": 2024,
+"title": "Bioinspired daytime radiative cooling performance: a new experimental protocol for scaling up passive cooling through the atmospheric windows"
+},
+{
+"id": "S2_7f0a898c8734",
+"decision": "N",
+"year": 2024,
+"title": "Biomimetic Adaptive Building Envelopes: Multifunctional Adaptations for Multi-Regulation Environments"
+},
+{
+"id": "W4402642454",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic Adaptive Building Façade Modeling for Sustainable Urban Freshwater Ecosystems: Integration of Nature’s Water-Harvesting Strategy into Sun-Breakers"
+},
+{
+"id": "W4402892433",
+"decision": "R",
+"year": 2024,
+"title": "Biomimetic Architecture: Exploring Adaptive Facades Inspired by Nature"
+},
+{
+"id": "W4403492033",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic Cooling: Functionalizing Biodegradable Chitosan Films with Saharan Silver Ant Microstructures"
+},
+{
+"id": "W4399269617",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic Facade Design Proposal to Improving Thermal Comfort in Hot Climate Region"
+},
+{
+"id": "W4398187729",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic Facades: Enhancing Energy Efficiency of Buildings through the Luban Capsule Approach"
+},
+{
+"id": "W4396799316",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic approach for energy-efficient building envelope design in Doha"
+},
+{
+"id": "W4392161292",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic design of building facades: an evolutionary-based computational approach inspired by elephant skin for cooling in hot and humid climates"
+},
+{
+"id": "W4401878386",
+"decision": "I",
+"year": 2024,
+"title": "Biomimetic kinetic façade as a real-time daylight control: complex form versus simple form with proper kinetic behavior"
+},
+{
+"id": "S2_84e5410d3b11",
+"decision": "R",
+"year": 2024,
+"title": "Biomimicry in Smart City Building Skins: A Nature-Inspired Approach to Urban Energy Efficiency"
+},
+{
+"id": "W4403258704",
+"decision": "N",
+"year": 2024,
+"title": "Bionically inspired flattened linear Fresnel concentrator and its photothermal application on building façade"
+},
+{
+"id": "W4402932434",
+"decision": "E1",
+"year": 2024,
+"title": "Biophilic Design Principles with Kinetic Facade"
+},
+{
+"id": "W7163864283",
+"decision": "N",
+"year": 2024,
+"title": "Designing adaptive facades using biomimicry for improving daylighting in office building: A case study of Cairo, Egypt"
+},
+{
+"id": "W4392747926",
+"decision": "E1",
+"year": 2024,
+"title": "Development of novel variable building skin with solar concentrating technology for obtaining energy benefits and optimizing indoor daylighting"
+},
+{
+"id": "W4397288878",
+"decision": "E1",
+"year": 2024,
+"title": "Enhancing Visual Comfort and Energy Efficiency in Office Lighting Using Parametric-Generative Design Approach for Interactive Kinetic Louvers"
+},
+{
+"id": "W4400455554",
+"decision": "I",
+"year": 2024,
+"title": "Enhancing energy efficiency in glass facades through biomimetic design strategies"
+},
+{
+"id": "W4391309640",
+"decision": "I",
+"year": 2024,
+"title": "From Flora to Solar Adaptive Facades: Integrating Plant-Inspired Design with Photovoltaic Technologies"
+},
+{
+"id": "W4405798142",
+"decision": "E1",
+"year": 2024,
+"title": "HETEROCHRONY OF GAUDI'S ARCHITECTURE"
+},
+{
+"id": "W4403880218",
+"decision": "E1",
+"year": 2024,
+"title": "Iconic Buildings of Le Corbusier. Chapel of Notre-Dame Du Haut in Ronchamp"
+},
+{
+"id": "W4396626884",
+"decision": "I",
+"year": 2024,
+"title": "Investigation of the resilience of cyclically actuated pine cone scales of Pinus jeffreyi"
+},
+{
+"id": "W4392345015",
+"decision": "I",
+"year": 2024,
+"title": "Kinetic module in bimetal: A biomimetic approach adapting the kinetic behavior of bimetal for adaptive Façades"
+},
+{
+"id": "W4393950052",
+"decision": "I",
+"year": 2024,
+"title": "MULTI-SCALAR COMPUTATIONAL FABRICATION AND CONSTRUCTION OF BIO-BASED BUILDING ENVELOPES: THE LIVMATS BIOMIMETIC SHELL"
+},
+{
+"id": "W4401016508",
+"decision": "R",
+"year": 2024,
+"title": "On the use of 3D printing to enhance the thermal performance of building envelope – A review"
+},
+{
+"id": "W4406906050",
+"decision": "E1",
+"year": 2024,
+"title": "Prospects of additive technologies in construction: expectations and reality"
+},
+{
+"id": "W4404413249",
+"decision": "E1",
+"year": 2024,
+"title": "Review of dynamic façade typologies, physical performance and control methods: Towards smarter and cleaner zero-energy buildings"
+},
+{
+"id": "W4402989294",
+"decision": "I",
+"year": 2024,
+"title": "The Impact of 3D Printing Technology on the Improvement of External Wall Thermal Efficiency—An Experimental Study"
+},
+{
+"id": "W4402861444",
+"decision": "E1",
+"year": 2024,
+"title": "The Integration of Bio-Active Elements into Building Façades as a Sustainable Concept"
+},
+{
+"id": "S2_aec2fa052802",
+"decision": "I",
+"year": 2024,
+"title": "The green side of passive cooling: building facades inspired by evapotranspiration in trees"
+},
+{
+"id": "W4402211996",
+"decision": "I",
+"year": 2024,
+"title": "Thermo Bi-Metal"
+},
+{
+"id": "W4391130956",
+"decision": "I",
+"year": 2024,
+"title": "Towards Refining Bio-Inspired Hydro-Actuated Building Facades by Emphasising the Importance of Hybrid Adaptability"
+},
+{
+"id": "W4398231246",
+"decision": "N",
+"year": 2024,
+"title": "Towards a bio-inspired design of a photovoltaic facade"
+},
+{
+"id": "W4400210745",
+"decision": "E1",
+"year": 2024,
+"title": "Transparent Superhydrophobic and Self-Cleaning Coating"
+},
+{
+"id": "W4404797746",
+"decision": "I",
+"year": 2024,
+"title": "Weather-responsive adaptive shading through biobased and bioinspired hygromorphic 4D-printing"
+},
+{
+"id": "W4393154744",
+"decision": "E1",
+"year": 2024,
+"title": "“Towards Improving the Design of the Existing Building Envelope to Achieve Thermal Comfort in Educational Buildings: A Simulation-Based Approach”"
+},
+{
+"id": "W4416203506",
+"decision": "R",
+"year": 2025,
+"title": "A Bibliometric Analysis on Bio-Inspired Responsive Facades"
+},
+{
+"id": "W4416311523",
+"decision": "I",
+"year": 2025,
+"title": "A Framework for Optimizing Biomimetic Opaque Ventilated Façades Using CFD and Machine Learning"
+},
+{
+"id": "W7154502981",
+"decision": "R",
+"year": 2025,
+"title": "A MORPHOLOGICAL REVIEW OF FAÇADE PRECEDENTS EMPLOYING BIOMIMETIC DESIGN PRINCIPLES"
+},
+{
+"id": "W4415220583",
+"decision": "R",
+"year": 2025,
+"title": "A comprehensive review of water-based passive cooling for building envelopes in arid climates: A biomimicry-inspired approach"
+},
+{
+"id": "W4414978641",
+"decision": "E1",
+"year": 2025,
+"title": "A novel adaptive façade using cable-driven compliant mechanisms"
+},
+{
+"id": "W4416319075",
+"decision": "R",
+"year": 2025,
+"title": "APPLICATION OF BIOMIMETIC FACADES FOR A MORE SUSTAINABLE FUTURE"
+},
+{
+"id": "W4412391474",
+"decision": "E1",
+"year": 2025,
+"title": "Adaptive Architectural Facades: Review 1985–2024. A Comparative Analysis of Media-TIC, the Arab Institute, and Al Bahar Towers Dynamic Facades Approaches"
+},
+{
+"id": "W4414253797",
+"decision": "E1",
+"year": 2025,
+"title": "Advancing bio-integrated building systems: a systematic review of architectural, structural and mechanical–electrical challenges in photobioreactor façades"
+},
+{
+"id": "W4415962374",
+"decision": "E1",
+"year": 2025,
+"title": "An Architectural Geode"
+},
+{
+"id": "W4415205699",
+"decision": "E1",
+"year": 2025,
+"title": "An Enhanced Prediction Model for Energy Consumption in Residential Houses: A Case Study in China"
+},
+{
+"id": "W4414299595",
+"decision": "R",
+"year": 2025,
+"title": "Application of bionic architecture in low-carbon design: a systematic review from nature inspiration to architectural practice"
+},
+{
+"id": "W4415350551",
+"decision": "E1",
+"year": 2025,
+"title": "Architecture that grows: from Petri dish to the building façades"
+},
+{
+"id": "W7117450485",
+"decision": "R",
+"year": 2025,
+"title": "BIONICS AS THE FOUNDATION OF SUSTAINABLE DEVELOPMENT IN CONTEMPORARY ARCHITECTURE: ENERGY EFFICIENCY AND SYNERGY WITH THE ENVIRONMENT"
+},
+{
+"id": "W4412053376",
+"decision": "N",
+"year": 2025,
+"title": "Bio-adaptive reflective photovoltaic (BARP) facade system: a multimodal energy-saving solution based on light reflection"
+},
+{
+"id": "S2_04d2f8a76971",
+"decision": "N",
+"year": 2025,
+"title": "Bio-inspired Climate-responsive Wood Composite Architectural Façade Actuator: Architectural research based on the asclepias syriaca, mimosa pudica, and mandevilla plants as biological role models"
+},
+{
+"id": "S2_4ffdad08a455",
+"decision": "E1",
+"year": 2025,
+"title": "Bioinspiration: Exploring Levels of Adaptation in Nature for Innovation in Design"
+},
+{
+"id": "W4414941660",
+"decision": "E1",
+"year": 2025,
+"title": "Bioinspired Active Vortex Generators for Underwater Flow Control"
+},
+{
+"id": "W4411782442",
+"decision": "E1",
+"year": 2025,
+"title": "Bioinspired Dynamic Camouflage Skin Combining Structural Colors and Electrochromic Backgrounds"
+},
+{
+"id": "S2_3e707b3e1cd2",
+"decision": "N",
+"year": 2025,
+"title": "Bioinspired Dynamic Facades: A prototype for passive lighting control"
+},
+{
+"id": "W4415497660",
+"decision": "I",
+"year": 2025,
+"title": "Bioinspired Hierarchical Radiative‐Phase Change Hybrid Cooling Composite with Record‐Breaking Cooling Power"
+},
+{
+"id": "W7225607301",
+"decision": "I",
+"year": 2025,
+"title": "Biomimetic Architectural Envelopes: Kinetic Facades Inspired by Plant Thigmonasty for Passive Climate Control"
+},
+{
+"id": "W4412469123",
+"decision": "I",
+"year": 2025,
+"title": "Biomimetic Opaque Ventilated Façade for Low-Rise Buildings in Hot Arid Climate"
+},
+{
+"id": "W4415351351",
+"decision": "I",
+"year": 2025,
+"title": "Biomimetic Shading Systems: Integrating Motorised and Moisture-Responsive Actuation for Adaptive Façades"
+},
+{
+"id": "W4412815157",
+"decision": "R",
+"year": 2025,
+"title": "Biomimetic Strategies in Kinetic Architecture: A Comparative Analysis of Nature-Inspired Roof and Façade Designs"
+},
+{
+"id": "W4408387879",
+"decision": "R",
+"year": 2025,
+"title": "Biomimetic adaptive solar building envelopes: Trends, challenges, and opportunities for sustainable applications"
+},
+{
+"id": "W4412992746",
+"decision": "I",
+"year": 2025,
+"title": "Biomimetic approach for beams-redirected adaptive facade with emphasis on user position and the clustered synthesis"
+},
+{
+"id": "W4409572418",
+"decision": "N",
+"year": 2025,
+"title": "Biomimetic self-shading walls via 3D-printing for reduced heat gain: Multiscale learning using graph neural networks to predict solar radiation absorption"
+},
+{
+"id": "W7110986062",
+"decision": "I",
+"year": 2025,
+"title": "Biomimicry as A Tool for Form Creativity of Building Envelope to Enhance Thermal Performance"
+},
+{
+"id": "W4413857856",
+"decision": "E1",
+"year": 2025,
+"title": "Biomimicry in construction: Innovations in energy absorption through bio-inspired structural designs"
+},
+{
+"id": "S2_a68d06ce7d1a",
+"decision": "I",
+"year": 2025,
+"title": "Biomimicry-based approach to enhance energy efficiency in an office building"
+},
+{
+"id": "W4414251086",
+"decision": "I",
+"year": 2025,
+"title": "Building Energy Performance Assessment Based on a Bio-Inspired Kinetic Shading Devices"
+},
+{
+"id": "W4412672969",
+"decision": "I",
+"year": 2025,
+"title": "Cactus-inspired multifunctional Bio-kinetic façade for energy performance improvement assessed by a novel energy simulation framework"
+},
+{
+"id": "W4412818686",
+"decision": "E1",
+"year": 2025,
+"title": "Challenges and Prospects of Building Thermal Insulation Coatings in the Low-Carbon Transition"
+},
+{
+"id": "W4416872289",
+"decision": "E2",
+"year": 2025,
+"title": "Comment les connaissances musculo-squelettiques ont-elles fait évoluer les conceptions architecturales du biomimétisme à l’architecture de guérison ?"
+},
+{
+"id": "W4410827699",
+"decision": "I",
+"year": 2025,
+"title": "Computational Evaluation of a Biomimetic Kinetic Façade Inspired by the Venus Flytrap for Daylight and Glare Performance"
+},
+{
+"id": "W7117577242",
+"decision": "I",
+"year": 2025,
+"title": "Daylight Control Performance of Biomimetic Facades: Biomimetic Facade Proposals for an Office Building"
+},
+{
+"id": "W4405976590",
+"decision": "I",
+"year": 2025,
+"title": "Daylight Optimization of the South-Faced Architecture Classrooms Using Biomimicry-Based Kinetic Facade Shading System"
+},
+{
+"id": "S2_e0a777ee8d27",
+"decision": "I",
+"year": 2025,
+"title": "Daylight Performance-Based Design Model for Bio-adaptive Building Skin for Office Space of Administrative Buildings in Egypt"
+},
+{
+"id": "W4417152003",
+"decision": "I",
+"year": 2025,
+"title": "Design and Development of a Biomimetic Adaptive Ventilation Skin Inspired by Beehive Thermoregulation for Net-Zero Energy Buildings"
+},
+{
+"id": "W4411017842",
+"decision": "E1",
+"year": 2025,
+"title": "Designing Sustainable and Energy-Efficient Buildings through Biomorphic and Climatic Architectural Strategies"
+},
+{
+"id": "W4412526605",
+"decision": "E1",
+"year": 2025,
+"title": "Dynamic Skin: A Systematic Review of Energy-Saving Design for Building Facades"
+},
+{
+"id": "S2_b1d4166c7b69",
+"decision": "E1",
+"year": 2025,
+"title": "Editorial for Special Issue on Biomimetic Adaptive Buildings"
+},
+{
+"id": "W4409783535",
+"decision": "E1",
+"year": 2025,
+"title": "Energy-autonomous and skin-adaptive sensor patch with monolithically nano-interconnected interfaces for spatiotemporal teleoperation"
+},
+{
+"id": "W7117374449",
+"decision": "E1",
+"year": 2025,
+"title": "Enhancing Resilient Urban Infrastructure through Biomimicry: A Collaborative Approach among Architects and Engineers in Ghana"
+},
+{
+"id": "W7122829608",
+"decision": "I",
+"year": 2025,
+"title": "Exploring Envelope Design Through a Biomimetic Approach for Enhanced Thermal Comfort"
+},
+{
+"id": "W4413255980",
+"decision": "N",
+"year": 2025,
+"title": "Facing in Light: Biomimetic Facade Generation for Existing Buildings in Different Urban Environments"
+},
+{
+"id": "W7125819135",
+"decision": "R",
+"year": 2025,
+"title": "From Nature to Building Skins: Critical Review of Biomimetic Building Skin Research"
+},
+{
+"id": "S2_3c4c67fc2025",
+"decision": "I",
+"year": 2025,
+"title": "From nature to structure: advancing building efficiency with biomimicry-inspired green façades"
+},
+{
+"id": "W4416110508",
+"decision": "E1",
+"year": 2025,
+"title": "Hierarchically engineered mineral frameworks for photothermal synergistic phase change microspheres: enabling high-efficiency building thermal regulation"
+},
+{
+"id": "W7125506194",
+"decision": "I",
+"year": 2025,
+"title": "IMPACT OF ADAPTIVE BIOMIMETIC BUILDING SKINS ON INDOOR THERMAL COMFORT: A COMPUTATIONAL EVALUATION"
+},
+{
+"id": "S2_c16ef468d9b7",
+"decision": "I",
+"year": 2025,
+"title": "IMPACT OF BREATHING FACADES AND BIOMIMICRY ON VENTILATION AND INDOOR AIR QUALITY"
+},
+{
+"id": "W4414142719",
+"decision": "I",
+"year": 2025,
+"title": "Impact of Bioinspired Infill Pattern on the Thermal and Energy Efficiency of 3D Concrete Printed Building Envelope"
+},
+{
+"id": "W4407259187",
+"decision": "I",
+"year": 2025,
+"title": "Integrating biomimetic vertical greening systems with plant-cell-inspired design for urban cooling and energy efficiency: A case study in Suzhou"
+},
+{
+"id": "W4408783783",
+"decision": "I",
+"year": 2025,
+"title": "Integration of bio-inspired adaptive systems for optimizing daylight performance and glare control"
+},
+{
+"id": "W4408219034",
+"decision": "E1",
+"year": 2025,
+"title": "Machine Learning for Adaptive Facade Design: Enhancing Thermal Performance in Urban Architecture"
+},
+{
+"id": "W4412782425",
+"decision": "R",
+"year": 2025,
+"title": "Mimicking Nature, Empowered by Technology: A Biomimetic Approach to Sustainable Building Envelopes"
+},
+{
+"id": "W4416595446",
+"decision": "E1",
+"year": 2025,
+"title": "Multiscale thermal optimization of 3D-printed walls: integrating structure, material, and process with fire-thermal synergy"
+},
+{
+"id": "W7140293030",
+"decision": "E1",
+"year": 2025,
+"title": "ORIGAMI-INSPIRED KINETIC FACADES FOR THE SUSTAINABLE DEVELOPMENT OF PUBLIC BUILDINGS"
+},
+{
+"id": "W4410917691",
+"decision": "I",
+"year": 2025,
+"title": "Optimizing bio-inspired macro-structures for enhanced thermal efficiency in multi-skin facade buildings"
+},
+{
+"id": "S2_34ade226bf2b",
+"decision": "I",
+"year": 2025,
+"title": "Programming Bilayer Structures in 4D-printed Hygromorphs by Tailoring Porosity in Macroscale"
+},
+{
+"id": "W7118916509",
+"decision": "E1",
+"year": 2025,
+"title": "STRUCTURES IN NATURE AS AN INSPIRATION FOR CONTEMPORARY ARCHITECTURE AND CONSTRUCTION"
+},
+{
+"id": "W7126449531",
+"decision": "I",
+"year": 2025,
+"title": "Self-sufficient kinetic module for facades: Biomimetic integration of mechanical, electronic and photovoltaic systems"
+},
+{
+"id": "W4416161881",
+"decision": "I",
+"year": 2025,
+"title": "Simulation-Based Evaluation of Bio-Inspired Wall Materials for Energy-Efficient Prefabricated Housing in Hot-Arid Climates"
+},
+{
+"id": "W4409175643",
+"decision": "E1",
+"year": 2025,
+"title": "Smart Architecture: Case Studies and Breakthrough Applications of Advanced Materials in Buildings"
+},
+{
+"id": "W4413761339",
+"decision": "E1",
+"year": 2025,
+"title": "Study regarding adaptive envelopes based on origami"
+},
+{
+"id": "W4415644017",
+"decision": "I",
+"year": 2025,
+"title": "Synergizing Nature-Inspired Adaptive Facades: Harnessing Plant Responses for Elevated Building Performance in Alignment with Saudi Green Initiatives"
+},
+{
+"id": "W4415755928",
+"decision": "E1",
+"year": 2025,
+"title": "THERMAL MANAGEMENT AT THE ENERGY WATER ENVIRONMENT NEXUS: FROM PHOTOTHERMAL MATERIALS AND BUILDING ENVELOPES TO GRIDRESPONSIVE ENERGY SYSTEMS"
+},
+{
+"id": "S2_9626041c1575",
+"decision": "E1",
+"year": 2025,
+"title": "Towards resilient architecture in technological innovation and AI"
+},
+{
+"id": "S2_f34e0ece8d5e",
+"decision": "N",
+"year": 2025,
+"title": "USING BIOMIMETIC PRINCIPLES IN ADAPTIVE FACADES"
+},
+{
+"id": "W4411593924",
+"decision": "E1",
+"year": 2025,
+"title": "livMatS biomimetic shell: Structural advancements of segmented timber shells towards permanent building constructions"
+},
+{
+"id": "W7213616468",
+"decision": "I",
+"year": 2026,
+"title": "A Bio-Cultural Biomimetic Framework for Climate-Responsive Building Envelopes in Hot and Arid Environments: Integrating Biological Mechanisms and Saoura Vernacular Knowledge"
+},
+{
+"id": "W7118017660",
+"decision": "E1",
+"year": 2026,
+"title": "A Bio-Inspired Approach to Sustainable Building Design Optimization: Multi-Objective Flow Direction Algorithm with One-Hot Encoding"
+},
+{
+"id": "W7225346031",
+"decision": "I",
+"year": 2026,
+"title": "A Bioinspired Photon‐Gated Phase‐Change Textile for Two‐Stage Heat‐Flux Regulation of Building Envelopes"
+},
+{
+"id": "W7147728926",
+"decision": "I",
+"year": 2026,
+"title": "A Biomimetic Kinetic Facade Module to Enhance Building Thermoregulation: An Office Building"
+},
+{
+"id": "W7213471928",
+"decision": "I",
+"year": 2026,
+"title": "A Cocoon-Inspired Integrated Phase Change Envelope with Inner Regulation and Outer Insulation for Building Thermal Management"
+},
+{
+"id": "S2_1b0d07fb34a2",
+"decision": "I",
+"year": 2026,
+"title": "A Conceptual biomimicry-inspired model for enhancing energy efficiency in high-rise buildings in Sri Lanka"
+},
+{
+"id": "W7162251881",
+"decision": "I",
+"year": 2026,
+"title": "A Generative AI Framework for Carbon-Oriented Biomimetic Façade Design in Architecture"
+},
+{
+"id": "W7160780998",
+"decision": "E1",
+"year": 2026,
+"title": "A bioinspired suction-activated nanofibrous patch for adaptive skin adhesion and enhanced transdermal delivery"
+},
+{
+"id": "W7161764687",
+"decision": "I",
+"year": 2026,
+"title": "A biomimetic design framework for adaptive solar building envelopes: Integrating solar adaptation factors, performance development, and decision support"
+},
+{
+"id": "W7171543978",
+"decision": "E1",
+"year": 2026,
+"title": "ADVANCES IN BUILDING MATERIALS AND CONSTRUCTION ENGINEERING: INNOVATION, DESIGNS AND APPLICATIONS"
+},
+{
+"id": "S2_7a1a1f3e3585",
+"decision": "E1",
+"year": 2026,
+"title": "Adaptive Bio-PCM Envelopes for Smart City Thermal Regulation"
+},
+{
+"id": "W7201878993",
+"decision": "E1",
+"year": 2026,
+"title": "Adaptive Facade Systems: An Evaluation of Design Scales and System Principles"
+},
+{
+"id": "W7172277186",
+"decision": "E1",
+"year": 2026,
+"title": "An analytical Framework for Contemporary Architectural Design: The Integration of Biomimicry and Artificial Intelligence in Sustainable Architecture"
+},
+{
+"id": "W7202188289",
+"decision": "N",
+"year": 2026,
+"title": "Aqua Vascular Tower: A Biomimetic Approach to Climate-Resilient Vertical Architecture in Dense Urban Settings"
+},
+{
+"id": "W7125369352",
+"decision": "I",
+"year": 2026,
+"title": "Architectural swarms for responsive façades and creative expression"
+},
+{
+"id": "W7129758184",
+"decision": "E1",
+"year": 2026,
+"title": "Architextiles: A Structural and Functional Review"
+},
+{
+"id": "W7127589056",
+"decision": "I",
+"year": 2026,
+"title": "BIOMIMETIC PASSIVE COOLING ARCHITECTURES FOR HOT-HUMID CLIMATES USING MACHINE LEARNING-DRIVEN COMPUTATIONAL DESIGN"
+},
+{
+"id": "W7237355816",
+"decision": "I",
+"year": 2026,
+"title": "BIOMIMICRY AND VERNACULAR KNOWLEDGE: TRANSLATING DESERT ADAPTATIONS INTO TESTABLE BUILDING ENVELOPE DESIGN RULES FOR HOT-ARID CLIMATES"
+},
+{
+"id": "W7154833654",
+"decision": "I",
+"year": 2026,
+"title": "Bio-Inspired Algorithmic Framework for AdaptiveFaçade Design in Energy-Efficient Architecture"
+},
+{
+"id": "W7135078717",
+"decision": "I",
+"year": 2026,
+"title": "Bio-inspired 4D printing of earthen soil composites for structural living wall applications"
+},
+{
+"id": "W7133196249",
+"decision": "E1",
+"year": 2026,
+"title": "Bioengineered living materials for environmental remediation and climate adaptation in nature-inspired decarbonization"
+},
+{
+"id": "W7204136563",
+"decision": "E1",
+"year": 2026,
+"title": "Bioinspired high refractive index of violet-emitting polycarbonate films doped with naphthalimide dye for luminescent solar concentrator windows"
+},
+{
+"id": "W7130524384",
+"decision": "I",
+"year": 2026,
+"title": "Biomimetic Adaptive Facades: Optimizing Energy Efficiency through Natural Analogues"
+},
+{
+"id": "W7171453721",
+"decision": "R",
+"year": 2026,
+"title": "Biomimetic Climate-Adaptive Building Envelopes: Mapping Research Trends and Assessing Technology Readiness Towards Real-World Implementation"
+},
+{
+"id": "W7225195704",
+"decision": "R",
+"year": 2026,
+"title": "Biomimetic Design in Architecture: A Systematic Review and Five-Dimensional Framework for Sustainable Building Performance"
+},
+{
+"id": "W7160285120",
+"decision": "I",
+"year": 2026,
+"title": "Biomimetic Design of a Climate-Responsive Building Envelope Cell Performing Under Both Hot and Cold Weather Conditions"
+},
+{
+"id": "W7203993785",
+"decision": "I",
+"year": 2026,
+"title": "Biomimetic Ventilation in Sub-Saharan Urban Housing"
+},
+{
+"id": "W7203759272",
+"decision": "I",
+"year": 2026,
+"title": "Biomimetic adaptive façades for integrated energy, daylight, and water performance in semi-arid climates"
+},
+{
+"id": "W7147136617",
+"decision": "I",
+"year": 2026,
+"title": "Biomimetic design techniques and conceptual models in graphic composition on glass facades"
+},
+{
+"id": "W7204054647",
+"decision": "R",
+"year": 2026,
+"title": "Biomimetic dynamic thermal management for building envelopes: Mechanisms, performance, and applications"
+},
+{
+"id": "W7224486206",
+"decision": "E1",
+"year": 2026,
+"title": "Breaking the aging-with-use trap: A bio-inspired multifunctional concrete system for autonomous thermal regulation in building envelopes"
+},
+{
+"id": "W7214755949",
+"decision": "E2",
+"year": 2026,
+"title": "Béton Roman Augmenté et Architecture Décentralisée"
+},
+{
+"id": "W7139127683",
+"decision": "E1",
+"year": 2026,
+"title": "Challenging the Biomimetic Promise 2.0: Negative Spillover of Bio-Inspired Versus Sustainability Framing on Public Perceptions of Bio-Inspired Technologies"
+},
+{
+"id": "W7214095466",
+"decision": "I",
+"year": 2026,
+"title": "Comparative Energy and Thermal Performance of Biomimetic Louver Retrofits in Hot-Arid Climate Residential Buildings"
+},
+{
+"id": "W7222849649",
+"decision": "E1",
+"year": 2026,
+"title": "Comparative Evaluation of Facade-Based Water Harvesting Technologies for Sustainable Buildings in India's Arid Climate"
+},
+{
+"id": "W7214921133",
+"decision": "E1",
+"year": 2026,
+"title": "Context-Grounded Conceptual Design of an Environmentally Sustainable Hotel in Shiraz, Iran: Biomimicry, Voronoi Geometry, and Solar Energy Generation"
+},
+{
+"id": "W7214169571",
+"decision": "E1",
+"year": 2026,
+"title": "Design and process parameter optimization of a gecko-locomotion inspired wall-climbing robot integrating experimental and CFD analysis"
+},
+{
+"id": "W7223085363",
+"decision": "N",
+"year": 2026,
+"title": "Design of thermosensitive bilayers for a dynamic photovoltaic facade"
+},
+{
+"id": "W7131292504",
+"decision": "I",
+"year": 2026,
+"title": "Designing more-than-human thermal comfort: bio-inspired evaporative cooling in porous facade components for cavity-nesting wild bees"
+},
+{
+"id": "W7164850103",
+"decision": "E1",
+"year": 2026,
+"title": "Early-stage shading design evaluation for buildings: A workflow accessing energy performance on AI-generated 3D geometry"
+},
+{
+"id": "W7129341386",
+"decision": "I",
+"year": 2026,
+"title": "Elevated Ventilated Canopy System with Optional Evaporative Cooling (EVCS-OC): Biomimetic Passive-Active Strategy for Reducing Energy Consumption and Improving HVAC Efficiency in Urban Buildings / Sistema de Copa Elevada Ventilada con Enfriamiento Evaporativo Opcional (SCEV-EE): Estrategia pasiva y activa biomimética para reducción del consumo energético y mejora de eficiencia en sistemas HVAC en edificios urbanos."
+},
+{
+"id": "W7171406340",
+"decision": "N",
+"year": 2026,
+"title": "Energy-saving oriented: A biomimetic composite material for building with high flame retardancy and efficient adaptive temperature regulation capabilities"
+},
+{
+"id": "W7168041636",
+"decision": "E1",
+"year": 2026,
+"title": "Exploring Unconventional Static Façade–Interior design Interactions for Daylighting Performance and Visual Comfort: A Systematic Review"
+},
+{
+"id": "S2_977dd2807dbc",
+"decision": "R",
+"year": 2026,
+"title": "Exploring multi-level biomimicry in building façade construction"
+},
+{
+"id": "W7168280650",
+"decision": "I",
+"year": 2026,
+"title": "Explosive façades: translating plant mechanics into rapid hygroscopic actuation for adaptive building envelopes"
+},
+{
+"id": "W7128787545",
+"decision": "R",
+"year": 2026,
+"title": "From Biomimicry to Climate-Responsive Architecture: Prioritizing Bio-Based and Bio-Inspired Strategies for Sustainable Buildings in Tropical Monsoon Climates"
+},
+{
+"id": "W7222544478",
+"decision": "E1",
+"year": 2026,
+"title": "From Retrofitting to Adaptive Fitting: Time Scale and Locus of Change Capacity in Adaptive and Demountable Building Envelopes"
+},
+{
+"id": "W7216489532",
+"decision": "R",
+"year": 2026,
+"title": "Future Horizons of Biomimicry in Architectural Sustainability: Challenges, Opportunities, and Climate Change Adaptation"
+},
+{
+"id": "W7166594311",
+"decision": "E1",
+"year": 2026,
+"title": "Geo-Aesthetics: An Application-Oriented Generative Framework for Translating Remote Sensing Landscape Morphologies into Parametric Design Patterns"
+},
+{
+"id": "W7138836135",
+"decision": "E1",
+"year": 2026,
+"title": "Innovative Building Solutions for Future Climate Challenges"
+},
+{
+"id": "W7165171670",
+"decision": "E1",
+"year": 2026,
+"title": "Innovative Façade Materials and Their Tectonic Implications: A Meta-Analysis and Taxonomical Framework"
+},
+{
+"id": "W4415245648",
+"decision": "E1",
+"year": 2026,
+"title": "Integrating dynamic façade design into architectural education and practice through Mashrabiya-inspired kinetic systems"
+},
+{
+"id": "W7161034557",
+"decision": "E1",
+"year": 2026,
+"title": "Intelligent innovative design in architecture: advancing adaptive strategies for sustainable built environments"
+},
+{
+"id": "W7171455107",
+"decision": "E1",
+"year": 2026,
+"title": "Laser-Textured Hexagonal Patterns for Nucleation Control in Ambient Water Harvesting."
+},
+{
+"id": "S2_c5125cdc3b04",
+"decision": "I",
+"year": 2026,
+"title": "Learning from nature: biomimicry-inspired daylighting design for reducing artificial lighting in urban buildings"
+},
+{
+"id": "W7222849551",
+"decision": "E1",
+"year": 2026,
+"title": "Lightweight, biomimetic, hierarchical aerogels with excellent flame-retardant properties for highly efficient fire protection and thermal insulation"
+},
+{
+"id": "W7139067449",
+"decision": "E1",
+"year": 2026,
+"title": "Making New High Tech Biomaterials in the Anthropocene Era"
+},
+{
+"id": "W7169876169",
+"decision": "I",
+"year": 2026,
+"title": "Multi-criteria comparison of Al-Bahr towers and cactus-inspired kinetic façades assessed through an established energy simulation framework"
+},
+{
+"id": "W7202211781",
+"decision": "E1",
+"year": 2026,
+"title": "Multi‐Scale Bionic Structure Constructs Biomass Flame‐Retardant Thermal Insulation Foam Material"
+},
+{
+"id": "W7119079613",
+"decision": "I",
+"year": 2026,
+"title": "Nanoscale Cuticle Mass Density Variations in Bio-Inspired Thermochromic Coatings Influenced by Hierarchical Structuring"
+},
+{
+"id": "W7139120559",
+"decision": "I",
+"year": 2026,
+"title": "Nanoscale analysis of superhydrophobic and anti-icing biomimetic carbon-modified geopolymer"
+},
+{
+"id": "W7218746775",
+"decision": "I",
+"year": 2026,
+"title": "Nanotechnology-enhanced 4D-printed hydromorphic façade system for adaptive building envelopes: Design, simulation and prototype validation"
+},
+{
+"id": "W7220376771",
+"decision": "I",
+"year": 2026,
+"title": "Quantifying the Energy Performance of Biomimetic Façade Systems in Hot–Arid Residential Buildings: A Libyan Case Study"
+},
+{
+"id": "W7168097265",
+"decision": "I",
+"year": 2026,
+"title": "RESILIENT ECOMIMICRY-BASED BUILDING ENVELOPES FOR PASSIVE COOLING IN LAGOS AND ABUJA, NIGERIA"
+},
+{
+"id": "S2_b15eec7497f3",
+"decision": "I",
+"year": 2026,
+"title": "Research on the Environmental Protection Application of Superhydrophobic Bionic Materials in Building Facades from the Perspective of Art and Science Fusion"
+},
+{
+"id": "W7223514338",
+"decision": "R",
+"year": 2026,
+"title": "THE INTEGRATION OF BIOMIMETIC ENGINEERING IN HIGH-PERFORMANCE SKYSCRAPERS"
+},
+{
+"id": "W7203710185",
+"decision": "I",
+"year": 2026,
+"title": "THE PERIPHYTON ROOF AND ADVANCED BIOMIMICRY FOR BUILDING ENVELOPES: IMPROVING ENERGY EFFICIENCY, WATER QUALITY ENHANCEMENT, URBAN HEAT ISLAND EFFECT AND NUTRIENT MITIGATION IN SEMI TROPICAL TO TROPICAL ENVIRONMENTS"
+},
+{
+"id": "W7225093547",
+"decision": "I",
+"year": 2026,
+"title": "The Concept of Biomimicry in the Form Determination Phase of Architectural Facade Design"
+},
+{
+"id": "W7155067218",
+"decision": "E1",
+"year": 2026,
+"title": "Thermal Performance-Driven Simulation and Optimization of Tessellated Façade Shading Systems in Mediterranean Educational Buildings"
+},
+{
+"id": "S2_705aa9077b40",
+"decision": "E1",
+"year": 2026,
+"title": "Toward Scalable Applications of Biomass Aerogels for Building Thermal Insulation."
+},
+{
+"id": "S2_0ff0b322e399",
+"decision": "R",
+"year": 2026,
+"title": "Towards Breathable Building Envelopes for a Synergy between Thermal Comfort and Energy Efficiency"
+},
+{
+"id": "W7161982531",
+"decision": "X",
+"year": 2026,
+"title": "Towards a Methodology for Form Creativity of Building Envelope to Enhance Thermal Performance (Biomimicry as a Tool for Form Creativity)"
+}
+]
