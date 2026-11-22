@@ -2,7 +2,7 @@ name: s2
 on:
   workflow_dispatch:
   push:
-    paths: ["audit/fetch_s2.py", ".github/workflows/s2.yml"]
+    paths: ["audit/fetch_s2.py"]
 permissions:
   contents: write
 jobs:
@@ -15,5 +15,5 @@ jobs:
       - run: python audit/fetch_s2.py
       - run: |
           git config user.name "audit-bot"; git config user.email "audit-bot@users.noreply.github.com"
-          git pull -q --rebase
-          git add audit/raw; git commit -m "data: Semantic Scholar supplement" || true; git push
+          git add audit/raw; git commit -m "data: Semantic Scholar supplement" || true
+          git pull -q --rebase; git push

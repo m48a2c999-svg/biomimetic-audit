@@ -15,4 +15,4 @@ jobs:
       - run: python refs/verify_crossref.py
       - run: |
           git config user.name "audit-bot"; git config user.email "audit-bot@users.noreply.github.com"
-          git pull -q --rebase; git add refs/refs_verified.json; git commit -m "refs: crossref check" || true; git push
+          git add refs/refs_verified.json; git commit -m "refs: crossref check" || true; git pull -q --rebase; git push
