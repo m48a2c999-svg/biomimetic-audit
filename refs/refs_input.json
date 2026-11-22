@@ -308,7 +308,7 @@
  {
   "key": "Mathews2019",
   "type": "J",
-  "doi": "10.3197/096327119X15579936382518",
+  "doi": "",
   "title": "Biomimicry and the problem of praxis",
   "year": 2019,
   "first_author": "Mathews",
@@ -488,11 +488,11 @@
  {
   "key": "Kang2022KR",
   "type": "J",
-  "doi": "",
+  "doi": "10.5659/JAIK.2022.38.11.141",
   "title": "바이오미미크리 건축계획 과정의 체계화 및 웹기반 정보시스템의 개발에 관한 연구",
   "year": 2022,
   "first_author": "강준경",
-  "container": ""
+  "container": "대한건축학회논문집, 38(11), 141–152"
  },
  {
   "key": "Attia2018",
@@ -533,10 +533,118 @@
  {
   "key": "Mead2017",
   "type": "J",
-  "doi": "",
+  "doi": "10.1680/jbibn.16.00012",
   "title": "The elephant in the room: biomimetics and sustainability?",
   "year": 2017,
   "first_author": "Mead",
-  "container": "Bioinspiration & Biomimetics"
+  "container": "Bioinspired, Biomimetic and Nanobiomaterials"
+ },
+ {
+  "key": "Dicks2019",
+  "type": "J",
+  "doi": "10.3197/096327119X15579936381780",
+  "title": "Can imitating nature save the planet?",
+  "year": 2019,
+  "first_author": "Dicks",
+  "container": "Environmental Values"
+ },
+ {
+  "key": "Bensaude-Vincent2019",
+  "type": "J",
+  "doi": "",
+  "title": "Bio-informed emerging technologies and their relation to the sustainability aims of biomimicry",
+  "year": 2019,
+  "first_author": "Bensaude-Vincent",
+  "container": "Environmental Values"
+ },
+ {
+  "key": "Page2021",
+  "type": "J",
+  "doi": "10.1136/bmj.n71",
+  "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+  "year": 2021,
+  "first_author": "Page",
+  "container": "BMJ"
+ },
+ {
+  "key": "Lee2010KR",
+  "type": "J",
+  "doi": "",
+  "title": "주거건물용 이중외피 시스템의 블라인드 조절에 따른 에너지 성능평가에 관한 연구",
+  "year": 2010,
+  "first_author": "이소연",
+  "container": "한국태양에너지학회 논문집, 30(6), 1–9"
+ },
+ {
+  "key": "Hoffmann2015",
+  "type": "R",
+  "doi": "",
+  "title": "Potential energy savings with exterior shades in large office buildings and the impact of discomfort glare",
+  "year": 2015,
+  "first_author": "Hoffmann",
+  "container": "4th Building Enclosure Science & Technology Conference (BEST4), Kansas City, MO (LBNL-187170)"
+ },
+ {
+  "key": "Tabadkani2020",
+  "type": "J",
+  "doi": "10.1016/j.buildenv.2020.106801",
+  "title": "A review of automatic control strategies based on simulations for adaptive facades",
+  "year": 2020,
+  "first_author": "Tabadkani",
+  "container": "Building and Environment"
+ },
+ {
+  "key": "Walloe2016",
+  "type": "J",
+  "doi": "10.1080/23328940.2015.1088502",
+  "title": "Arterio-venous anastomoses in the human skin and their role in temperature control",
+  "year": 2016,
+  "first_author": "Walløe",
+  "container": "Temperature"
+ },
+ {
+  "key": "Dawson1997",
+  "type": "J",
+  "doi": "10.1038/37745",
+  "title": "How pine cones open",
+  "year": 1997,
+  "first_author": "Dawson",
+  "container": "Nature"
+ },
+ {
+  "key": "Atamian2016",
+  "type": "J",
+  "doi": "10.1126/science.aaf9793",
+  "title": "Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits",
+  "year": 2016,
+  "first_author": "Atamian",
+  "container": "Science"
+ },
+ {
+  "key": "Hetherington2003",
+  "type": "J",
+  "doi": "10.1038/nature01843",
+  "title": "The role of stomata in sensing and driving environmental change",
+  "year": 2003,
+  "first_author": "Hetherington",
+  "container": "Nature"
+ },
+ {
+  "key": "Jones2004",
+  "type": "J",
+  "doi": "10.1126/science.1096340",
+  "title": "Honey bee nest thermoregulation: Diversity promotes stability",
+  "year": 2004,
+  "first_author": "Jones",
+  "container": "Science"
+ },
+ {
+  "key": "Bonabeau1996",
+  "type": "J",
+  "doi": "10.1098/rspb.1996.0214",
+  "title": "Quantitative study of the fixed threshold model for the regulation of division of labour in insect societies",
+  "year": 1996,
+  "first_author": "Bonabeau",
+  "container": "Proceedings of the Royal Society B"
  }
 ]
