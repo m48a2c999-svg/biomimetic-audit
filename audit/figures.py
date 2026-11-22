@@ -34,7 +34,7 @@ for k in range(3): arrow(ax, 0.17 + k * 0.33, 0.24, 0.5, 0.17)
 fig.savefig(OUT + "fig1_1_flow.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 3-1 비판 축 → 주장 → 판정 항목
-fig, ax = plt.subplots(figsize=(6.3, 3.6)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
+fig, ax = plt.subplots(figsize=(6.3, 3.9)); ax.set_xlim(0, 1); ax.set_ylim(-0.04, 1.07); ax.axis("off")
 axes_ = ["인식론\n(설계 대 과학)", "성능 근거", "지속가능성 약속", "미학·윤리"]
 claims = ["C1 특정 생물에서 왔다", "C2 생물 원리를 옮겼다", "C3 성능이 좋다", "C4 생체모방이라서 좋다", "C5 지속가능하다"]
 items_ = ["B1·B2·P", "T1·B2", "E·Q", "R(=3)", "S1·S2"]
@@ -48,14 +48,14 @@ for k, (c, it) in enumerate(zip(claims, items_)):
 links = [(0, 0), (0, 1), (1, 2), (1, 3), (2, 4)]
 for a, c in links:
     arrow(ax, 0.24, 0.88 - a * 0.22, 0.38, 0.905 - c * 0.19)
-ax.text(0.13, 0.08, "미학·윤리 축은\n판정하지 않고 해석에 사용", ha="center", fontsize=7.5, color=MUTE)
-ax.text(0.54, 0.98, "비판이 겨누는 주장", ha="center", fontsize=8, color=MUTE); ax.text(0.875, 0.98, "판정 항목", ha="center", fontsize=8, color=MUTE)
+ax.text(0.13, 0.11, "미학·윤리 축은 판정하지 않고\n해석의 틀로 사용(제8장)", ha="center", va="top", fontsize=7.5, color=MUTE)
+ax.text(0.13, 1.01, "비판의 축", ha="center", fontsize=8, color=MUTE); ax.text(0.54, 1.01, "비판이 겨누는 주장", ha="center", fontsize=8, color=MUTE); ax.text(0.875, 1.01, "판정 항목", ha="center", fontsize=8, color=MUTE)
 fig.savefig(OUT + "fig3_1_framework.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 4-1 PRISMA 흐름
 sc = collections.Counter(s["decision"] for s in S)
 oa_n = sum(1 for l in open("audit/raw/openalex.jsonl")); s2_n = sum(1 for l in open("audit/raw/s2_search.jsonl"))
-fig, ax = plt.subplots(figsize=(6.0, 4.2)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
+fig, ax = plt.subplots(figsize=(6.0, 4.5)); ax.set_xlim(0, 1); ax.set_ylim(-0.1, 1.0); ax.axis("off")
 box(ax, 0.03, 0.84, 0.42, 0.12, f"OpenAlex 검색\n{oa_n}건")
 box(ax, 0.55, 0.84, 0.42, 0.12, f"Semantic Scholar 검색\n{s2_n}건")
 box(ax, 0.25, 0.64, 0.50, 0.11, f"중복 제거 후 후보\n{len(S)}건")
@@ -68,8 +68,8 @@ box(ax, 0.02, 0.12, 0.30, 0.18, f"초록 없음(적격)\n{sc['N']}편\n— 판�
 box(ax, 0.35, 0.12, 0.30, 0.18, f"1차 연구\n{sc['I']}편\n— 전수 정독 판정", fc="#e6eef5", bold=True)
 box(ax, 0.68, 0.12, 0.30, 0.18, f"리뷰·개관\n{sc['R']}편\n— 담론 참고", fc="#f7f7f7", fs=7.5)
 for x in (0.17, 0.5, 0.83): arrow(ax, 0.5, 0.44, x, 0.30)
-box(ax, 0.35, 0.0, 0.30, 0.09, f"원문 표본 재판정 {ft['n']}편", fc="#fbeee6", ec=ACC2, fs=7.5)
-arrow(ax, 0.5, 0.12, 0.5, 0.09)
+box(ax, 0.35, -0.08, 0.30, 0.09, f"원문 표본 재판정 {ft['n']}편", fc="#fbeee6", ec=ACC2, fs=7.5)
+arrow(ax, 0.5, 0.12, 0.5, 0.01)
 fig.savefig(OUT + "fig4_1_prisma.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 5-1 연도별
@@ -81,8 +81,7 @@ b1 = yc("I"); b2 = yc("R"); b3 = yc("N")
 ax.bar(years, b1, color=ACC, label="1차 연구(판정)")
 ax.bar(years, b2, bottom=b1, color="#9fbad0", label="리뷰·개관")
 ax.bar(years, b3, bottom=[a + b for a, b in zip(b1, b2)], color="#d9d9d9", label="초록 없음(적격)")
-ax.set_xticks(years[::2]); ax.set_ylabel("편수"); ax.legend(frameon=False, fontsize=7.5)
-ax.text(2026, max(a + b + c for a, b, c in zip(b1, b2, b3)) * 0.98, "2026년은 11월 22일까지", ha="right", fontsize=7, color=MUTE)
+ax.set_xticks(years[::2]); ax.set_ylabel("편수"); ax.legend(frameon=False, fontsize=7.5, loc="upper left", title="2026년은 11월 22일까지", title_fontsize=7)
 fig.savefig(OUT + "fig5_1_years.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 5-2 모방 수준 × 근거 유형
@@ -125,12 +124,12 @@ fig, ax = plt.subplots(figsize=(6.3, 2.8))
 for (k, l), m in zip(keys, ["o", "s", "^", "D", "v"]):
     y = [res["by_period"][k][q]["pct"] for q in pers]
     ax.plot(pers, y, marker=m, lw=1, ms=4, label=f"{l} (p={res['trend'][k]['p']:.2f})")
-ax.set_ylabel("비율(%)"); ax.set_ylim(0, 45); ax.legend(frameon=False, fontsize=7, ncol=2)
+ax.set_ylabel("비율(%)"); ax.set_ylim(0, 42); ax.legend(frameon=False, fontsize=7, ncol=3, loc="upper center", bbox_to_anchor=(0.5, -0.22))
 ax.set_xticks(range(3)); ax.set_xticklabels([f"{q}\n(n={res['period_n'][q]})" for q in pers])
 fig.savefig(OUT + "fig6_3_period.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 6-4 초록 대 원문
-ks = [("B1", "생물 명시"), ("B2>=1", "기능 이상"), ("B2=2", "기제"), ("T1", "전이 절차"), ("Q", "정량 성능"), ("R>=1", "비교 기준"), ("R=3", "같은 기능 대안"), ("S2=2", "전과정 근거")]
+ks = [("B1", "생물 명시"), ("B2>=1", "기능 이상"), ("B2=2", "기제"), ("T1", "전이 절차"), ("Q", "정량 성능"), ("R>=1", "비교 기준"), ("R=3", "같은 기능\n대안"), ("S2=2", "전과정\n근거")]
 fig, ax = plt.subplots(figsize=(6.3, 2.6)); import numpy as np
 x = np.arange(len(ks)); w = 0.38
 ax.bar(x - w / 2, [ft[k]["abs_pct"] for k, _ in ks], w, color="#9fbad0", label="초록 판정")
@@ -149,10 +148,10 @@ x = np.arange(3)
 axs[0].bar(x - 0.2, [r3[t][0] for t in fx], 0.38, color="#9fbad0", label="고정")
 axs[0].bar(x + 0.2, [r3[t][0] for t in cu], 0.38, color=ACC2, label="컷오프 각도 제어\n(이전 원고: 해바라기·솔방울 원리)")
 axs[0].axhline(0, color=INK, lw=0.6); axs[0].set_xticks(x); axs[0].set_xticklabels(devs); axs[0].set_ylabel("연간 EUI 변화(%)"); axs[0].set_title("(a) 상세 3개 동 블록", fontsize=8.5)
-axs[0].legend(frameon=False, fontsize=6.5, loc="lower left")
+fig.legend(*axs[0].get_legend_handles_labels(), frameon=False, fontsize=7, ncol=2, loc="lower center", bbox_to_anchor=(0.5, -0.08))
 axs[1].bar(x - 0.2, [med[t] for t in fx], 0.38, color="#9fbad0"); axs[1].bar(x + 0.2, [med[t] for t in cu], 0.38, color=ACC2)
 axs[1].axhline(0, color=INK, lw=0.6); axs[1].set_xticks(x); axs[1].set_xticklabels(devs); axs[1].set_title("(b) 257동 건물별 중앙값", fontsize=8.5)
-fig.tight_layout(); fig.savefig(OUT + "fig7_1_case_p2.png", bbox_inches="tight"); plt.close(fig)
+fig.tight_layout(rect=(0, 0.06, 1, 1)); fig.savefig(OUT + "fig7_1_case_p2.png", bbox_inches="tight"); plt.close(fig)
 
 fig, ax = plt.subplots(figsize=(6.3, 2.4))
 labs = ["꿀벌 원리: 작동 역치 분산\n(3개 동, 125가지 배정, 균일 대비)", "일반 운영: 운전 시차 ±2시간\n(3개 동, 장치 없음)", "일반 운영: 운전 시차 ±1시간\n(257동, 장치 없음)", "일반 운영: 운전 시차 ±2시간\n(257동, 장치 없음)"]
@@ -160,7 +159,7 @@ lo_ = [-0.09, -4.54, -2.181, -3.307]; hi_ = [0.20, -4.54, -2.181, -3.307]
 for k, (a, b) in enumerate(zip(lo_, hi_)):
     if a == b: ax.plot([a], [k], "o", color=ACC if k else ACC2)
     else: ax.plot([a, b], [k, k], lw=5, color=ACC2, solid_capstyle="butt")
-    ax.text(min(a, b) - 0.15, k, f"{a:+.2f}%" if a == b else f"{a:+.2f}~{b:+.2f}%", ha="right", va="center", fontsize=7.5)
+    ax.text(min(a, b) - 0.15, k, (f"{a:+.2f}%" if a == b else f"{a:+.2f}~{b:+.2f}%").replace("-", "−"), ha="right", va="center", fontsize=7.5)
 ax.axvline(0, color=INK, lw=0.6); ax.set_yticks(range(4)); ax.set_yticklabels(labs, fontsize=7.5); ax.set_xlim(-6, 1); ax.invert_yaxis()
 ax.set_xlabel("블록 최대 전력 변화(%)")
 fig.savefig(OUT + "fig7_2_case_p4.png", bbox_inches="tight"); plt.close(fig)

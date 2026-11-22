@@ -11,6 +11,9 @@ for l in open("audit/manual_codes.txt"):
     x = l.split()
     i = int(x[0])
     man[ids[i]] = dict(B1=int(x[1]), B2=int(x[2]), T1=int(x[3]), L=Lmap[x[4]], E=int(x[5]), Q=int(x[6]), R=int(x[7]), S1=int(x[8]), S2=int(x[9]))
+# 일관성 재점검(audit/recheck_log.json) 뒤의 최종 정독 판정을 기준으로 쓴다
+ALL = json.load(open("audit/manual_codes_all.json"))
+man = {i: ALL[i] for i in man}
 json.dump(man, open("audit/manual_codes.json", "w"), indent=0)
 out = {}
 for k in ["B1", "B2", "T1", "L", "E", "Q", "R", "S1", "S2"]:

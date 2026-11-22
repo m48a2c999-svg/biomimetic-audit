@@ -2,11 +2,11 @@
  "n": 18,
  "note": "공개 접근 원문 46편 시도, 20편 확보, 판독 불가 2편 제외",
  "B1": {
-  "abstract": 8,
+  "abstract": 9,
   "fulltext": 15,
-  "abs_pct": 44.4,
+  "abs_pct": 50.0,
   "ft_pct": 83.3,
-  "added_by_ft": 7,
+  "added_by_ft": 6,
   "removed_by_ft": 0
  },
  "B2>=1": {
@@ -34,27 +34,27 @@
   "removed_by_ft": 0
  },
  "E>=2": {
-  "abstract": 10,
+  "abstract": 11,
   "fulltext": 12,
-  "abs_pct": 55.6,
+  "abs_pct": 61.1,
   "ft_pct": 66.7,
-  "added_by_ft": 2,
-  "removed_by_ft": 0
- },
- "Q": {
-  "abstract": 3,
-  "fulltext": 4,
-  "abs_pct": 16.7,
-  "ft_pct": 22.2,
   "added_by_ft": 1,
   "removed_by_ft": 0
  },
+ "Q": {
+  "abstract": 6,
+  "fulltext": 6,
+  "abs_pct": 33.3,
+  "ft_pct": 33.3,
+  "added_by_ft": 0,
+  "removed_by_ft": 0
+ },
  "R>=1": {
-  "abstract": 5,
+  "abstract": 6,
   "fulltext": 10,
-  "abs_pct": 27.8,
+  "abs_pct": 33.3,
   "ft_pct": 55.6,
-  "added_by_ft": 5,
+  "added_by_ft": 4,
   "removed_by_ft": 0
  },
  "R=3": {

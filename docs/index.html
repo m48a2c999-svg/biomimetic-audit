@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Crect width=%2216%22 height=%2216%22 fill=%22%23c0622b%22/%3E%3C/svg%3E">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>건축 외피 연구에서 생체모방 주장의 비판적 검토</title>
+<meta name="description" content="외피 생체모방 1차 연구 193편의 주장 판정과 키네틱 파사드 시뮬레이션 사례 — 판정 기준, 결과, 판정 자료, 보고 점검표">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;800&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f6f3ee; --paper2:#efeae2; --ink:#1d1d1b; --mute:#6b6a64; --rule:#d8d2c6;
+  --blue:#1f5f8b; --blue2:#9fbad0; --rust:#c0622b; --rust2:#f3dfd2;
+  --serif:"Noto Serif KR",serif; --sans:"Noto Sans KR",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.75;-webkit-font-smoothing:antialiased}
+a{color:var(--blue)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 28px}
+nav{position:sticky;top:0;z-index:10;background:rgba(246,243,238,.94);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule)}
+nav .wrap{display:flex;gap:22px;align-items:center;height:52px;overflow-x:auto;white-space:nowrap}
+nav b{font-family:var(--serif);font-weight:800;margin-right:auto;font-size:15px}
+nav a{color:var(--ink);text-decoration:none;font-size:14px;opacity:.75}
+nav a:hover{opacity:1;color:var(--rust)}
+header{padding:88px 0 56px;border-bottom:1px solid var(--rule)}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--rust)}
+h1{font-family:var(--serif);font-weight:800;font-size:clamp(30px,4.6vw,52px);line-height:1.22;margin:14px 0 10px;letter-spacing:-.01em}
+.sub{font-family:var(--serif);font-size:clamp(17px,2vw,21px);color:var(--mute);margin:0 0 34px}
+.lede{max-width:720px;font-size:18px}
+.author{margin-top:28px;font-size:14px;color:var(--mute)}
+.hero-stat{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:48px;border-top:2px solid var(--ink)}
+.hero-stat div{padding:18px 18px 4px 0;border-right:1px solid var(--rule)}
+.hero-stat div:last-child{border-right:0}
+.hero-stat .n{font-family:var(--serif);font-weight:800;font-size:40px;line-height:1.1}
+.hero-stat .n.r{color:var(--rust)}
+.hero-stat .l{font-size:13.5px;color:var(--mute);line-height:1.5;margin-top:6px}
+section{padding:72px 0;border-bottom:1px solid var(--rule)}
+h2{font-family:var(--serif);font-weight:800;font-size:clamp(24px,3vw,32px);margin:6px 0 20px;line-height:1.3}
+h3{font-family:var(--serif);font-weight:600;font-size:19px;margin:34px 0 10px}
+.num{font-family:var(--mono);font-size:12px;color:var(--rust);letter-spacing:.1em}
+p.w{max-width:760px}
+.claims{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:26px 0}
+.claim{background:#fff;border:1px solid var(--rule);border-top:3px solid var(--blue);padding:16px 14px;border-radius:2px}
+.claim.c4{border-top-color:var(--rust)}
+.claim .c{font-family:var(--mono);font-size:12px;color:var(--mute)}
+.claim .t{font-family:var(--serif);font-weight:600;font-size:16.5px;line-height:1.4;margin:4px 0 10px}
+.claim .e{font-size:13px;color:var(--mute);line-height:1.55}
+.axes{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border:1px solid var(--rule);background:#fff}
+.axes div{padding:16px;border-right:1px solid var(--rule);font-size:14px;line-height:1.6}
+.axes div:last-child{border-right:0}
+.axes b{display:block;font-family:var(--serif);font-size:16px;margin-bottom:4px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-weight:700;border-bottom:1.5px solid var(--ink);background:transparent;white-space:nowrap}
+thead tr{border-top:2px solid var(--ink)}
+td.c,th.c{text-align:center}
+.bars{margin:18px 0}
+.bar{display:grid;grid-template-columns:230px 1fr 70px;align-items:center;gap:12px;margin:7px 0;font-size:14px}
+.track{position:relative;height:16px;background:var(--paper2)}
+.fill{position:absolute;left:0;top:0;bottom:0;background:var(--blue)}
+.fill.r{background:var(--rust)}
+.ci{position:absolute;top:50%;height:1px;background:var(--ink)}
+.ci:before,.ci:after{content:"";position:absolute;top:-4px;width:1px;height:9px;background:var(--ink)}
+.ci:before{left:0}.ci:after{right:0}
+.bar .v{font-family:var(--mono);font-size:13px}
+.ladder{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;align-items:end;height:250px;margin:24px 0 8px;border-bottom:1.5px solid var(--ink)}
+.step{display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%}
+.step .col{width:62%;background:var(--blue);transition:height .6s}
+.step.all .col{background:#999}.step.l4 .col{background:var(--rust)}
+.step .k{font-family:var(--serif);font-weight:800;font-size:20px;margin-bottom:4px}
+.lab5{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;font-size:12.5px;text-align:center;color:var(--mute);line-height:1.45}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:36px}
+.note{font-size:13.5px;color:var(--mute)}
+figure{margin:20px 0}
+figure img{width:100%;background:#fff;border:1px solid var(--rule)}
+figcaption{font-size:13px;color:var(--mute);margin-top:6px}
+.pull{font-family:var(--serif);font-size:22px;line-height:1.55;border-left:3px solid var(--rust);padding:4px 0 4px 20px;margin:28px 0;max-width:780px}
+.db-tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:16px 0}
+.db-tools input,.db-tools select{font:inherit;font-size:14px;padding:7px 10px;border:1px solid var(--rule);background:#fff;border-radius:2px}
+.db-tools input{flex:1;min-width:220px}
+.db-wrap{max-height:560px;overflow:auto;border:1px solid var(--rule);background:#fff}
+.db-wrap table{font-size:13px}
+.db-wrap th{position:sticky;top:0;background:#fff;cursor:pointer}
+.db-wrap td.t{min-width:280px}
+.db-wrap td.lvl{white-space:nowrap}
+.lv{display:inline-block;min-width:22px;text-align:center;font-family:var(--mono);font-size:12px;padding:1px 6px;border-radius:2px;background:var(--paper2)}
+.lv.l2{background:var(--blue2)}.lv.l3{background:var(--blue);color:#fff}
+.code{font-family:var(--mono);font-size:12px}
+.code .z{color:#bbb}
+.check{counter-reset:k;list-style:none;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 36px}
+.check li{counter-increment:k;padding:12px 0 12px 44px;position:relative;border-bottom:1px solid var(--rule);font-size:14.5px}
+.check li:before{content:counter(k,decimal-leading-zero);position:absolute;left:0;top:12px;font-family:var(--mono);color:var(--rust);font-size:13px}
+.check li b{display:block;font-family:var(--serif)}
+.dl{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.dl a{display:block;background:#fff;border:1px solid var(--rule);padding:16px;text-decoration:none;color:var(--ink);border-radius:2px}
+.dl a:hover{border-color:var(--rust)}
+.dl small{display:block;color:var(--mute);font-size:12.5px;margin-top:4px}
+footer{padding:40px 0 60px;font-size:13px;color:var(--mute)}
+@media (max-width:860px){
+  .claims{grid-template-columns:1fr 1fr}.axes{grid-template-columns:1fr 1fr}.hero-stat{grid-template-columns:1fr 1fr}
+  .two{grid-template-columns:1fr}.check{grid-template-columns:1fr}.dl{grid-template-columns:1fr}
+  .bar{grid-template-columns:130px 1fr 56px;font-size:12.5px}
+  .hero-stat div{border-right:0;border-bottom:1px solid var(--rule)}
+  section table{display:block;overflow-x:auto;font-size:13px}
+  .lab5{font-size:11px}
+}
+</style>
+</head>
+<body>
+<nav><div class="wrap"><b>생체모방 주장 판정</b>
+<a href="#question">질문</a><a href="#method">방법</a><a href="#results">결과</a><a href="#case">사례</a><a href="#db">판정 자료</a><a href="#checklist">점검표</a><a href="#files">자료</a></div></nav>
+
+<header><div class="wrap">
+<div class="kicker">Claim audit · Building envelopes · 2000–2026</div>
+<h1>건축 외피 연구에서<br>생체모방 주장의 비판적 검토</h1>
+<p class="sub">체계적 주장 판정과 키네틱 파사드 시뮬레이션 사례를 중심으로</p>
+<p class="lede">"생체모방"이라는 이름은 생물학 지식이 설계에 들어왔다는 것, 성능이 낫다는 것, 지속가능하다는 것을 보증하는가. 본 연구는 생체모방 건축에 대한 비판을 확인 가능한 판정 기준으로 바꾸어 외피 생체모방 1차 연구 193편에 적용하고, 연구자 자신의 키네틱 파사드 연구를 같은 기준으로 다시 읽었다.</p>
+<div class="hero-stat">
+  <div><div class="n">193</div><div class="l">판정한 외피 생체모방 1차 연구<br>(530건 수집 후 선별)</div></div>
+  <div><div class="n">17.6%</div><div class="l">생물의 작동 기제까지<br>기술한 연구</div></div>
+  <div><div class="n">7.3%</div><div class="l">같은 기능의 비생체모방 대안과<br>비교한 연구</div></div>
+  <div><div class="n r">0</div><div class="l">"생체모방이라서 좋다"에 필요한<br>근거를 모두 갖춘 연구</div></div>
+</div>
+<div class="author">조승완 · 국민대학교 일반대학원 건축학과</div>
+</div></header>
+
+<section id="question"><div class="wrap">
+<div class="num">01 — 질문</div>
+<h2>비판은 많지만, 문헌에서 확인된 적은 드물다</h2>
+<p class="w">생체모방 건축이 설계와 과학 사이에서 개념적 혼란을 겪고 생명과학이 거의 개입하지 않는다는 지적, 생물 출처가 성능과 지속가능성을 보장하지 않는다는 지적, 생체모방이 건축의 예술성과 자연과의 관계를 왜곡할 수 있다는 지적이 잇따른다. 이 비판들은 대부분 개념 분석이다. 본 연구는 비판을 네 축으로 정리하고, 그중 세 축을 "주장마다 필요한 근거가 있는가"로 바꾸어 물었다.</p>
+<div class="axes">
+  <div><b>인식론</b>생체모방은 설계인가 과학인가. 생물학 지식이 실제로 옮겨지는가.</div>
+  <div><b>성능 근거</b>같은 기능의 일반 해법보다 낫다는 근거가 있는가.</div>
+  <div><b>지속가능성 약속</b>자연에서 왔으니 지속가능하다는 전제는 성립하는가.</div>
+  <div><b>미학·윤리</b>건축의 표현적 가치와 자연과의 관계. 판정이 아니라 해석의 틀로 사용.</div>
+</div>
+</div></section>
+
+<section id="method"><div class="wrap">
+<div class="num">02 — 방법</div>
+<h2>다섯 가지 주장, 열 개의 판정 항목</h2>
+<p class="w">생체모방 외피 연구의 주장을 다섯 종류로 나누고, ISO 18458의 기능 분석–추상화–전이 절차와 성능 연구의 비교 설계 원칙에 따라 각 주장에 필요한 근거를 판정 항목으로 정했다.</p>
+<div class="claims">
+  <div class="claim"><div class="c">C1 · B1 B2 P</div><div class="t">특정 생물에서 왔다</div><div class="e">생물 모델, 생물의 기능과 작동 기제</div></div>
+  <div class="claim"><div class="c">C2 · T1</div><div class="t">생물 원리를 옮겼다</div><div class="e">추상화·전이 절차의 기록</div></div>
+  <div class="claim"><div class="c">C3 · E Q</div><div class="t">성능이 좋다</div><div class="e">근거 유형(개념~실건물), 정량 성능</div></div>
+  <div class="claim c4"><div class="c">C4 · R=3</div><div class="t">생체모방이라서 좋다</div><div class="e">같은 기능의 비생체모방 대안과의 비교</div></div>
+  <div class="claim"><div class="c">C5 · S1 S2</div><div class="t">지속가능하다</div><div class="e">운영 에너지를 넘는 전과정 근거</div></div>
+</div>
+<div class="two">
+<div>
+<h3>수집과 판정</h3>
+<p>OpenAlex와 Semantic Scholar에서 같은 질의식(생체모방 용어 AND 외피 용어, 제목·초록)으로 2000년 1월~2026년 11월 문헌을 수집해 530건을 얻었다. 제목·초록을 모두 읽고 외피 생체모방 1차 연구 193편을 골라 초록 정독으로 판정했으며, 공개 접근 원문 18편은 원문으로 다시 판정했다. 비율은 윌슨 95% 신뢰구간, 시기 변화는 코크런–아미티지 추세 검정으로 보았다.</p>
+</div>
+<div>
+<h3>근거 수준(누적)</h3>
+<table>
+<thead><tr><th>수준</th><th>조건</th><th>주장</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>생물 모델과 기능·기제</td><td>C1</td></tr>
+<tr><td>2</td><td>+ 전이 절차</td><td>C2</td></tr>
+<tr><td>3</td><td>+ 시뮬레이션 이상 근거의 정량 성능</td><td>C3</td></tr>
+<tr><td>4</td><td>+ 같은 기능의 비생체모방 대안과 비교</td><td>C4</td></tr>
+</tbody></table>
+<p class="note">장치 없는 기준안이나 고정 차양과의 비교는 장치의 효과를 보일 뿐, 생체모방의 기여를 보이지 않는다.</p>
+</div>
+</div>
+</div></section>
+
+<section id="results"><div class="wrap">
+<div class="num">03 — 결과</div>
+<h2>이름은 붙었지만, 근거는 따로 놀았다</h2>
+<p class="w">193편의 항목별 판정 결과이다. 막대 위의 가는 선은 95% 신뢰구간이다. 초록 기준 판정이므로 비율은 하한으로 읽어야 한다(원문 18편에서는 모든 항목이 같거나 높아졌다).</p>
+<div class="bars" id="bars"></div>
+
+<h3>근거 수준의 사다리</h3>
+<div class="ladder" id="ladder"></div>
+<div class="lab5"><div>전체</div><div>① 생물 출처 근거</div><div>② + 전이 절차</div><div>③ + 정량 성능</div><div>④ + 같은 기능 대안과 비교</div></div>
+<p class="pull">생물학 근거와 절차를 갖춘 연구와, 공정한 비교를 한 연구는 서로 다른 집단이었다. 같은 기능 대안과 비교한 14편 가운데 전이 절차를 밝힌 연구는 1편이었고, 그 연구는 특정 생물을 밝히지 않았다.</p>
+
+<div class="two">
+<div>
+<h3>모방 수준에 따라 다른 근거</h3>
+<table id="bylevel"><thead><tr><th>모방 수준</th><th class="c">편수</th><th class="c">기제 기술</th><th class="c">실험 이상</th><th class="c">같은 기능 비교</th></tr></thead><tbody></tbody></table>
+<p class="note">구조·재료 계열은 생물학 근거와 실험이, 과정·행동 계열은 시뮬레이션 성능 평가가 중심이다. 형태 수준 34편 가운데 30편은 생물의 기능조차 기술하지 않았다.</p>
+</div>
+<div>
+<h3>시기별 변화</h3>
+<table id="byperiod"><thead><tr><th>항목</th><th class="c">2007–18</th><th class="c">2019–22</th><th class="c">2023–26</th><th class="c">p</th></tr></thead><tbody></tbody></table>
+<p class="note">최근 연구는 성능을 수치로 훨씬 더 많이 보고하지만(p&lt;0.001), 생물 기제와 공정한 비교는 늘지 않았다.</p>
+</div>
+</div>
+<figure><img src="figs/fig6_4_fulltext.png" alt="원문 표본 18편의 초록 판정과 원문 판정 비교" loading="lazy"><figcaption>원문 표본 18편: 초록 판정 대 원문 판정. 원문은 근거를 더 많이 보여 주지만, 수준 4는 원문에서도 없었다.</figcaption></figure>
+</div></section>
+
+<section id="case"><div class="wrap">
+<div class="num">04 — 사례</div>
+<h2>생물의 이름을 빼면 무엇이 남는가</h2>
+<p class="w">연구자의 이전 원고는 피부·솔방울과 해바라기·잎 기공·꿀벌의 원리를 키네틱 파사드 제어 규칙으로 옮기고, 서울 역삼역 일대 업무시설 3개 동과 257동을 EnergyPlus로 평가했다. 네 규칙을 생물 이름 없이 입력·상태·출력으로 다시 쓰면 모두 기존 차양·건물 제어 문헌에 있는 규칙이었다.</p>
+<table>
+<thead><tr><th>이전 원고의 이름</th><th>다시 쓴 규칙</th><th>일반 공학 이름</th></tr></thead>
+<tbody>
+<tr><td>피부의 부위별 체온 조절</td><td>구역별 직달 일사 비율에 따라 장치 종류를 배정</td><td>방위·층별 차양 차등</td></tr>
+<tr><td>솔방울·해바라기의 연속 응답</td><td>직달 일사를 막는 최소 슬랫 각도로 10분마다 조절</td><td>컷오프 각도 제어</td></tr>
+<tr><td>잎 기공의 다중 신호</td><td>일사 300 W/m² 초과이고 실온 23.5 °C 초과면 작동</td><td>다중 조건 규칙 제어</td></tr>
+<tr><td>꿀벌의 반응 역치 다양성</td><td>건물마다 다른 작동 역치(200~400 W/m²)</td><td>설정값 분산·부하 분산</td></tr>
+</tbody></table>
+<div class="two" style="margin-top:24px">
+<figure><img src="figs/fig7_1_case_p2.png" alt="고정 대 컷오프 각도 제어의 연간 EUI 변화" loading="lazy"><figcaption>같은 계산, 다른 이름. "솔방울·해바라기 원리"의 결과(3개 동 블라인드 +0.82% 대 고정 −1.39%)는 생체모방을 뺀 원고에서 "키네틱 대 고정"으로 그대로 쓰였다. 기각된 것은 생물 원리가 아니라 컷오프 각도 제어였다.</figcaption></figure>
+<figure><img src="figs/fig7_2_case_p4.png" alt="꿀벌 원리와 운전 시차의 블록 최대 전력 변화" loading="lazy"><figcaption>꿀벌 원리에 따른 작동 역치 분산은 블록 최대 전력을 −0.09~+0.20%만 바꾸었다. 생물과 무관한 운전 시차(−2.18~−4.54%)와 비교하면 작고, 같은 크기의 무작위 분산과는 비교되지 않았다.</figcaption></figure>
+</div>
+<p class="w">이전 원고는 생물학 원논문 인용, ISO 18458 절차, 대규모 시뮬레이션을 갖춰 193편에서 가장 높은 근거 수준 3(12편, 6.2%)에 해당했다. 그럼에도 추상화 단계에서 생물 원리가 기존 규칙으로 바뀌면서 생체모방의 기여는 시험되지 않았다.</p>
+</div></section>
+
+<section id="db"><div class="wrap">
+<div class="num">05 — 판정 자료</div>
+<h2>193편의 판정 결과</h2>
+<p class="w">모든 판정을 공개한다. 열 이름을 누르면 정렬된다. B1 생물 명시, B2 기능(1)·기제(2), T1 전이 절차, E 근거 유형(0 개념 ~ 4 실건물), Q 정량 성능, R 비교 기준(3 = 같은 기능 대안), S1·S2 지속가능성 주장·근거. ◆는 원문으로 다시 판정한 연구이다.</p>
+<div class="db-tools">
+<input id="q" type="search" placeholder="제목·저자·매체 검색">
+<select id="fl"><option value="">모방 수준 전체</option><option>구조·재료</option><option>과정·행동</option><option>형태</option><option>생태계</option><option>불명</option></select>
+<select id="fv"><option value="">근거 수준 전체</option><option value="0">수준 0</option><option value="1">수준 1</option><option value="2">수준 2</option><option value="3">수준 3</option></select>
+<select id="fr"><option value="">비교 기준 전체</option><option value="3">같은 기능 대안(R=3)</option><option value="1+">비교 있음(R≥1)</option><option value="0">비교 없음</option></select>
+<span class="note" id="cnt"></span>
+</div>
+<div class="db-wrap"><table id="tbl"><thead><tr>
+<th data-k="no">#</th><th data-k="year">연도</th><th data-k="author">제1저자</th><th data-k="title">제목</th><th data-k="L">수준</th><th class="c">B1 B2 T1 E Q R S1 S2</th><th data-k="level" class="c">근거</th></tr></thead><tbody></tbody></table></div>
+</div></section>
+
+<section id="checklist"><div class="wrap">
+<div class="num">06 — 제안</div>
+<h2>근거만큼 주장하기: 보고 점검표</h2>
+<div class="two">
+<div><h3>세 가지 조건</h3>
+<p><b>생물 기제와 전이 절차가 없으면</b> "생물에서 착상한"으로 쓴다.</p>
+<p><b>추상화한 원리가 기존 규칙과 같으면</b> 기존 규칙의 이름으로 보고하고, 생물은 착상 배경으로만 언급한다.</p>
+<p><b>"생체모방이라서 좋다"는</b> 같은 기능의 비생체모방 대안과, 계산·실험 전에 고정한 비교 설계로 비교했을 때만 쓴다.</p></div>
+<div><h3>"검증되지 않음"은 "열등함"이 아니다</h3>
+<p>공정한 비교가 없다는 결과는 생체모방 외피가 나쁘다는 뜻이 아니라, 생체모방의 기여가 아직 시험되지 않았다는 뜻이다. 구조·재료 계열 연구는 생물학 근거를 상당히 갖추었고, 지속가능성 주장은 문헌의 27.5%로 다수가 아니었다.</p></div>
+</div>
+<ol class="check">
+<li><b>생물 모델</b>어떤 생물(종·기관·조직)을 참조하였는가?</li>
+<li><b>생물 기제와 근거</b>기능을 수행하는 기제를 생물학 원논문에 근거해 기술하였는가?</li>
+<li><b>생물학 전문성</b>생물학 지식을 가진 연구자가 기능 분석에 참여하였는가?</li>
+<li><b>추상화와 전이</b>어떤 원리를 추상화하였고 어떻게 기술로 옮겼는가?</li>
+<li><b>기존 규칙과의 차이</b>추상화한 원리는 같은 기능의 기존 규칙·장치·재료와 어떻게 다른가?</li>
+<li><b>모방 수준</b>형태, 구조·재료, 과정·행동, 생태계 가운데 무엇을 옮겼는가?</li>
+<li><b>근거 유형</b>시뮬레이션·시제품·실측 가운데 무엇으로 확인하였고, 모델은 어떻게 검증하였는가?</li>
+<li><b>비교 기준</b>같은 기능의 비생체모방 대안을 비교에 포함하였는가?</li>
+<li><b>사전 고정</b>비교 설계와 판정 기준을 계산·실험 전에 정하였는가?</li>
+<li><b>지속가능성 근거</b>지속가능성을 주장한다면 전과정의 어떤 평가로 뒷받침하였는가?</li>
+</ol>
+</div></section>
+
+<section id="files"><div class="wrap">
+<div class="num">07 — 자료</div>
+<h2>내려받기와 재현</h2>
+<div class="dl">
+<a href="files/summary.pdf">연구요약 (PDF)<small>3쪽 · 배경, 방법, 결과, 제안</small></a>
+<a href="data/audit.csv">판정 자료 (CSV)<small>193편 × 판정 항목 · 근거 수준</small></a>
+<a href="files/codebook.md">판정 기준표<small>항목별 판정 규칙과 해석 원칙</small></a>
+<a href="data/audit.json">판정 자료 (JSON)<small>홈페이지 표의 원자료</small></a>
+<a href="data/results.json">분석 결과 (JSON)<small>비율·신뢰구간·추세 검정</small></a>
+<a href="https://github.com/m48a2c999-svg/biomimetic-audit">연구 저장소<small>질의식·선별 결정·분석 스크립트</small></a>
+</div>
+<h3>한계</h3>
+<p class="w note">판정은 한 판정자가 초록을 기준으로 수행했다. 두 차례로 나눈 판정 사이의 기준 차이는 193편 전체 재점검으로 바로잡았으나(바뀐 판정은 저장소의 audit/recheck_log.json), 판정자 간 일치도는 확인하지 못했고, 원문은 표본 18편만 확인했다. 공개 데이터베이스 두 곳과 영어 초록 문헌만 대상으로 했으며, 초록 없는 적격 문헌 82편은 2018년 이전에 몰려 있다. 사례는 한 연구자의 한 연구이며 새 계산 없이 기존 결과를 다시 읽었다.</p>
+</div></section>
+
+<footer><div class="wrap">조승완 · 국민대학교 일반대학원 건축학과 · 문헌 메타데이터: OpenAlex, Semantic Scholar · 사례 계산: EnergyPlus 23.2, 서울 TMYx 2011–2025</div></footer>
+
+<script>
+const ITEMS=[["B1 생물 모델 명시","특정 생물 명시"],["B2≥1 기능 이상 기술","생물 기능 이상 기술"],["B2=2 기제 기술","생물 작동 기제 기술",1],["T1 전이 절차 명시","추상화·전이 절차"],["E≥2 시뮬레이션 이상","시뮬레이션 이상 근거"],["E≥3 시제품·실험 이상","시제품·실험 이상"],["E=4 실건물 측정","실건물 측정"],["Q 정량 성능","정량 성능 보고"],["R≥1 비교 기준 있음","비교 기준 있음"],["R=3 같은 기능 비생체모방 대안","같은 기능 대안과 비교",1],["S1 지속가능성 주장","지속가능성 주장"],["S2=2 전과정 근거","전과정 근거",1]];
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+fetch("data/results.json").then(r=>r.json()).then(R=>{
+  const B=document.getElementById("bars");
+  B.innerHTML=ITEMS.map(([k,l,hl])=>{const d=R.items[k];return `<div class="bar"><div>${l}</div><div class="track"><div class="fill ${hl?"r":""}" style="width:${d.pct}%"></div><div class="ci" style="left:${d.ci[0]}%;width:${d.ci[1]-d.ci[0]}%"></div></div><div class="v">${d.pct.toFixed(1)}%</div></div>`}).join("");
+  const vals=[R.N,...[1,2,3,4].map(k=>R.ladder_cum["≥"+k].k)];
+  document.getElementById("ladder").innerHTML=vals.map((v,i)=>`<div class="step ${i==0?"all":""} ${i==4?"l4":""}"><div class="k">${v}</div><div class="col" style="height:${Math.max(v/R.N*200,2)}px"></div></div>`).join("");
+  const LL=[["material","구조·재료"],["process","과정·행동"],["form","형태"],["ecosystem","생태계"],["unclear","불명"]];
+  document.querySelector("#bylevel tbody").innerHTML=LL.map(([k,l])=>{const b=R.L_x_B2[k],e=R.L_x_E[k],r=R.L_x_R[k];const n=Object.values(b).reduce((a,c)=>a+c,0);const p=x=>`${x} <span class="note">(${Math.round(x/n*100)}%)</span>`;return `<tr><td>${l}</td><td class="c">${n}</td><td class="c">${p(b["2"]||0)}</td><td class="c">${p((e["3"]||0)+(e["4"]||0))}</td><td class="c">${p(r["3"]||0)}</td></tr>`}).join("");
+  const PK=[["B2=2 기제 기술","생물 기제"],["T1 전이 절차 명시","전이 절차"],["Q 정량 성능","정량 성능"],["R=3 같은 기능 비생체모방 대안","같은 기능 비교"],["S1 지속가능성 주장","지속가능성 주장"]],P=["2007–2018","2019–2022","2023–2026"];
+  document.querySelector("#byperiod tbody").innerHTML=PK.map(([k,l])=>`<tr><td>${l}</td>${P.map(q=>`<td class="c">${R.by_period[k][q].pct.toFixed(1)}</td>`).join("")}<td class="c">${R.trend[k].p.toFixed(2)}</td></tr>`).join("");
+});
+let D=[],sortK="no",asc=true;
+const tb=document.querySelector("#tbl tbody");
+function cell(v,k){return v===0?`<span class="z">0</span>`:v}
+function render(){
+  const q=document.getElementById("q").value.trim().toLowerCase(),fl=document.getElementById("fl").value,fv=document.getElementById("fv").value,fr=document.getElementById("fr").value;
+  let rows=D.filter(r=>(!q||(r.title+" "+r.author+" "+r.venue).toLowerCase().includes(q))&&(!fl||r.L===fl)&&(fv===""||r.level==+fv)&&(fr===""||(fr==="1+"?r.R>=1:r.R==+fr)));
+  rows.sort((a,b)=>{const x=a[sortK],y=b[sortK];return (x>y?1:x<y?-1:0)*(asc?1:-1)});
+  tb.innerHTML=rows.map(r=>`<tr><td>${r.no}</td><td>${r.year}</td><td>${esc(r.author)}</td><td class="t">${r.doi?`<a href="https://doi.org/${esc(r.doi)}" target="_blank" rel="noopener">${esc(r.title)}</a>`:esc(r.title)}${r.fulltext?" ◆":""}<br><span class="note">${esc(r.venue)}</span></td><td class="lvl">${esc(r.L)}</td><td class="c code">${["B1","B2","T1","E","Q","R","S1","S2"].map(k=>cell(r[k])).join(" ")}</td><td class="c"><span class="lv l${r.level}">${r.level}</span></td></tr>`).join("");
+  document.getElementById("cnt").textContent=`${rows.length}편`;
+}
+fetch("data/audit.json").then(r=>r.json()).then(d=>{D=d;render()});
+["q","fl","fv","fr"].forEach(id=>document.getElementById(id).addEventListener("input",render));
+document.querySelectorAll("#tbl th[data-k]").forEach(th=>th.addEventListener("click",()=>{const k=th.dataset.k;asc=sortK===k?!asc:true;sortK=k;render()}));
+</script>
+</body>
+</html>
