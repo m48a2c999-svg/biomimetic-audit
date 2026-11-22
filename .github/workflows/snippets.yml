@@ -1,0 +1,17 @@
+name: snippets
+on:
+  workflow_dispatch:
+  push:
+    paths: ["audit/oa_targets.json", "audit/oa_snippets.py", ".github/workflows/snippets.yml"]
+permissions:
+  contents: read
+jobs:
+  snip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: sudo apt-get -qq install -y poppler-utils >/dev/null && python audit/oa_snippets.py
+      - uses: actions/upload-artifact@v4
+        with: {name: oa-snippets, path: audit/snippets/, retention-days: 7}

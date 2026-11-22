@@ -2,7 +2,7 @@ name: fetch
 on:
   workflow_dispatch:
   push:
-    paths: ["audit/fetch_openalex.py", "refs/refs_input.json", ".github/workflows/fetch.yml", "audit/oa_targets.json"]
+    paths: ["audit/fetch_openalex.py", ".github/workflows/fetch.yml"]
 permissions:
   contents: write
 jobs:
