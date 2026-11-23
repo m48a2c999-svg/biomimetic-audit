@@ -7,7 +7,7 @@ from matplotlib.patches import FancyBboxPatch
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 8.5, "axes.spines.top": False, "axes.spines.right": False, "savefig.dpi": 300})
 OUT = "/home/claude/bio/paper/figs/"
 INK, MUTE, ACC, ACC2 = "#222222", "#8a8a8a", "#1f5f8b", "#c0622b"
-res = json.load(open("audit/results.json")); ft = json.load(open("audit/fulltext_compare.json"))
+res = json.load(open("audit/results.json")); ft = json.load(open("audit/fulltext_compare.json"))["all"]
 
 def box(ax, x, y, w, h, t, fc="#f4f6f8", ec="#5a6b7a", fs=8, bold=False):
     ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle="round,pad=0.01,rounding_size=0.02", fc=fc, ec=ec, lw=0.8))

@@ -1,76 +1,295 @@
 {
- "n": 18,
- "note": "공개 접근 원문 46편 시도, 20편 확보, 판독 불가 2편 제외",
- "B1": {
-  "abstract": 9,
-  "fulltext": 15,
-  "abs_pct": 50.0,
-  "ft_pct": 83.3,
-  "added_by_ft": 6,
-  "removed_by_ft": 0
+ "all": {
+  "n": 61,
+  "note": "1차: 공개 접근 원문 46편 시도, 20편 확보, 판독 불가 2편 제외(18편). 2차: 공개 접근 후보 170편 시도, 46편 확보, 판독 불가 3편 제외(43편).",
+  "B1": {
+   "abstract": 37,
+   "fulltext": 51,
+   "abs_pct": 60.7,
+   "ft_pct": 83.6,
+   "added_by_ft": 14,
+   "removed_by_ft": 0
+  },
+  "B2>=1": {
+   "abstract": 29,
+   "fulltext": 46,
+   "abs_pct": 47.5,
+   "ft_pct": 75.4,
+   "added_by_ft": 17,
+   "removed_by_ft": 0
+  },
+  "B2=2": {
+   "abstract": 9,
+   "fulltext": 21,
+   "abs_pct": 14.8,
+   "ft_pct": 34.4,
+   "added_by_ft": 12,
+   "removed_by_ft": 0
+  },
+  "T1": {
+   "abstract": 17,
+   "fulltext": 27,
+   "abs_pct": 27.9,
+   "ft_pct": 44.3,
+   "added_by_ft": 10,
+   "removed_by_ft": 0
+  },
+  "E>=2": {
+   "abstract": 36,
+   "fulltext": 38,
+   "abs_pct": 59.0,
+   "ft_pct": 62.3,
+   "added_by_ft": 2,
+   "removed_by_ft": 0
+  },
+  "Q": {
+   "abstract": 16,
+   "fulltext": 27,
+   "abs_pct": 26.2,
+   "ft_pct": 44.3,
+   "added_by_ft": 11,
+   "removed_by_ft": 0
+  },
+  "R>=1": {
+   "abstract": 15,
+   "fulltext": 29,
+   "abs_pct": 24.6,
+   "ft_pct": 47.5,
+   "added_by_ft": 14,
+   "removed_by_ft": 0
+  },
+  "R=3": {
+   "abstract": 4,
+   "fulltext": 7,
+   "abs_pct": 6.6,
+   "ft_pct": 11.5,
+   "added_by_ft": 3,
+   "removed_by_ft": 0
+  },
+  "S2=2": {
+   "abstract": 3,
+   "fulltext": 4,
+   "abs_pct": 4.9,
+   "ft_pct": 6.6,
+   "added_by_ft": 1,
+   "removed_by_ft": 0
+  },
+  "level_abs": {
+   "0": 32,
+   "1": 18,
+   "2": 10,
+   "3": 1,
+   "4": 0
+  },
+  "level_ft": {
+   "0": 15,
+   "1": 24,
+   "2": 12,
+   "3": 7,
+   "4": 3
+  },
+  "level4_ft": [
+   "W2565789027",
+   "W4378469556",
+   "W7127589056"
+  ],
+  "level_raised": 22
  },
- "B2>=1": {
-  "abstract": 6,
-  "fulltext": 12,
-  "abs_pct": 33.3,
-  "ft_pct": 66.7,
-  "added_by_ft": 6,
-  "removed_by_ft": 0
+ "first": {
+  "n": 18,
+  "note": "1차 표본 18편(R=3 6편 전부 포함 의도 표본)",
+  "B1": {
+   "abstract": 9,
+   "fulltext": 15,
+   "abs_pct": 50.0,
+   "ft_pct": 83.3,
+   "added_by_ft": 6,
+   "removed_by_ft": 0
+  },
+  "B2>=1": {
+   "abstract": 6,
+   "fulltext": 12,
+   "abs_pct": 33.3,
+   "ft_pct": 66.7,
+   "added_by_ft": 6,
+   "removed_by_ft": 0
+  },
+  "B2=2": {
+   "abstract": 3,
+   "fulltext": 7,
+   "abs_pct": 16.7,
+   "ft_pct": 38.9,
+   "added_by_ft": 4,
+   "removed_by_ft": 0
+  },
+  "T1": {
+   "abstract": 2,
+   "fulltext": 3,
+   "abs_pct": 11.1,
+   "ft_pct": 16.7,
+   "added_by_ft": 1,
+   "removed_by_ft": 0
+  },
+  "E>=2": {
+   "abstract": 11,
+   "fulltext": 12,
+   "abs_pct": 61.1,
+   "ft_pct": 66.7,
+   "added_by_ft": 1,
+   "removed_by_ft": 0
+  },
+  "Q": {
+   "abstract": 6,
+   "fulltext": 6,
+   "abs_pct": 33.3,
+   "ft_pct": 33.3,
+   "added_by_ft": 0,
+   "removed_by_ft": 0
+  },
+  "R>=1": {
+   "abstract": 6,
+   "fulltext": 10,
+   "abs_pct": 33.3,
+   "ft_pct": 55.6,
+   "added_by_ft": 4,
+   "removed_by_ft": 0
+  },
+  "R=3": {
+   "abstract": 1,
+   "fulltext": 3,
+   "abs_pct": 5.6,
+   "ft_pct": 16.7,
+   "added_by_ft": 2,
+   "removed_by_ft": 0
+  },
+  "S2=2": {
+   "abstract": 2,
+   "fulltext": 3,
+   "abs_pct": 11.1,
+   "ft_pct": 16.7,
+   "added_by_ft": 1,
+   "removed_by_ft": 0
+  },
+  "level_abs": {
+   "0": 12,
+   "1": 5,
+   "2": 1,
+   "3": 0,
+   "4": 0
+  },
+  "level_ft": {
+   "0": 6,
+   "1": 10,
+   "2": 2,
+   "3": 0,
+   "4": 0
+  },
+  "level4_ft": [],
+  "level_raised": 6
  },
- "B2=2": {
-  "abstract": 3,
-  "fulltext": 7,
-  "abs_pct": 16.7,
-  "ft_pct": 38.9,
-  "added_by_ft": 4,
-  "removed_by_ft": 0
+ "second": {
+  "n": 43,
+  "note": "2차 표본 43편(공개 접근 원문 확보분)",
+  "B1": {
+   "abstract": 28,
+   "fulltext": 36,
+   "abs_pct": 65.1,
+   "ft_pct": 83.7,
+   "added_by_ft": 8,
+   "removed_by_ft": 0
+  },
+  "B2>=1": {
+   "abstract": 23,
+   "fulltext": 34,
+   "abs_pct": 53.5,
+   "ft_pct": 79.1,
+   "added_by_ft": 11,
+   "removed_by_ft": 0
+  },
+  "B2=2": {
+   "abstract": 6,
+   "fulltext": 14,
+   "abs_pct": 14.0,
+   "ft_pct": 32.6,
+   "added_by_ft": 8,
+   "removed_by_ft": 0
+  },
+  "T1": {
+   "abstract": 15,
+   "fulltext": 24,
+   "abs_pct": 34.9,
+   "ft_pct": 55.8,
+   "added_by_ft": 9,
+   "removed_by_ft": 0
+  },
+  "E>=2": {
+   "abstract": 25,
+   "fulltext": 26,
+   "abs_pct": 58.1,
+   "ft_pct": 60.5,
+   "added_by_ft": 1,
+   "removed_by_ft": 0
+  },
+  "Q": {
+   "abstract": 10,
+   "fulltext": 21,
+   "abs_pct": 23.3,
+   "ft_pct": 48.8,
+   "added_by_ft": 11,
+   "removed_by_ft": 0
+  },
+  "R>=1": {
+   "abstract": 9,
+   "fulltext": 19,
+   "abs_pct": 20.9,
+   "ft_pct": 44.2,
+   "added_by_ft": 10,
+   "removed_by_ft": 0
+  },
+  "R=3": {
+   "abstract": 3,
+   "fulltext": 4,
+   "abs_pct": 7.0,
+   "ft_pct": 9.3,
+   "added_by_ft": 1,
+   "removed_by_ft": 0
+  },
+  "S2=2": {
+   "abstract": 1,
+   "fulltext": 1,
+   "abs_pct": 2.3,
+   "ft_pct": 2.3,
+   "added_by_ft": 0,
+   "removed_by_ft": 0
+  },
+  "level_abs": {
+   "0": 20,
+   "1": 13,
+   "2": 9,
+   "3": 1,
+   "4": 0
+  },
+  "level_ft": {
+   "0": 9,
+   "1": 14,
+   "2": 10,
+   "3": 7,
+   "4": 3
+  },
+  "level4_ft": [
+   "W2565789027",
+   "W4378469556",
+   "W7127589056"
+  ],
+  "level_raised": 16
  },
- "T1": {
-  "abstract": 2,
-  "fulltext": 3,
-  "abs_pct": 11.1,
-  "ft_pct": 16.7,
-  "added_by_ft": 1,
-  "removed_by_ft": 0
- },
- "E>=2": {
-  "abstract": 11,
-  "fulltext": 12,
-  "abs_pct": 61.1,
-  "ft_pct": 66.7,
-  "added_by_ft": 1,
-  "removed_by_ft": 0
- },
- "Q": {
-  "abstract": 6,
-  "fulltext": 6,
-  "abs_pct": 33.3,
-  "ft_pct": 33.3,
-  "added_by_ft": 0,
-  "removed_by_ft": 0
- },
- "R>=1": {
-  "abstract": 6,
-  "fulltext": 10,
-  "abs_pct": 33.3,
-  "ft_pct": 55.6,
-  "added_by_ft": 4,
-  "removed_by_ft": 0
- },
- "R=3": {
-  "abstract": 1,
-  "fulltext": 3,
-  "abs_pct": 5.6,
-  "ft_pct": 16.7,
-  "added_by_ft": 2,
-  "removed_by_ft": 0
- },
- "S2=2": {
-  "abstract": 2,
-  "fulltext": 3,
-  "abs_pct": 11.1,
-  "ft_pct": 16.7,
-  "added_by_ft": 1,
-  "removed_by_ft": 0
+ "corpus_with_ft": {
+  "level_cum": {
+   ">=1": 109,
+   ">=2": 47,
+   ">=3": 21,
+   ">=4": 3
+  },
+  "n": 193
  }
 }

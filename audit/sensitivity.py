@@ -3,7 +3,7 @@ import json, math, collections
 R = {json.loads(l)["id"]: json.loads(l) for l in open("audit/corpus.jsonl", encoding="utf-8")}
 C = json.load(open("audit/manual_codes_all.json"))
 C0 = json.load(open("audit/manual_codes_before_recheck.json"))
-F = json.load(open("audit/fulltext_codes.json"))
+F = {**json.load(open("audit/fulltext_codes.json")), **json.load(open("audit/fulltext_codes2.json"))}
 def wilson(k, n, z=1.96):
     if n == 0: return (None, None)
     p = k / n; d = 1 + z * z / n; c = (p + z * z / (2 * n)) / d; h = z * math.sqrt(p * (1 - p) / n + z * z / (4 * n * n)) / d

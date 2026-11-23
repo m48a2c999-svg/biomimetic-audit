@@ -10,7 +10,7 @@ OUT = "/home/claude/bio/thesis/figs/"
 INK, MUTE, ACC, ACC2 = "#222222", "#8a8a8a", "#1f5f8b", "#c0622b"
 R = {json.loads(l)["id"]: json.loads(l) for l in open("audit/corpus.jsonl")}
 S = json.load(open("audit/screening.json")); C = json.load(open("audit/manual_codes_all.json"))
-res = json.load(open("audit/results.json")); ft = json.load(open("audit/fulltext_compare.json"))
+res = json.load(open("audit/results.json")); ft = json.load(open("audit/fulltext_compare.json"))["all"]
 lv = json.load(open("audit/levels.json"))["levels"]
 
 def box(ax, x, y, w, h, t, fc="#f4f6f8", ec="#5a6b7a", fs=8.5, bold=False):
@@ -131,12 +131,19 @@ fig.savefig(OUT + "fig6_3_period.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 6-4 초록 대 원문
 ks = [("B1", "생물 명시"), ("B2>=1", "기능 이상"), ("B2=2", "기제"), ("T1", "전이 절차"), ("Q", "정량 성능"), ("R>=1", "비교 기준"), ("R=3", "같은 기능\n대안"), ("S2=2", "전과정\n근거")]
-fig, ax = plt.subplots(figsize=(6.3, 2.6)); import numpy as np
-x = np.arange(len(ks)); w = 0.38
+import numpy as np
+fig, axs = plt.subplots(1, 2, figsize=(6.5, 2.7), gridspec_kw={"width_ratios": [2.3, 1]})
+ax = axs[0]; x = np.arange(len(ks)); w = 0.38
 ax.bar(x - w / 2, [ft[k]["abs_pct"] for k, _ in ks], w, color="#9fbad0", label="초록 판정")
 ax.bar(x + w / 2, [ft[k]["ft_pct"] for k, _ in ks], w, color=ACC, label="원문 판정")
-ax.set_xticks(x); ax.set_xticklabels([l for _, l in ks], fontsize=7.5); ax.set_ylabel(f"원문 표본 {ft['n']}편 중 비율(%)"); ax.legend(frameon=False, fontsize=7.5)
-fig.savefig(OUT + "fig6_4_fulltext.png", bbox_inches="tight"); plt.close(fig)
+ax.set_xticks(x); ax.set_xticklabels([l for _, l in ks], fontsize=6.8); ax.set_ylabel(f"원문 표본 {ft['n']}편 중 비율(%)"); ax.legend(frameon=False, fontsize=7)
+ax.set_title("(a) 판정 항목", fontsize=8.5, loc="left")
+ax = axs[1]; lv = np.arange(5)
+ax.bar(lv - w / 2, [ft["level_abs"][str(k)] for k in lv], w, color="#9fbad0")
+ax.bar(lv + w / 2, [ft["level_ft"][str(k)] for k in lv], w, color=ACC)
+for k in lv: ax.text(k + w / 2, ft["level_ft"][str(k)] + 0.5, ft["level_ft"][str(k)], ha="center", fontsize=6.5)
+ax.set_xticks(lv); ax.set_xlabel("근거 수준"); ax.set_ylabel("편수"); ax.set_title("(b) 근거 수준", fontsize=8.5, loc="left")
+fig.tight_layout(); fig.savefig(OUT + "fig6_4_fulltext.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 7-1 사례: 고정 대 컷오프(= '해바라기·솔방울' 이름), 꿀벌 대 시차
 db = sqlite3.connect("/home/claude/badtm/data/db/research.sqlite")

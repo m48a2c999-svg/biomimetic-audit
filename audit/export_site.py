@@ -1,7 +1,7 @@
 """홈페이지용 판정 자료(docs/data/audit.json, audit.csv) 생성."""
 import json, csv, re
 C = json.load(open("audit/manual_codes_all.json")); L = json.load(open("audit/levels.json"))["levels"]
-FT = json.load(open("audit/fulltext_codes.json"))
+FT = {**json.load(open("audit/fulltext_codes.json")), **json.load(open("audit/fulltext_codes2.json"))}
 corpus = {json.loads(l)["id"]: json.loads(l) for l in open("audit/corpus.jsonl")}
 first = {}
 for l in open("audit/raw/openalex.jsonl"):
