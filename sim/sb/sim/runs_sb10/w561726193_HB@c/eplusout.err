@@ -1,0 +1,103 @@
+Program Version,EnergyPlus, Version 23.2.0-7636e6b3e9, YMD=2026.11.23 11:34,
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** WindowMaterial:Blind="EXTLOUVER", Slat Angles/Widths
+   **   ~~~   ** Slat Width [8.00E-002] is less than Slat Separation [8.50E-002].
+   **   ~~~   ** This will allow direct beam to be transmitted when Slat angle = 0.
+   ** Warning ** DeterminePolygonOverlap: Too many figures [>15000]  detected in an overlap calculation. Use Output:Diagnostics,DisplayExtraWarnings; for more details.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_BOT_ZN_1_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_BOT_ZN_2_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_BOT_ZN_3_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_BOT_ZN_4_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_LOW_ZN_1_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_LOW_ZN_2_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_LOW_ZN_3_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_LOW_ZN_4_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_MID_ZN_1_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_MID_ZN_2_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_MID_ZN_3_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_MID_ZN_4_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_HIGH_ZN_1_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_HIGH_ZN_2_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_HIGH_ZN_3_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_HIGH_ZN_4_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_TOP_ZN_1_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_TOP_ZN_2_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_TOP_ZN_3_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ** Warning ** No Glare Calculation Daylighting Reference Point Name provided for object named: PERIMETER_TOP_ZN_4_DC
+   **   ~~~   ** No glare calculation performed, and the simulation continues.
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water VAV_1_COOLC
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.5284
+   **   ~~~   **                                    Wair,in = 9.605263E-003
+   **   ~~~   **                                    Twater,in = 6.6700
+   **   ~~~   **                                    Tair,out = 11.4190
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water VAV_3_COOLC
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.4092
+   **   ~~~   **                                    Wair,in = 9.343344E-003
+   **   ~~~   **                                    Twater,in = 6.6700
+   **   ~~~   **                                    Tair,out = 11.4184
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water VAV_5_COOLC
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.0913
+   **   ~~~   **                                    Wair,in = 9.535544E-003
+   **   ~~~   **                                    Twater,in = 6.6700
+   **   ~~~   **                                    Tair,out = 11.2608
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 1": The condenser outlet temperature (5.00 C) is outside the range of condenser outlet temperatures (X var) given in Electric Input to Cooling Output Ratio Function of Part-load Ratio bicubic curve = REFORMEIRCHILLER CARRIER 19XR 1259KW/6.26COP/VANES EIRFPLR
+   **   ~~~   ** The range specified = 14.56 C to 34.97 C. Environment=RUN PERIOD 1, at Simulation time=01/12 15:50 - 16:00
+   ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 2": The condenser outlet temperature (5.00 C) is outside the range of condenser outlet temperatures (X var) given in Electric Input to Cooling Output Ratio Function of Part-load Ratio bicubic curve = REFORMEIRCHILLER CARRIER 19XR 1259KW/6.26COP/VANES EIRFPLR
+   **   ~~~   ** The range specified = 14.56 C to 34.97 C. Environment=RUN PERIOD 1, at Simulation time=01/12 15:50 - 16:00
+   ************* Simulation Error Summary *************
+   ************* There are 1 unused schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 1": The cond outlet temp range in Electric Input to Cooling Output Ratio Function of PLR curve error continues.
+   *************  **   ~~~   **   This error occurred 5843 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=36.200531  Min=5.002923
+   *************
+   *************  ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 2": The cond outlet temp range in Electric Input to Cooling Output Ratio Function of PLR curve error continues.
+   *************  **   ~~~   **   This error occurred 5843 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=36.200531  Min=5.002923
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 22 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 11713 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 57.44sec

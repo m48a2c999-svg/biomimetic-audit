@@ -42,7 +42,7 @@
    "B2": 0,
    "T1": 0,
    "E": 4,
-   "E_note": "CSIRO 재실 후 평가(실내 환경·생산성), 2012년 독립 에너지 검토",
+   "E_note": "CSIRO 재실 후 평가(2008), 시가 2012년 의뢰한 독립 에너지 검토(Hoogland & Bannister, 2013 발표)",
    "Q": 1,
    "R": 1,
    "R_note": "이전 청사(CH1)·설계 목표 대비",
@@ -76,8 +76,8 @@
    "attribution": "해면 비유는 검색한 범위에서 설계자 자료로 확인되지 않고 2차 자료에서 반복됨. 절감 주장은 운영자 스스로 과다하다고 평가",
    "level": 0,
    "sources": [
-    "Building 2007(현장 평가 기사)",
-    "ArchDaily(Massey) 해설"
+    "Building(n.d.) 현장 평가 기사",
+    "Foster + Partners 홍보 문구(기사 내 인용)"
    ]
   },
   {
@@ -186,7 +186,7 @@
    "place": "슈투트가르트(독일)",
    "year": 2017,
    "type": "실물 규모 차양 모형",
-   "organism": "벌레잡이수초(Aldrovanda vesiculosa)",
+   "organism": "벌레먹이말(Aldrovanda vesiculosa)",
    "claim": "포충엽의 접힘 기구를 옮긴 경첩 없는 차양",
    "claim_src": "designer",
    "B1": 1,
