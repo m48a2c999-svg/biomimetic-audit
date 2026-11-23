@@ -1,0 +1,36 @@
+name: bioh
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/bioh.yml"]
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        shard: ["00","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.13' }
+      - name: setup
+        run: |
+          pip install -q numpy pandas
+          sudo mkdir -p /opt/ep && sudo chown $USER /opt/ep && cd /opt/ep
+          curl -sSL -o ep.tgz https://github.com/NREL/EnergyPlus/releases/download/v23.2.0/EnergyPlus-23.2.0-7636e6b3e9-Linux-Ubuntu22.04-x86_64.tar.gz
+          tar xzf ep.tgz && rm ep.tgz
+      - name: run
+        run: bash sim/sb/run_bioh.sh ${{ matrix.shard }}
+      - name: push results
+        run: |
+          cd /tmp/o
+          git init -q && git checkout -q -b bioh-res-${{ matrix.shard }}
+          cp $GITHUB_WORKSPACE/README.md . && git add -A
+          git -c user.name=audit-bot -c user.email=audit-bot@users.noreply.github.com commit -qm "bioh shard ${{ matrix.shard }}"
+          git push -q -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} bioh-res-${{ matrix.shard }}
