@@ -1,0 +1,3024 @@
+[
+{
+"id": "W1987921914",
+"urls": [
+"https://doi.org/10.1260/1478-0771.10.4.613"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "process",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2067981917",
+"urls": [
+"https://doi.org/10.4028/www.scientific.net/amm.174-177.1977"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W2162459797",
+"urls": [
+"https://doi.org/10.12691/materials-1-2-2"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2132968525",
+"urls": [
+"https://www.mdpi.com/2075-5309/5/2/405/pdf?version=1431090872",
+"https://doi.org/10.3390/buildings5020405"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2255861475",
+"urls": [
+"https://doi.org/10.3992/jgb.10.4.73",
+"https://doi.org/10.3992/jgb.10.4.73"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4254382466",
+"urls": [
+"https://doi.org/10.3233/fde-150026",
+"https://doi.org/10.3233/fde-150026"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2565789027",
+"urls": [
+"https://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-7-200.pdf",
+"https://doi.org/10.3762/bjnano.7.200"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 0,
+"R": 3,
+"S1": 1,
+"S2": 2
+}
+},
+{
+"id": "W2746707301",
+"urls": [
+"http://journal.ut.ac.ir/article_62237_a440de7eedfb215cdfe84ae62dcf1de3.pdf"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2462656472",
+"urls": [
+"https://doi.org/10.1016/j.proenv.2016.04.017",
+"https://doi.org/10.1016/j.proenv.2016.04.017"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2270333163",
+"urls": [
+"https://doi.org/10.5281/zenodo.1111848",
+"https://doi.org/10.5281/zenodo.1111848"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2591210459",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S1876610216306804/pdf",
+"https://doi.org/10.1016/j.egypro.2016.09.041"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2232550051",
+"urls": [
+"https://hdl.handle.net/11129/13378",
+"https://doi.org/10.1016/j.rser.2015.12.210"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W2770617649",
+"urls": [
+"https://iopscience.iop.org/article/10.1088/1361-665X/aa9c2f/pdf",
+"https://doi.org/10.1088/1361-665x/aa9c2f"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2610759406",
+"urls": [
+"https://content.iospress.com:443/download/journal-of-facade-design-and-engineering/fde1645?id=journal-of-facade-design-and-engineering%2Ffde1645",
+"https://doi.org/10.3233/fde-171645"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2612568836",
+"urls": [
+"https://www.mdpi.com/2075-5309/7/2/40/pdf?version=1494573576",
+"https://doi.org/10.3390/buildings7020040"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2748686633",
+"urls": [
+"https://doi.org/10.1080/00038628.2017.1359145"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3049192806",
+"urls": [
+"https://doi.org/10.5659/jaik_pd.2017.33.12.29"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W2765480993",
+"urls": [
+"https://doi.org/10.1088/1748-3190/aa979c"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2730070396",
+"urls": [
+"https://doi.org/10.4028/www.scientific.net/kem.742.689",
+"https://doi.org/10.4028/www.scientific.net/kem.742.689"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2904543401",
+"urls": [
+"https://doi.org/10.4324/9781315768410-17"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W3162412179",
+"urls": [
+"https://zenodo.org/records/1315693/files/10008511.pdf",
+"https://doi.org/10.5281/zenodo.1315692"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 3,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2794616352",
+"urls": [
+"https://www.intechopen.com/citation-pdf-url/58622",
+"https://doi.org/10.5772/intechopen.72917"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2906224175",
+"urls": [
+"https://doi.org/10.14774/jkiid.2018.27.4.072"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2804557300",
+"urls": [
+"https://eqa.unibo.it/article/download/7855/7845",
+"https://doi.org/10.6092/issn.2281-4485/7855"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W2914077030",
+"urls": [
+"https://openaccess.blucher.com.br/download-pdf/409/21308",
+"https://doi.org/10.5151/9788580393491-12"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3196583009",
+"urls": [
+"https://doi.org/10.1515/9783035617917-007"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2953981982",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S2095263519300470/pdf",
+"https://doi.org/10.1016/j.foar.2019.06.001"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W2969835992",
+"urls": [
+"https://doi.org/10.1016/j.scs.2019.101782"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W3088677226",
+"urls": [
+"https://jesaun.journals.ekb.eg/article_115486_2ff9f07e5e1905bd95fcea22a840370d.pdf",
+"https://doi.org/10.21608/jesaun.2019.115486"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "process",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W2941908077",
+"urls": [
+"https://repository.uantwerpen.be/docman/irua/a0f69e/159629.pdf",
+"https://doi.org/10.7480/jfde.2019.1.2785"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4386460254",
+"urls": [
+"https://publication.petra.ac.id/index.php/acesa/article/download/9958/8928",
+"https://doi.org/10.9744/acesa.v2i2.9958"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W3038683108",
+"urls": [
+"https://doi.org/10.1080/17508975.2020.1765722"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3007872148",
+"urls": [
+"http://www.enggjournals.com/ijet/docs/IJET20-12-01-019.pdf",
+"https://doi.org/10.21817/ijet/2020/v12i1/201201019"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3037907228",
+"urls": [
+"https://www.mdpi.com/2075-5309/10/7/114/pdf?version=1593922124",
+"https://doi.org/10.3390/buildings10070114"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3121045951",
+"urls": [
+"https://erj.journals.ekb.eg/article_135274_a31d516330fd0a874d78cf4594d548b4.pdf",
+"https://doi.org/10.21608/erj.2020.135274"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3117955595",
+"urls": [
+"https://doi.org/10.21625/archive.v4i2.755",
+"https://doi.org/10.21625/archive.v4i2.755"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W3126295316",
+"urls": [
+"https://dergipark.org.tr/tr/download/article-file/1268504"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3045758845",
+"urls": [
+"https://doi.org/10.1016/j.asej.2020.07.007",
+"https://doi.org/10.1016/j.asej.2020.07.007"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3081141583",
+"urls": [
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC7482577/",
+"https://doi.org/10.1098/rsif.2020.0358"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3114315116",
+"urls": [
+"https://doi.org/10.1016/j.cad.2020.102988"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3195233509",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S2095263521000455/pdf",
+"https://doi.org/10.1016/j.foar.2021.07.004"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3126988349",
+"urls": [
+"https://solarlits.com/jd/pdf/8-65.pdf",
+"https://doi.org/10.15627/jd.2021.5"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4376580580",
+"urls": [
+"https://oaj.fupress.net/index.php/techne/article/download/10687/9290",
+"https://doi.org/10.13128/techne-10687"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3195522020",
+"urls": [
+"https://link.springer.com/content/pdf/10.1007/s10098-021-02183-z.pdf",
+"https://doi.org/10.1007/s10098-021-02183-z"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3176502378",
+"urls": [
+"https://doi.org/10.1016/j.solener.2021.06.012"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3147588934",
+"urls": [
+"https://www.mdpi.com/2313-7673/6/2/24/pdf?version=1617937914",
+"https://doi.org/10.3390/biomimetics6020024"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3146426835",
+"urls": [
+"https://doi.org/10.1016/j.buildenv.2021.107809"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 3,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4200443174",
+"urls": [
+"https://doi.org/10.21608/auej.2021.207709",
+"https://jaes.journals.ekb.eg/article_207709_ef2c758c77c1346272ec9afec62c34e4.pdf",
+"https://doi.org/10.21608/auej.2021.207709"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3180361091",
+"urls": [
+"https://doi.org/10.14774/jkiid.2021.30.3.109"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3202285922",
+"urls": [
+"https://doi.org/10.14774/jkiid.2021.30.4.103"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4205378960",
+"urls": [
+"https://ijbes.utm.my/index.php/ijbes/article/download/820/248",
+"https://doi.org/10.11113/ijbes.v9.n1.820"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3178317561",
+"urls": [
+"https://www.mdpi.com/2071-1050/13/14/7658/pdf?version=1626325579",
+"https://doi.org/10.3390/su13147658"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W3189143346",
+"urls": [
+"https://www.mdpi.com/2073-4360/13/15/2554/pdf?version=1628155630",
+"https://doi.org/10.3390/polym13152554"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W3125987754",
+"urls": [
+"https://www.mdpi.com/2313-7673/6/1/8/pdf?version=1611659639",
+"https://doi.org/10.3390/biomimetics6010008"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4310191314",
+"urls": [
+"https://www.mdpi.com/2075-5309/12/12/2089/pdf?version=1669807819",
+"https://doi.org/10.3390/buildings12122089"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 3,
+"Q": 0,
+"R": 3,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4294815613",
+"urls": [
+"https://zenodo.org/records/7053117/files/V17I09A1.pdf",
+"https://doi.org/10.5281/zenodo.7053116"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4283021339",
+"urls": [
+"https://pure.ulster.ac.uk/en/publications/c9edff3c-f4e6-42d4-ae5a-5ecc19e9d16b",
+"https://doi.org/10.14455/isec.2022.9(1).aae-18"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 1,
+"S2": 1
+}
+},
+{
+"id": "W4307169713",
+"urls": [
+"https://doi.org/10.1080/23744731.2022.2122675"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 3,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4214628225",
+"urls": [
+"https://solarlits.com/jd/pdf/9-13.pdf",
+"https://doi.org/10.15627/jd.2022.2"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4283010217",
+"urls": [
+"https://doi.org/10.14455/isec.2022.9(1).aae-08"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4311475937",
+"urls": [
+"https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/article/download/1239/790",
+"https://doi.org/10.37934/araset.28.3.376392",
+"https://doi.org/10.37934/araset.28.3.376392"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4307328814",
+"urls": [
+"https://doi.org/10.21608/auej.2022.266223",
+"https://jaes.journals.ekb.eg/article_266223_3020d9324503bf8ab9022e4733151d6c.pdf",
+"https://doi.org/10.21608/auej.2022.266223"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4379046187",
+"urls": [
+"https://ojs.pjsr.com.pk/index.php/PJSR/article/download/1121/776",
+"https://doi.org/10.52567/pjsr.v5i02.1121"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4388802496",
+"urls": [
+"https://doi.org/10.1016/j.buildenv.2023.111052",
+"https://doi.org/10.1016/j.buildenv.2023.111052"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4389674785",
+"urls": [
+"https://www.mdpi.com/2313-7673/8/8/603/pdf?version=1702458069",
+"https://doi.org/10.3390/biomimetics8080603"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 3,
+"Q": 1,
+"R": 2,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4366825950",
+"urls": [
+"https://doi.org/10.21608/erjeng.2023.202799.1169",
+"https://doi.org/10.21608/erjeng.2023.202799.1169"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 2,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4393022345",
+"urls": [
+"https://ojs.wiserpub.com/index.php/GBCE/article/download/2270/1821",
+"https://doi.org/10.37256/gbce.4220232270"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4366819485",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202300340",
+"https://doi.org/10.1002/advs.202300340"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4387740884",
+"urls": [
+"https://doi.org/10.9734/bpi/rader/v9/1888g"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4378469556",
+"urls": [
+"https://doi.org/10.3389/fmats.2023.1126974",
+"https://doi.org/10.3389/fmats.2023.1126974"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4377982265",
+"urls": [
+"https://digitalcommons.bau.edu.lb/cgi/viewcontent.cgi?article=1229&context=apj",
+"https://doi.org/10.54729/2789-8547.1229"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4389061098",
+"urls": [
+"https://semarakilmu.com.my/journals/index.php/appl_mech/article/download/5118/2696",
+"https://doi.org/10.37934/aram.110.1.3751"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4320180578",
+"urls": [
+"https://solarlits.com/jd/pdf/10-1.pdf",
+"https://doi.org/10.15627/jd.2023.1"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4387621665",
+"urls": [
+"https://erjsh.journals.ekb.eg/article_319397_984b87b97df2938dde88c01f224e7790.pdf",
+"https://doi.org/10.21608/erjsh.2023.201094.1159"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4385684880",
+"urls": [
+"https://doi.org/10.1021/acsami.3c06178"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4401878386",
+"urls": [
+"https://vbn.aau.dk/da/publications/296aae8e-7989-4c98-8582-0170fab6d665",
+"https://doi.org/10.1108/sasbe-03-2024-0090"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4400455554",
+"urls": [
+"https://revistas.ubiobio.cl/index.php/RHS/article/download/6536/4905",
+"https://doi.org/10.22320/07190700.2024.14.01.03"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 2,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4400973452",
+"urls": [
+"https://doi.org/10.18682/cdc.vi239.11527",
+"https://doi.org/10.18682/cdc.vi239.11527"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4399269617",
+"urls": [
+"https://doi.org/10.11113/ijbes.v11.n2.1226",
+"https://doi.org/10.11113/ijbes.v11.n2.1226"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4392345015",
+"urls": [
+"https://doi.org/10.1016/j.matdes.2024.112807",
+"https://doi.org/10.1016/j.matdes.2024.112807"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 3,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4396799316",
+"urls": [
+"https://doi.org/10.25092/baunfbed.1395575",
+"https://doi.org/10.25092/baunfbed.1395575"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4391130956",
+"urls": [
+"https://www.mdpi.com/2071-1050/16/3/959/pdf?version=1705996390",
+"https://doi.org/10.3390/su16030959"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4392161292",
+"urls": [
+"https://doi.org/10.3389/fbuil.2024.1309621",
+"https://doi.org/10.3389/fbuil.2024.1309621"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4402642454",
+"urls": [
+"https://doi.org/10.3390/biomimetics9090569",
+"https://doi.org/10.3390/biomimetics9090569"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4391309640",
+"urls": [
+"https://www.mdpi.com/2071-1050/16/3/1145/pdf?version=1706544893",
+"https://doi.org/10.3390/su16031145"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4393950052",
+"urls": [
+"https://doi.org/10.2307/jj.11374766.7"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4402642068",
+"urls": [
+"https://doi.org/10.3390/biomimetics9090570",
+"https://doi.org/10.3390/biomimetics9090570"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4403492033",
+"urls": [
+"https://doi.org/10.3390/biomimetics9100630",
+"https://doi.org/10.3390/biomimetics9100630"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4390945033",
+"urls": [
+"https://www.mdpi.com/2071-1050/16/2/792/pdf?version=1705471153",
+"https://doi.org/10.3390/su16020792"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "ecosystem",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4400363290",
+"urls": [
+"https://doi.org/10.1016/j.rineng.2024.102493",
+"https://doi.org/10.1016/j.rineng.2024.102493"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 1,
+"S2": 2
+}
+},
+{
+"id": "W4393899445",
+"urls": [
+"https://www.mdpi.com/2079-6412/14/4/430/pdf?version=1712134254",
+"https://doi.org/10.3390/coatings14040430"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 4,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4402211996",
+"urls": [
+"https://doi.org/10.1201/9781003434313-4"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4396626884",
+"urls": [
+"https://doi.org/10.1088/1748-3190/ad475b",
+"https://doi.org/10.1088/1748-3190/ad475b"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4402989294",
+"urls": [
+"https://www.mdpi.com/2504-477X/8/10/389/pdf?version=1727681135",
+"https://doi.org/10.3390/jcs8100389"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7117577242",
+"urls": [
+"https://dergipark.org.tr/en/download/article-file/4682498",
+"https://doi.org/10.30785/mbud.1655963"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4410827699",
+"urls": [
+"https://www.mdpi.com/2075-5309/15/11/1853/pdf?version=1748423424",
+"https://doi.org/10.3390/buildings15111853"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4415351351",
+"urls": [
+"https://www.mdpi.com/2313-7673/10/10/711/pdf?version=1760970700",
+"https://doi.org/10.3390/biomimetics10100711"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4405976590",
+"urls": [
+"https://solarlits.com/jd/pdf/12-1.pdf",
+"https://doi.org/10.15627/jd.2025.1"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7225607301",
+"urls": [
+"https://ijrrt.com/index.php/ijrrt/article/download/263/125"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4412469123",
+"urls": [
+"https://doi.org/10.3390/buildings15142491",
+"https://doi.org/10.3390/buildings15142491"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 3,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4416311523",
+"urls": [
+"https://doi.org/10.3390/buildings15224130",
+"https://doi.org/10.3390/buildings15224130"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7126449531",
+"urls": [
+"https://doi.org/10.35429/h.2025.9.124.135",
+"https://doi.org/10.35429/h.2025.9.124.135"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4412992746",
+"urls": [
+"https://doi.org/10.1080/23744731.2025.2534771"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 2,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4412672969",
+"urls": [
+"https://doi.org/10.1016/j.enbuild.2025.116188",
+"https://doi.org/10.1016/j.enbuild.2025.116188"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4410917691",
+"urls": [
+"https://doi.org/10.1016/j.jobe.2025.112994",
+"https://doi.org/10.1016/j.jobe.2025.112994"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 3,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W7125506194",
+"urls": [
+"https://doi.org/10.23968/2500-0055-2025-10-4-3-16",
+"https://doi.org/10.23968/2500-0055-2025-10-4-3-16"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4415644017",
+"urls": [
+"https://www.mdpi.com/2075-5309/15/21/3878/pdf?version=1761572004",
+"https://doi.org/10.3390/buildings15213878"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 1,
+"S2": 1
+}
+},
+{
+"id": "W7110986062",
+"urls": [
+"https://doi.org/10.5281/zenodo.17854871",
+"https://doi.org/10.5281/zenodo.17854871"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4414251086",
+"urls": [
+"https://services.kfu.edu.sa/scientificjournal/Handlers/FileHandler.ashx?file=250018.pdf&Folder=UploadFiles",
+"https://doi.org/10.37575/b/eng/250018"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4414142719",
+"urls": [
+"https://www.mdpi.com/2673-8945/5/3/77/pdf?version=1757309736",
+"https://doi.org/10.3390/architecture5030077"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 1,
+"R": 3,
+"S1": 1,
+"S2": 1
+}
+},
+{
+"id": "W4408783783",
+"urls": [
+"https://doi.org/10.1016/j.jobe.2025.112415",
+"https://doi.org/10.1016/j.jobe.2025.112415"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4417152003",
+"urls": [
+"https://doi.org/10.9734/jsrr/2025/v31i123790",
+"https://doi.org/10.9734/jsrr/2025/v31i123790"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 3,
+"Q": 1,
+"R": 3,
+"S1": 1,
+"S2": 1
+}
+},
+{
+"id": "W4407259187",
+"urls": [
+"https://ojs.sin-chn.com/index.php/mcb/article/download/1353/669",
+"https://doi.org/10.62617/mcb1353"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 4,
+"Q": 1,
+"R": 1,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W4416161881",
+"urls": [
+"https://doi.org/10.18280/ijdne.200914",
+"https://doi.org/10.18280/ijdne.200914"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W4415497660",
+"urls": [
+"https://doi.org/10.1002/adma.202510988"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 3,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W7147728926",
+"urls": [
+"https://revistadearquitectura.ucatolica.edu.co/article/download/6187/6503",
+"https://doi.org/10.14718/revarq.2026.28.6187"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W7168280650",
+"urls": [
+"https://doi.org/10.1017/s2977905726100626",
+"https://doi.org/10.1017/s2977905726100626"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7162251881",
+"urls": [
+"https://doi.org/10.3390/buildings16112082",
+"https://doi.org/10.3390/buildings16112082"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 2
+}
+},
+{
+"id": "W7218746775",
+"urls": [
+"https://etnano.com/index.php/journal/article/download/323/312",
+"https://doi.org/10.56053/10.4.1855"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7203759272",
+"urls": [
+"https://doi.org/10.1016/j.egyr.2026.109591",
+"https://doi.org/10.1016/j.egyr.2026.109591"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 2,
+"S1": 1,
+"S2": 1
+}
+},
+{
+"id": "W7130524384",
+"urls": [
+"https://doi.org/10.22214/ijraset.2026.77493",
+"https://doi.org/10.22214/ijraset.2026.77493"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 0,
+"Q": 1,
+"R": 1,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W7147136617",
+"urls": [
+"https://periodicos.ufsc.br/index.php/erevistalogo/article/download/106305/61574",
+"https://doi.org/10.5007/2238-2542.2026.e106305"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W7225093547",
+"urls": [
+"https://www.ozguryayinlari.com/site/en/catalog/download/1578/8938/25403",
+"https://doi.org/10.58830/ozgur.pub1578.c6497"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "form",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7220376771",
+"urls": [
+"https://doi.org/10.3390/buildings16193944",
+"https://doi.org/10.3390/buildings16193944"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7125369352",
+"urls": [
+"https://doi.org/10.1126/scirobotics.ady7233"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7169876169",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S2590174526006471/pdf",
+"https://doi.org/10.1016/j.ecmx.2026.102164"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 3,
+"S1": 1,
+"S2": 2
+}
+},
+{
+"id": "W7131292504",
+"urls": [
+"https://public-pages-files-2025.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1750586/pdf",
+"https://doi.org/10.3389/fbuil.2026.1750586"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 3,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7161764687",
+"urls": [
+"https://doi.org/10.1016/j.buildenv.2026.114765",
+"https://doi.org/10.1016/j.buildenv.2026.114765"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7160285120",
+"urls": [
+"https://doi.org/10.31202/ecjse.1786255",
+"https://doi.org/10.31202/ecjse.1786255"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "material",
+"E": 1,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7213616468",
+"urls": [
+"https://visualcompublications.es/SAUC/article/download/6455/4821",
+"https://doi.org/10.66838/sauc.6455"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7237355816",
+"urls": [
+"https://actainnovations.com/index.php/pub/article/download/3822/2145",
+"https://doi.org/10.62441/actainnovations.v63i.3822"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7225346031",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.79422",
+"https://doi.org/10.1002/adfm.79422"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7203710185",
+"urls": [
+"https://doi.org/10.3992/jgb.21.3.427"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "ecosystem",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7139120559",
+"urls": [
+"https://doi.org/10.1016/j.jsamd.2026.101153",
+"https://doi.org/10.1016/j.jsamd.2026.101153"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7154833654",
+"urls": [
+"https://ijisem.com/journal/index.php/ijisem/article/download/483/449",
+"https://doi.org/10.69968/ijisem.2026v5i221-28"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7214095466",
+"urls": [
+"https://doi.org/10.3390/biomimetics11100688",
+"https://doi.org/10.3390/biomimetics11100688"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7127589056",
+"urls": [
+"https://berkeleypublications.com/bjerd/article/download/707/637",
+"https://doi.org/10.70382/bejerd.v10i5.012"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 3,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "W7135078717",
+"urls": [
+"https://doi.org/10.1016/j.susmat.2026.e01957",
+"https://doi.org/10.1016/j.susmat.2026.e01957"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7129341386",
+"urls": [
+"https://doi.org/10.6084/m9.figshare.31350625",
+"https://doi.org/10.6084/m9.figshare.31350625"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "W7213471928",
+"urls": [
+"https://doi.org/10.1021/acs.iecr.6c02176"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_05d4b2b7be5e",
+"urls": [
+"http://hdl.handle.net/10651/26298",
+"https://doi.org/10.1109/smartmile.2013.6708189"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_06e314333b15",
+"urls": [
+"https://doi.org/10.4028/www.scientific.net/ast.60.38",
+"https://doi.org/10.4028/www.scientific.net/ast.60.38"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_1b0d07fb34a2",
+"urls": [
+"https://dl.lib.uom.lk/bitstreams/d8420f3c-9661-424f-9c2b-b5f7b6a674da/download",
+"https://doi.org/10.31705/wcs.2026.2"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_1f358c740b6e",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S1876610217300243/pdf",
+"https://doi.org/10.1016/j.egypro.2017.03.007"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_2ff136fa5517",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S1877705815021293/pdf",
+"https://doi.org/10.1016/j.proeng.2015.08.474"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "process",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_34ade226bf2b",
+"urls": [
+"https://doi.org/10.52842/conf.caadria.2025.2.449"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_3a68146a27b6",
+"urls": [
+"https://doi.org/10.1117/12.2522089"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_3c4c67fc2025",
+"urls": [
+"https://doi.org/10.1108/sasbe-05-2025-0218"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "ecosystem",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_475fddc950e6",
+"urls": [
+"https://files.eccomasproceedia.org/papers/smart-2023/SM23_444680.pdf?mtime=20230927100159",
+"https://doi.org/10.7712/150123.9828.444680"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_553d37a31110",
+"urls": [
+"http://hdl.handle.net/2346/45278"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_57b397f95b19",
+"urls": [
+"https://doi.org/10.52842/conf.caadria.2013.107",
+"https://doi.org/10.52842/conf.caadria.2013.107"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_58569a45052d",
+"urls": [
+"https://hdl.handle.net/11511/88557",
+"https://doi.org/10.1109/icsmartgrid49881.2020.9144954"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "S2_5c17a34c72f3",
+"urls": [
+"https://doi.org/10.22260/isarc2019/0048"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_6cbf7ac2751e",
+"urls": [
+"https://repositorio.ufsc.br/bitstream/123456789/253995/1/889-900.pdf",
+"https://doi.org/10.29183/978-65-00-87779-3.sds2023.p889-900"
+],
+"items": {
+"B1": 1,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "S2_8a151608ae28",
+"urls": [
+"https://doi.org/10.1117/12.3010414"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_8ce7cf5a15b0",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S1876610218307975/pdf",
+"https://doi.org/10.1016/j.egypro.2018.09.252"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 1,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_9ad5da05d184",
+"urls": [
+"https://doi.org/10.4028/p-srt4zz",
+"https://doi.org/10.4028/p-srt4zz"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 0,
+"L": "form",
+"E": 3,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_9f898a56fe3b",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S1876610215018408/pdf",
+"https://doi.org/10.1016/j.egypro.2015.11.108"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "process",
+"E": 3,
+"Q": 0,
+"R": 3,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_a68d06ce7d1a",
+"urls": [
+"https://doi.org/10.31972/iceit2024.041"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "S2_aec2fa052802",
+"urls": [
+"https://doi.org/10.62744/cate.45273.1160-131-139"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_b15eec7497f3",
+"urls": [
+"https://doi.org/10.1109/iehns68708.2026.11607384"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 1,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "S2_baa272966115",
+"urls": [
+"https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/73/e3sconf_iced2023_01013.pdf",
+"https://doi.org/10.1051/e3sconf/202343601013"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 1,
+"S2": 0
+}
+},
+{
+"id": "S2_c0ea7bcfb608",
+"urls": [
+"https://iopscience.iop.org/article/10.1088/1755-1315/385/1/012058/pdf",
+"https://doi.org/10.1088/1755-1315/385/1/012058"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "form",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_c3fc4ba64f42",
+"urls": [
+"https://hdl.handle.net/11343/220707",
+"https://doi.org/10.26868/25222708.2013.2003"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 0,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_c5125cdc3b04",
+"urls": [
+"https://dl.lib.uom.lk/bitstreams/a21dd6c8-2bc9-4907-9ea7-3b6a5ec7ed29/download",
+"https://doi.org/10.31705/wcs.2026.78"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "unclear",
+"E": 1,
+"Q": 1,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_e0533a9060ed",
+"urls": [
+"http://papers.cumincad.org/data/works/att/acadia16_270.pdf",
+"https://doi.org/10.52842/conf.acadia.2016.270"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 1,
+"L": "material",
+"E": 2,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_e0a777ee8d27",
+"urls": [
+"https://iopscience.iop.org/article/10.1088/1755-1315/1530/1/012009/pdf",
+"https://doi.org/10.1088/1755-1315/1530/1/012009"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "process",
+"E": 2,
+"Q": 1,
+"R": 1,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_eeb488253652",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S1876610215007341/pdf",
+"https://doi.org/10.1016/j.egypro.2015.06.044"
+],
+"items": {
+"B1": 0,
+"B2": 0,
+"T1": 0,
+"L": "material",
+"E": 0,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_fd3d4825a948",
+"urls": [
+"http://eprints.uwe.ac.uk/39005/1/ABS%202018_L.Badarnah_UWE.pdf"
+],
+"items": {
+"B1": 1,
+"B2": 1,
+"T1": 1,
+"L": "material",
+"E": 1,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+},
+{
+"id": "S2_fdc14f307406",
+"urls": [
+"https://doi.org/10.52842/conf.ecaade.2021.2.463"
+],
+"items": {
+"B1": 1,
+"B2": 2,
+"T1": 0,
+"L": "material",
+"E": 3,
+"Q": 0,
+"R": 0,
+"S1": 0,
+"S2": 0
+}
+}
+]
