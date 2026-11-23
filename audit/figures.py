@@ -20,17 +20,18 @@ def arrow(ax, x1, y1, x2, y2):
     ax.annotate("", xy=(x2, y2), xytext=(x1, y1), arrowprops=dict(arrowstyle="-|>", color="#5a6b7a", lw=0.8))
 
 # 그림 1-1 연구 흐름
-fig, ax = plt.subplots(figsize=(6.3, 3.4)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
-cols = [("비판 문헌 고찰\n(제3장)", "인식론·성능·지속가능성\n·미학·윤리 4축\n→ 주장 C1~C5\n→ 판정 항목 10개"),
-        ("체계적 문헌 판정\n(제4~6장)", "OpenAlex·Semantic Scholar\n수집 530건 → 선별\n→ 1차 연구 193편 정독 판정\n→ 원문 표본 재판정"),
-        ("사례 분석\n(제7장)", "이전 연구의 생물 원리\n네 가지를 입력·상태·출력\n으로 재정의 → 일반 제어와\n대응·결과 재해석")]
-for k, (h, b) in enumerate(cols):
-    x = 0.03 + k * 0.33
-    box(ax, x, 0.66, 0.28, 0.22, h, fc="#e6eef5", bold=True)
-    box(ax, x, 0.24, 0.28, 0.36, b, fs=7.8)
-    if k < 2: arrow(ax, x + 0.285, 0.77, x + 0.325, 0.77)
-box(ax, 0.18, 0.02, 0.64, 0.15, "논의·결론(제8~9장): 주장 종류별 근거 조건과 보고 점검표", fc="#fbeee6", ec=ACC2, bold=True)
-for k in range(3): arrow(ax, 0.17 + k * 0.33, 0.24, 0.5, 0.17)
+fig, ax = plt.subplots(figsize=(6.4, 3.5)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
+cols = [("비판 문헌 고찰\n(제3장)", "인식론·성능·\n지속가능성·미학\n·윤리 4축\n→ 주장 C1~C5\n→ 판정 항목"),
+        ("1차 연구 판정\n(제4~6장)", "2개 DB 수집\n→ 193편 정독 판정\n→ 원문 표본 재판정\n→ 민감도 분석"),
+        ("담론·사례 대조\n(제7~8장)", "리뷰 71편 판정\n(보조 판정자 κ)\n대표 건물·실물\n사례 9건 판정"),
+        ("자기 사례 분석\n(제9장)", "생물 원리 규칙의\n이름 없는 재정의\n→ 원리에 충실한\n제어 새로 계산")]
+for k, (h, b_) in enumerate(cols):
+    x = 0.015 + k * 0.248
+    box(ax, x, 0.66, 0.215, 0.22, h, fc="#e6eef5", bold=True, fs=8)
+    box(ax, x, 0.24, 0.215, 0.36, b_, fs=7.4)
+    if k < 3: arrow(ax, x + 0.218, 0.77, x + 0.245, 0.77)
+box(ax, 0.16, 0.02, 0.68, 0.15, "논의·결론(제10~11장): 주장 종류별 근거 조건과 보고 점검표", fc="#fbeee6", ec=ACC2, bold=True)
+for k in range(4): arrow(ax, 0.12 + k * 0.248, 0.24, 0.5, 0.17)
 fig.savefig(OUT + "fig1_1_flow.png", bbox_inches="tight"); plt.close(fig)
 
 # 그림 3-1 비판 축 → 주장 → 판정 항목
